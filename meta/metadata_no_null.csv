@@ -1,0 +1,265 @@
+index,author,viaf_author_uri,title,date,gutenberg_id,genre,source,wc1,wc2,underwood_id,underwood_filename
+0,"Defoe, Daniel, 1661?-1731",http://viaf.org/viaf/39375774,A True Relation OF THE APPARITION OF ONE Mrs. VEAL The next Day after Her DEATH: TO ONE Mrs. BARGRAVE At Canterbury. The 8th of September 1705.,1706,36587,fic,ecc,4196,3908,DefoDTR,K060989.000.txt
+1,"Congreve, William, 1670-1729",http://viaf.org/viaf/24616924,INCOGNITA: OR LOVE AND DUTY RECONCIL'D. A NOVEL.,1713,2363,fic,ecc,22794,21573,CongWIO,K004609.000.txt
+2,"Defoe, Daniel, 1661?-1731",http://viaf.org/viaf/39375774,THE LIFE AND STRANGE SURPRIZING ADVENTURES OF ROBINSON CRUSOE Of YORK MARINER: Who lived Eight and Twenty Years all alone in an un-inhabited Island on the Coast of AMERICA near the Mouth of the Great River of OROONOQUE; Having been cast on Shore by Shipwreck wherein all the Men perished but himself.,1719,11866,fic,ecc,123262,114079,DefoDLS,K061280.000.txt
+3,"Defoe, Daniel, 1661?-1731",http://viaf.org/viaf/39375774,THE FARTHER ADVENTURES OF ROBINSON CRUSOE; Being the Second and Last Part OF HIS LIFE And of the STRANGE SURPRIZING ACCOUNTS of his TRAVELS Round three Parts of the Globe.,1719,561,fic,ecc,114531,108551,DefoDFA,K018256.000.txt
+4,"Defoe, Daniel, 1661?-1731",http://viaf.org/viaf/39375774,THE FORTUNES AND MISFORTUNES Of the FAMOUS Moll Flanders &c.,1721,370,fic,ecc,139327,129467,DefoDFM,K059793.000.txt
+5,"Carey, Henry, 1687?-1743",http://viaf.org/viaf/14965532,A Learned Dissertation ON DUMPLING; Its Dignity Antiquity and Excellence. With a Word upon PUDDING. AND Many other Useful Discoveries of great Benefit to the Publick.,1726,28105,fic,ecc,6300,5789,CareHLD,K099473.000.txt
+6,"Swift, Jonathan, 1667-1745",http://viaf.org/viaf/14777110,Gulliver's Travels into Several Remote Nations of the World,1726,829,fic,ecc,104516,97265,SwifJGT,SwifJGT.txt
+7,"Richardson, Samuel, 1689-1761",http://viaf.org/viaf/41845728,PAMELA: OR VIRTUE Rewarded. In a SERIES of FAMILIAR LETTERS FROM A Beautiful Young DAMSEL To her PARENTS. Now first Published In order to cultivate the Principles of VIRTUE and RELIGION in the Minds of the YOUTH of BOTH SEXES.,1741,6124,fic,ecc,104139,96265,RichSPO3,K089370.001.txt
+8,"Haywood, Eliza, 1693-1756",http://viaf.org/viaf/64027723,The Fortunate Foundlings,1744,10804,fic,ecc,102702,98283,HaywEFF,HaywEFF.txt
+9,"Richardson, Samuel, 1689-1761",http://viaf.org/viaf/41845728,CLARISSA. OR THE HISTORY OF A YOUNG LADY: Comprehending The most Important Concerns of Private LIFE And particularly shewing The DISTRESSES that may attend the Misconduct Both of PARENTS and CHILDREN In Relation to MARRIAGE. Published by the EDITOR of PAMELA. VOL. IV.,1748,9296;9798; 9881;10462;10462;10799;11889;12180;12398,fic,ecc,118071,110252,RichSCO3,K051638.004.txt
+10,"Smollett, Tobias George, 1721-1771",http://viaf.org/viaf/68935985,THE ADVENTURES OF Roderick Random.,1748,4085,fic,ecc,95467,88982,SmolTAR,K049357.001.txt
+11,"Fielding, Henry, 1707-1754",http://viaf.org/viaf/61545697,THE HISTORY OF TOM JONES A FOUNDLING.,1749,6593,fic,ecc,132154,125014,FielHHT2,K021151.002.txt
+12,"Lennox, Charlotte, ca. 1729-1804",http://viaf.org/viaf/100288562,THE Female QUIXOTE; OR THE ADVENTURES OF ARABELLA. In TWO VOLUMES. VOL. II.,1752,50054,fic,ecc,79547,75551,LennCFQ2,K060946.002.txt
+13,"Sterne, Laurence, 1713-1768",http://viaf.org/viaf/61552699,A Political Romance Addressed To  Esq OF YORK. To which is subjoined a KEY.,1759,20257,fic,ecc,8539,8188,SterLPR,K007192.000.txt
+14,"Sterne, Laurence, 1713-1768",http://viaf.org/viaf/61552699,THE LIFE AND OPINIONS OF TRISTRAM SHANDY GENTLEMAN.,1760,1079,fic,ecc,24004,22315,SterLLO,K027697.001.txt
+15,"Hawkesworth, John, 1715?-1773",http://viaf.org/viaf/85970662,EDGAR and EMMELINE: A FAIRY TALE.,1761,14013,fic,ecc,10648,9755,HawkJEE,K035521.000.txt
+16,"Walpole, Horace, 1717-1797",http://viaf.org/viaf/17231985,THE CASTLE of OTRANTO A STORY. Translated by WILLIAM MARSHAL Gent. From the Original ITALIAN of ONUPHRIO MURALTO CANON of the Church of St. NICHOLAS at OTRANTO.,1764,696,fic,ecc,36201,34368,WalpHCO,K054688.000.txt
+17,"Goldsmith, Oliver, 1728-1774",http://viaf.org/viaf/100167171,THE VICAR OF WAKEFIELD: A TALE. Supposed to be written by HIMSELF.,1766,2667,fic,ecc,31977,30171,GoldOVW,K113660.001.txt
+18,"Sterne, Laurence, 1713-1768",http://viaf.org/viaf/61552699,A SENTIMENTAL JOURNEY THROUGH FRANCE AND ITALY.,1768,804,fic,ecc,20972,19119,SterLSJ,K027660.001.txt
+19,"Burney, Fanny, 1752-1840",http://viaf.org/viaf/95297439,EVELINA; OR A YOUNG LADY's ENTRANCE INTO THE WORLD.,1779,6053,fic,ecc,79061,73536,BurnFEO,K127086.001.txt
+20,"Wollstonecraft, Mary",http://viaf.org/viaf/51697482,Mary,1788,16357,fic,ncf,23502,23375,WollMM,nofile
+21,"Hayley, William, 1745-1820",http://viaf.org/viaf/45100846,THE YOUNG WIDOW; OR THE HISTORY OF CORNELIA SEDLEY IN A SERIES OF LETTERS.,1789,7371,fic,ecc,78431,73072,HaylWYW,K101669.001.txt
+22,"Trusler, John, 1735-1820",http://viaf.org/viaf/66507465,Proverbs Exemplified AND ILLUSTRATED BY PICTURES FROM REAL LIFE.,1790,22500,fic,ecc,33895,32493,TrusJPE,K075478.000.txt
+23,"Inchbald, Mrs., 1753-1821",http://viaf.org/viaf/59084053,A SIMPLE STORY. IN FOUR VOLUMES.,1791,22002,fic,ecc,28308,26795,InchMSS,K106754.001.txt
+24,"Holcroft, Thomas, 1745-1809",http://viaf.org/viaf/56644486,ANNA ST. IVES: A NOVEL.,1792,9468,fic,ecc,29799,27926,HolcTAS7,K110238.007.txt
+25,"Holcroft, Thomas, 1745-1809",http://viaf.org/viaf/56644486,THE ADVENTURES OF HUGH TREVOR. BY THOMAS HOLCROFT.,1794,9811,fic,ecc,40425,37936,HolcTAH,K057530.001.txt
+26,"Radcliffe, Ann Ward, 1764-1823",http://viaf.org/viaf/64010774,THE MYSTERIES of UDOLPHO A ROMANCE; INTERSPERSED WITH SOME PIECES OF POETRY.,1794,3268,fic,ecc,69740,66852,RadcAMU2,K053903.004.txt
+27,"Cumberland, Richard, 1732-1811",http://viaf.org/viaf/76451457,HENRY; IN FOUR VOLUMES.,1795,43529,fic,ecc,66028,62389,CumbRHI,K092252.001.txt
+28,"Hays, Mary",http://viaf.org/viaf/29629662,Memoirs of Emma Courtney,1796,41256,fic,ncf,65119,64326,HaysMME,nofile
+29,"Lewis, M. G. (Matthew Gregory), 1775-1818",http://viaf.org/viaf/100160188,THE MONK: A ROMANCE.,1796,601,fic,ecc,38092,36111,LewiMMR,K105233.001.txt
+30,"Burney, Fanny",http://viaf.org/viaf/95297439,Camilla,1796,40619,fic,ncf,360966,351093,BurnFC,nofile
+31,"Brown, Charles Brockden, 1771-1810",http://viaf.org/viaf/49222478,WIELAND; OR THE TRANSFORMATION.,1798,792,fic,ecc,82795,78275,BrowCWO,K133366.000.txt
+32,"Godwin, William",http://viaf.org/viaf/68929729,St. Leon,1799,53707,fic,ncf,185721,183795,GodwWSL,nofile
+33,"Hays, Mary",http://viaf.org/viaf/29629662,Victim of prejudice,1799,1424,fic,ncf,48146,47608,HaysMVP,nofile
+34,"Brown, Charles Brockden, 1771-1810",http://viaf.org/viaf/49222478,ARTHUR MERVYN; OR MEMOIRS OF THE YEAR 1793.,1799,18508,fic,ecc,71965,67714,BrowCAM,K133067.000.txt
+35,"Brown, Charles Brockden, 1771-1810",http://viaf.org/viaf/49222478,ORMOND; OR THE SECRET WITNESS.,1800,36289,fic,ecc,95417,91534,BrowCOO,K104624.000.txt
+36,"Opie, Amelia Alderson",http://viaf.org/viaf/39410771,Adeline Mowbray,1805,37908,fic,19b,107537,104915,OpieAAM,nofile
+37,"Dacre, Charlotte",http://viaf.org/viaf/23386022,Zofloya,1806,45787,fic,19b,99585,97164,DacrCZ,nofile
+38,"Edgeworth, Maria",http://viaf.org/viaf/71477273,Leonora (Volume 1/2),1806,35638,fic,19b,37020,32231,EdgeMF,EdgeMF.txt
+39,"Morgan, Lady (Sydney)",http://viaf.org/viaf/107533016,Wild Irish girl,1807,54683,fic,19b,106055,103094,MorgLWI,nofile
+40,"More, Hannah",http://viaf.org/viaf/51802053,Coelebs in search of a wife,1809,31879,fic,19b,140192,137936,MoreHCI,nofile
+41,"Austen, Jane",http://viaf.org/viaf/102333412,Lady Susan,1810,946,fic,ncf,23343,22311,AustJLS,nofile
+42,"Porter, Jane",http://viaf.org/viaf/84690525,Scottish chiefs,1810,6086,fic,ncf,305987,301281,PortJSC,nofile
+43,"Brunton, Mary",http://viaf.org/viaf/34532515,Self-control,1811,41196,fic,ncf,184077,181800,BrunMS,nofile
+44,"Austen, Jane",http://viaf.org/viaf/102333412,Sense and sensibility,1811,161,fic,ncf,119654,118019,AustJSS,nofile
+45,"Edgeworth, Maria",http://viaf.org/viaf/71477273,The absentee,1812,1473,fic,ncf,102890,99984,EdgeMA,nofile
+46,"Austen, Jane",http://viaf.org/viaf/102333412,Pride and prejudice,1813,1342,fic,ncf,122333,119641,AustJPP,nofile
+47,"Barrett, Eaton Stannard",http://viaf.org/viaf/13033207,The Heroine,1814,43065,fic,ncf,90682,88353,BarrEH,nofile
+48,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Waverley,1814,45697,fic,ncf,200336,194529,ScotWW,nofile
+49,"Austen, Jane",http://viaf.org/viaf/102333412,Mansfield Park,1814,141,fic,ncf,160526,158585,AustJMP,nofile
+50,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Guy Mannering,1815,2590,fic,ncf,174143,168621,ScotWGM,nofile
+51,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Black dwarf,1816,1460,fic,ncf,58115,56383,ScotWBD,nofile
+52,"Austen, Jane",http://viaf.org/viaf/102333412,Emma,1816,158,fic,ncf,160414,156084,AustJE,nofile
+53,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Antiquary,1816,7005,fic,19b,169390,162542,ScotWA,nofile
+54,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Old mortality,1816,6941,fic,ncf,140860,135876,ScotWOM,nofile
+55,"Beckford, William",http://viaf.org/viaf/4926466,"Vathek, an Arabian tale",1816,42401,fic,ncf,45344,43102,BeckWVA,nofile
+56,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Rob Roy,1817,16828,fic,ncf,189622,183509,ScotWRR,nofile
+57,"Austen, Jane",http://viaf.org/viaf/102333412,Northanger Abbey,1818,121,fic,ncf,79827,78589,AustJNA,nofile
+58,"Ferrier, Susan",http://viaf.org/viaf/64052998,Marriage,1818,12669,fic,ncf,146699,143176,FerrSM,nofile
+59,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Heart of Mid-Lothian,1818,6942,fic,ncf,162196,156216,ScotWHM,nofile
+60,"Peacock, Thomas Love",http://viaf.org/viaf/17239611,Nightmare Abbey,1818,9909,fic,ncf,27274,25675,PeacTNA,nofile
+61,"Shelley, Mary Wollstonecraft",http://viaf.org/viaf/6293,Frankenstein,1818,6542,fic,ncf,72571,71773,ShelMF,nofile
+62,"Austen, Jane",http://viaf.org/viaf/102333412,Persuasion,1818,105,fic,ncf,83443,81993,AustJP,nofile
+63,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,A legend of Montrose,1819,1461,fic,ncf,89506,86478,ScotWLM,nofile
+64,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Ivanhoe,1819,26564,fic,ncf,193084,188064,ScotWI,nofile
+65,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Bride of Lammermoor,1819,471,fic,ncf,129312,125655,ScotWBL,nofile
+66,"Polidori, John William",http://viaf.org/viaf/32079702,The vampyre : a tale,1819,6087,fic,19b,13012,12308,PoliJVT,PoliJVT.txt
+67,"Maturin, Charles Robert",http://viaf.org/viaf/100248595,Melmoth the wanderer,1820,53685;53686;53687;53688,fic,ncf,242317,238456,MatuCMW,nofile
+68,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,The Abbot (Vol. 2/3),1820,6407,fic,19b,59591,55095,ScotWTA2,ScotWTA2.txt
+69,"Galt, John",http://viaf.org/viaf/61562976,Annals of the parish,1821,1310,fic,ncf,66797,64818,GaltJAP,nofile
+70,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Kenilworth,1821,1606,fic,ncf,187978,182647,ScotWK,nofile
+71,"Galt, John",http://viaf.org/viaf/61562976,The Ayrshire legatees,1821,1384,fic,ncf,50099,48267,GaltJAL,nofile
+72,"Badcock, John",http://viaf.org/viaf/37970367,"Real Life In London, Volumes I. and II. Or, The Rambles And Adventures Of Bob Tallyho, Esq., And His Cousin, The Hon. Tom Dashall, Through The Metropolis; Exhibiting A Living Picture Of Fashionable Characters, Manners, And Amusements In High And Low Life (1821)",1821,20484,fic,19b,253176,237570,BadcJRL,BadcJRL.txt
+73,"Galt, John",http://viaf.org/viaf/61562976,The provost,1822,1296,fic,ncf,55365,53442,GaltJP,nofile
+74,"Irving, Washington",http://viaf.org/viaf/295999941,"Bracebridge Hall, or, The humorists : a medley (Vol. 2/2)",1822,13515,fic,19b,61323,57226,IrviWBH2,IrviWBH2.txt
+75,"Galt, John",http://viaf.org/viaf/61562976,The spaewife; a tale of the Scottish chronicles (Vol. 2/3),1823,14681,fic,19b,48283,43144,GaltJST2,GaltJST2.txt
+76,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Quentin Durward,1823,7853,fic,ncf,195490,190327,ScotWQD,nofile
+77,"Galt, John",http://viaf.org/viaf/61562976,The entail,1823,44573,fic,ncf,147308,140784,GaltJE,nofile
+78,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,St. Ronan's well,1824,20749,fic,ncf,176611,171475,ScotWSR,nofile
+79,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Redgauntlet,1824,2516,fic,ncf,186137,180881,ScotWR,nofile
+80,"Edgeworth, Maria",http://viaf.org/viaf/71477273,Harry and Lucy concluded : being the last part of early lessons (Vol. 1/4),1825,9455,fic,19b,51329,48098,EdgeMHL,EdgeMHL.txt
+81,"Disraeli, Benjamin",http://viaf.org/viaf/49233448,Vivian Grey,1826,9840,fic,ncf,244636,236143,DisrBVG,nofile
+82,"Shelley, Mary Wollstonecraft",http://viaf.org/viaf/6293,Last Man,1826,18247,fic,ncf,175417,172610,ShelMLM,nofile
+83,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,"Woodstock : or, The cavalier; A tale of the year sixteen hundred and fifty-one (Vol. 1/3)",1826,9785,fic,19b,60887,56783,ScotWWC,ScotWWC.txt
+84,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Chronicles of the Canongate. Second series (Vol. 1/3),1828,1828,fic,19b,57960,54440,ScotWCC,ScotWCC.txt
+85,"Lytton, Edward Bulwer Lytton",http://viaf.org/viaf/99871326,Pelham,1828,7623,fic,ncf,175660,170687,LyttEP,nofile
+86,"Scott, Walter, Sir",http://viaf.org/viaf/95207079,Chronicles of the Canongate. Second series (Vol. 3/3),1828,1828,fic,19b,62124,57990,ScotWCC3,ScotWCC3.txt
+87,"Peacock, Thomas Love",http://viaf.org/viaf/17239611,Crotchet Castle,1831,2075,fic,ncf,37597,35416,PeacTCC,nofile
+88,"Godwin, William",http://viaf.org/viaf/68929729,St. Leon : a tale of the sixteenth century,1831,53707,fic,19b,189774,176222,GodwWSL2,GodwWSL2.txt
+89,"Shelley, Mary Wollstonecraft",http://viaf.org/viaf/6293,Frankenstein (revised),1831,6542,fic,ncf,77947,77100,ShelMFR,nofile
+90,"Cooper, James Fenimore",http://viaf.org/viaf/27062769,The bravo : a tale (Vol. 1/2),1831,10363,fic,19b,73057,68041,CoopJBT,CoopJBT.txt
+91,"Lytton, Edward Bulwer Lytton",http://viaf.org/viaf/99871326,Eugene Aram,1832,7614,fic,19b,156173,151598,LyttEEA,nofile
+92,"Lytton, Edward Bulwer Lytton, Baron",http://viaf.org/viaf/99871326,The last days of Pompeii (Vol. 1/3),1834,1565,fic,19b,62341,57381,LyttELD,LyttELD.txt
+93,"Marryat, Frederick",http://viaf.org/viaf/39380934,Peter Simple,1834,21577,fic,ncf,192793,190100,MarrFPS,nofile
+94,"Lytton, Edward Bulwer Lytton, Baron",http://viaf.org/viaf/99871326,The last days of Pompeii (Vol. 3/3),1834,1565,fic,19b,51587,47386,LyttELD3,LyttELD3.txt
+95,"Ainsworth, William Harrison",http://viaf.org/viaf/46894596,Rookwood (Vol. 1/3),1834,23564,fic,19b,54934,50535,AinsWRR.txt,AinsWRR.txt.txt
+96,"Dickens, Charles",http://viaf.org/viaf/88666393,Pickwick Papers,1837,580,fic,19b,302639,283635,DickCPP,nofile
+97,"Trollope, Frances Milton",http://viaf.org/viaf/34551336,Vicar of Wrexhill,1837,36686,fic,ncf,170886,168157,TrolFVW,nofile
+98,"Dickens, Charles",http://viaf.org/viaf/88666393,Oliver Twist,1838,730,fic,19b,159084,154605,DickCOT,nofile
+99,"Taylor, Meadows",http://viaf.org/viaf/27100030,Confessions of a thug,1839,44881,fic,19b,226487,220345,TaylMCT,nofile
+100,"Dickens, Charles",http://viaf.org/viaf/88666393,Nicholas Nickleby,1839,967,fic,ncf,324089,313068,DickCNN,nofile
+101,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Catherine,1839,1969,fic,ncf,71486,69280,ThacWC,nofile
+102,"Ainsworth, William Harrison",http://viaf.org/viaf/46894596,Jack Sheppard,1839,16215,fic,ncf,152895,149978,AinsWJS,nofile
+103,"Dickens, Charles",http://viaf.org/viaf/88666393,Barnaby Rudge,1840,9732,fic,19b,255037,249830,DickCBR,nofile
+104,"Ainsworth, William Harrison",http://viaf.org/viaf/46894596,"The Tower of London, a historical romance",1840,49850,fic,19b,201845,184877,AinsWTL,AinsWTL.txt
+105,"Marryat, Frederick",http://viaf.org/viaf/39380934,Poor Jack,1840,21575,fic,19b,144792,133118,MarrFPJ,MarrFPJ.txt
+106,"Dickens, Charles",http://viaf.org/viaf/88666393,The old curiosity shop,1840,700,fic,ncf,217816,214031,DickCOC,nofile
+107,"Lever, Charles James",http://viaf.org/viaf/32083550,"Charles O'Malley, the Irish dragoon (Vol. 2/2)",1841,8577,fic,19b,166165,151942,LeveCCO2,LeveCCO2.txt
+108,"Dickens, Charles",http://viaf.org/viaf/88666393,A Christmas carol,1843,19337,fic,19b,28575,27825,DickCCC,nofile
+109,"Disraeli, Benjamin",http://viaf.org/viaf/49233448,Coningsby,1844,7412,fic,ncf,159370,153493,DisrBC,nofile
+110,"Lever, Charles",http://viaf.org/viaf/32083550,Tom Burke Of ours,1844,31901,fic,ncf,339634,333181,LeveCTB,nofile
+111,"Dickens, Charles",http://viaf.org/viaf/88666393,Martin Chuzzlewit,1844,968,fic,19b,337422,326477,DickCMC,nofile
+112,"Lever, Charles James",http://viaf.org/viaf/32083550,St. Patrick's Eve,1845,32083,fic,19b,39024,37071,LeveCSP,LeveCSP.txt
+113,"Disraeli, Benjamin",http://viaf.org/viaf/49233448,Sybil,1845,3760,fic,ncf,158262,153730,DisrBS,nofile
+114,"Melville, Herman",http://viaf.org/viaf/27068555,Typee : a peep at Polynesian life. During a four months' residence in a valley of the Marquesas,1846,1900,fic,19b,114832,106420,MelvHTP,MelvHTP.txt
+115,"Melville, Herman",http://viaf.org/viaf/27068555,Omoo: a narrative of adventures in the South Seas,1847,4045,fic,19b,107574,99671,MelvHON,MelvHON.txt
+116,"Dickens, Charles",http://viaf.org/viaf/88666393,Dombey and Son,1848,821,fic,ncf,351356,338565,DickCDS,nofile
+117,"Newman, John Henry",http://viaf.org/viaf/17227308,Loss and gain,1848,24574,fic,ncf,106943,104929,NewmJLG,nofile
+118,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Vanity Fair,1848,599,fic,19b,305136,294294,ThacWVF,nofile
+119,"Gaskell, Elizabeth Cleghorn",http://viaf.org/viaf/39377536,Mary Barton,1849,2153,fic,ncf,161771,160385,GaskEMB,nofile
+120,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,"The history of Pendennis. His fortunes and misfortunes, his friends and his greatest enemy (Vol. 1/2)",1849,7265,fic,19b,181911,167564,ThacWHP,ThacWHP.txt
+121,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Pendennis,1849,7265,fic,ncf,355913,344149,ThacWP,nofile
+122,"Kingsley, Charles",http://viaf.org/viaf/27081838,Alton Locke,1850,8374,fic,ncf,151556,147810,KingCAL,nofile
+123,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Rebecca and Rowena,1850,2675_excerpt,fic,ncf,23495,22407,ThacWRR,nofile
+124,"Lever, Charles James",http://viaf.org/viaf/32083550,Roland Cashel,1850,33468;33469,fic,19b,272610,248485,LeveCRC,LeveCRC.txt
+125,"Dickens, Charles",http://viaf.org/viaf/88666393,David Copperfield,1850,766,fic,ncf,356647,343917,DickCDC,nofile
+126,"Borrow, George Henry",http://viaf.org/viaf/49240695,Lavengro,1851,20198,fic,ncf,222321,218722,BorrGL,nofile
+127,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Henry Esmond,1852,2511,fic,ncf,189242,183836,ThacWHE,nofile
+128,"Eastman, Mary Henderson",http://viaf.org/viaf/316763066,"Aunt Phillis's Cabin: Or, Southern Life As It Is",1852,16741,fic,19b,89261,84145,EastMAP,EastMAP.txt
+129,"Stowe, Harriet Beecher",http://viaf.org/viaf/32003151,"Uncle Tom's cabin or, Life among the lowly (Vol. 1/2)",1852,203,fic,19b,94020,84485,StowHUT,StowHUT.txt
+130,"Yonge, Charlotte Mary",http://viaf.org/viaf/71399881,Heir of Redclyffe,1853,2505,fic,ncf,234785,228367,YongCHR,nofile
+131,"Bronte, Charlotte",http://viaf.org/viaf/71388025,Villette,1853,9182,fic,ncf,194668,188804,BronCV,nofile
+132,"Dickens, Charles",http://viaf.org/viaf/88666393,Bleak House,1853,1023,fic,ncf,355323,342564,DickCBH,nofile
+133,"Gaskell, Elizabeth Cleghorn",http://viaf.org/viaf/39377536,Ruth,1853,4275,fic,ncf,161461,158841,GaskER,nofile
+134,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Newcomes,1854,7467,fic,ncf,365247,349733,ThacWN,nofile
+135,"Dickens, Charles",http://viaf.org/viaf/88666393,Hard times,1854,786,fic,ncf,103411,98416,DickCHT,nofile
+136,"Trollope, Anthony",http://viaf.org/viaf/61683295,Warden,1855,619,fic,ncf,72166,70414,TrolAW,nofile
+137,"Gaskell, Elizabeth Cleghorn",http://viaf.org/viaf/39377536,North and south,1855,4276,fic,ncf,183019,179999,GaskENS,nofile
+138,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,Barry Lyndon,1856,4558,fic,ncf,126533,123795,ThacWBL,nofile
+139,"Yonge, Charlotte Mary",http://viaf.org/viaf/71399881,Daisy chain,1856,3610,fic,ncf,298399,289634,YongCDC,nofile
+140,"Trollope, Anthony",http://viaf.org/viaf/61683295,Barchester Towers,1857,3409,fic,ncf,198854,191175,TrolABT,nofile
+141,"Hughes, Thomas",http://viaf.org/viaf/41888346,Tom Brown's school days,1857,1480,fic,ncf,105752,104100,HughTTB,nofile
+142,"Bronte, Charlotte",http://viaf.org/viaf/71388025,The professor,1857,1028,fic,ncf,88735,86320,BronCP,nofile
+143,"Dickens, Charles",http://viaf.org/viaf/88666393,Little Dorrit,1857,963,fic,ncf,339295,326422,DickCLD,nofile
+144,"Farrar, Frederic William",http://viaf.org/viaf/72172918,"Eric, or Little by Little",1858,23126,fic,ncf,94057,91995,FarrFE,nofile
+145,"Trollope, Anthony",http://viaf.org/viaf/61683295,Three clerks,1858,7481,fic,ncf,226480,220043,TrolATC,nofile
+146,"Trollope, Anthony",http://viaf.org/viaf/61683295,Doctor Thorne,1858,3166,fic,ncf,218017,213431,TrolADT,nofile
+147,"Ballantyne, R. M.",http://viaf.org/viaf/64050447,The Coral Island,1858,646,fic,ncf,99733,98698,BallRCI,nofile
+148,"Eliot, George",http://viaf.org/viaf/89000553,Scenes of clerical life,1858,17780,fic,ncf,143985,139801,ElioGSC,nofile
+149,"Thackeray, William Makepeace",http://viaf.org/viaf/95208604,The Virginians,1858,8123,fic,ncf,356395,346621,ThacWV,nofile
+150,"Dickens, Charles",http://viaf.org/viaf/88666393,A tale of two cities,1859,98,fic,ncf,136511,132348,DickCTT,nofile
+151,"Meredith, George",http://viaf.org/viaf/14773801,Ordeal of Richard Feverel,1859,4412,fic,ncf,193531,188024,MereGOR,nofile
+152,"Eliot, George",http://viaf.org/viaf/89000553,Adam Bede,1859,507,fic,ncf,215206,211670,ElioGAB,nofile
+153,"Collins, Wilkie",http://viaf.org/viaf/95173526,The woman in white,1860,2002,fic,ncf,247846,242451,CollWWI,nofile
+154,"Eliot, George",http://viaf.org/viaf/89000553,The mill on the floss,1860,6688,fic,ncf,207391,202447,ElioGMF,nofile
+155,"Trollope, Anthony",http://viaf.org/viaf/61683295,Framley Parsonage,1861,2860,fic,ncf,209197,201800,TrolAFP,nofile
+156,"Meredith, George",http://viaf.org/viaf/14773801,Evan Harrington,1861,4434,fic,ncf,183201,177967,MereGEH,nofile
+157,"Eliot, George",http://viaf.org/viaf/89000553,Silas Marner,1861,550,fic,ncf,71465,70196,ElioGSM,nofile
+158,"Reade, Charles",http://viaf.org/viaf/44314913,Cloister and hearth,1861,1366,fic,ncf,282641,273402,ReadCCH,nofile
+159,"Dickens, Charles",http://viaf.org/viaf/88666393,Great expectations,1861,1400,fic,ncf,185348,180490,DickCGE,nofile
+160,"Wood, Henry, Mrs.",http://viaf.org/viaf/14898332,East Lynne,1861,3322,fic,ncf,251369,245076,WoodHEL,nofile
+161,"Braddon, M. E.",http://viaf.org/viaf/66826682,Lady Audley's secret,1862,8954,fic,ncf,154126,150767,BradMLA,nofile
+162,"Collins, Wilkie",http://viaf.org/viaf/95173526,No name,1862,1438,fic,ncf,265464,257773,CollWNN,nofile
+163,"Kingsley, Charles",http://viaf.org/viaf/27081838,Water-babies,1863,1018,fic,ncf,68548,67113,KingCW,nofile
+164,"Gaskell, Elizabeth Cleghorn",http://viaf.org/viaf/39377536,Sylvia's lovers,1863,4537,fic,ncf,191035,186875,GaskESL,nofile
+165,"Reade, Charles",http://viaf.org/viaf/44314913,Hard cash,1863,3067,fic,ncf,263895,254543,ReadCHC,nofile
+166,"Eliot, George",http://viaf.org/viaf/89000553,Romola,1863,24020,fic,ncf,227906,219639,ElioGR,nofile
+167,"Oliphant, Mrs. (Margaret)",http://viaf.org/viaf/49256072,Salem Chapel,1863,42013;42044,fic,ncf,165575,163431,OlipMSC,nofile
+168,"Le Fanu, Joseph Sheridan",http://viaf.org/viaf/9849196,Uncle Silas,1864,14851,fic,ncf,164852,159424,LefaJUS,nofile
+169,"Trollope, Anthony",http://viaf.org/viaf/61683295,Can you forgive her?,1864,19500,fic,ncf,316421,308381,TrolACY,nofile
+170,"Charles, Elizabeth Rundle",http://viaf.org/viaf/95236972,Chronicles of the Schonberg-Cotta family,1864,36433,fic,ncf,172310,167945,CharECS,nofile
+171,"Trollope, Anthony",http://viaf.org/viaf/61683295,Small house at Allington,1864,4599,fic,ncf,257754,252356,TrolASH,nofile
+172,"Dickens, Charles",http://viaf.org/viaf/88666393,Our mutual friend,1865,883,fic,ncf,326321,311684,DickCOM,nofile
+173,"Lever, Charles James",http://viaf.org/viaf/32083550,Luttrell Of Arran,1865,35717,fic,19b,175075,163299,LeveCLA,LeveCLA.txt
+174,"Carroll, Lewis",http://viaf.org/viaf/66462036,Alice's adventures in Wonderland,1866,11,fic,ncf,26638,26643,CarrLAA,nofile
+175,"Eliot, George",http://viaf.org/viaf/89000553,Felix Holt,1866,40882,fic,ncf,182487,179088,ElioGFH,nofile
+176,"Collins, Wilkie",http://viaf.org/viaf/95173526,Armadale,1866,1895,fic,ncf,297660,290450,CollWA,nofile
+177,"Kingsley, Charles",http://viaf.org/viaf/27081838,Hereward the wake,1866,7815,fic,ncf,174499,167005,KingCHW,nofile
+178,"Gaskell, Elizabeth Cleghorn",http://viaf.org/viaf/39377536,Wives and daughters,1866,4274,fic,ncf,271717,267452,GaskEWD,nofile
+179,"Trollope, Anthony",http://viaf.org/viaf/61683295,Last chronicle of Barset,1867,3045,fic,ncf,345435,332840,TrolALC,nofile
+180,Ouida,http://viaf.org/viaf/34490941,Under two flags,1867,3465,fic,ncf,247326,239806,OuidUT,nofile
+181,"Collins, Wilkie",http://viaf.org/viaf/95173526,The moonstone,1868,155,fic,ncf,196879,192002,CollWM,nofile
+182,"Blackmore, R. D.",http://viaf.org/viaf/59105182,Lorna Doone,1869,17460,fic,ncf,272245,265431,BlacRLD,nofile
+183,"Burton, Richard Francis, Sir",http://viaf.org/viaf/29832058,"Vikram and the vampire; or, Tales of Hindu devilry",1870,48511,fic,19b,80878,72982,BurtRVV,BurtRVV.txt
+184,"Alcott, Louisa May",http://viaf.org/viaf/29528997,An old-fashioned girl,1870,2787,fic,19b,105924,96115,AlcoLOG,AlcoLOG.txt
+185,"Dickens, Charles",http://viaf.org/viaf/88666393,The mystery of Edwin Drood,1870,564,fic,ncf,94415,90345,DickCME,nofile
+186,"Disraeli, Benjamin",http://viaf.org/viaf/49233448,Lothair,1870,7835,fic,ncf,150996,145433,DisrBL,nofile
+187,"Collins, Wilkie",http://viaf.org/viaf/95173526,Man and wife,1870,1586,fic,ncf,230600,225214,CollWMW,nofile
+188,"MacDonald, George",http://viaf.org/viaf/64008667,At the back of the north wind,1871,225,fic,ncf,88969,88692,MacDGAB,nofile
+189,"Lytton, Edward Bulwer Lytton",http://viaf.org/viaf/99871326,Coming race,1871,1951,fic,ncf,52932,51783,LyttECR,nofile
+190,"Hardy, Thomas",http://viaf.org/viaf/54148778,Under the greenwood tree,1872,9437,fic,ncf,56738,55157,HardTUG,nofile
+191,"MacDonald, George",http://viaf.org/viaf/64008667,Princess and  goblin,1872,708,fic,ncf,51021,50527,MacDGPG,nofile
+192,"Carroll, Lewis",http://viaf.org/viaf/66462036,Through the looking-glass,1872,12,fic,ncf,29928,29813,CarrLTL,nofile
+193,"Butler, Samuel",http://viaf.org/viaf/49578292,Erewhon,1872,1906,fic,ncf,69357,68172,ButlSE,nofile
+194,"Trollope, Anthony",http://viaf.org/viaf/61683295,The Eustace diamonds,1873,7381,fic,ncf,269856,262214,TrolAED,nofile
+195,"Hardy, Thomas",http://viaf.org/viaf/54148778,A pair of blue eyes,1873,224,fic,ncf,131738,127677,HardTPB,nofile
+196,"Eliot, George",http://viaf.org/viaf/89000553,Middlemarch,1874,145,fic,ncf,318161,310399,ElioGM,nofile
+197,"Hardy, Thomas",http://viaf.org/viaf/54148778,Far from the madding crowd,1874,27,fic,ncf,137813,133419,HardTFF,nofile
+198,"Trollope, Anthony",http://viaf.org/viaf/61683295,Phineas Redux,1874,18640,fic,ncf,261919,253091,TrolAPR,nofile
+199,"Trollope, Anthony",http://viaf.org/viaf/61683295,The way we live now,1875,5231,fic,ncf,352781,342311,TrolAWW,nofile
+200,"Eliot, George",http://viaf.org/viaf/89000553,Daniel Deronda,1876,7469,fic,ncf,311581,301216,ElioGDD,nofile
+201,"Trollope, Anthony",http://viaf.org/viaf/61683295,Prime Minister,1876,2158,fic,ncf,283255,277996,TrolAPM,nofile
+202,"Meredith, George",http://viaf.org/viaf/14773801,Beauchamp's career,1876,4460,fic,ncf,192626,185549,MereGBC,nofile
+203,"Sewell, Anna",http://viaf.org/viaf/5052475,Black beauty,1877,271,fic,ncf,60080,59416,SeweABB,nofile
+204,"Russell, William Clark",http://viaf.org/viaf/33053756,The wreck of the Grosvenor,1878,44497; 44498; 44499,fic,ncf,127534,125128,RussWWG,nofile
+205,"Hardy, Thomas",http://viaf.org/viaf/54148778,Return of native,1878,122,fic,ncf,142610,137445,HardTRN,nofile
+206,"Meredith, George",http://viaf.org/viaf/14773801,Egoist,1879,1684,fic,ncf,188009,182112,MereGE,nofile
+207,"Eliot, George",http://viaf.org/viaf/89000553,Impressions of Theophrastus Such,1879,10762,fic,19b,59836,55305,ElioGIT,ElioGIT.txt
+208,"Twain, Mark",http://viaf.org/viaf/50566653,A Tramp Abroad,1880,119,fic,19b,159172,144285,TwaiMTA,TwaiMTA.txt
+209,"Disraeli, Benjamin, Earl of Beaconsfield",http://viaf.org/viaf/49233448,Endymion (Vol. 1/3),1880,7926,fic,19b,57723,51898,DisrBE,DisrBE.txt
+210,"Trollope, Anthony",http://viaf.org/viaf/61683295,Duke's children,1880,3622,fic,ncf,223913,218014,TrolADC,nofile
+211,"Hardy, Thomas",http://viaf.org/viaf/54148778,Trumpet-major,1880,2864,fic,ncf,113538,111419,HardTT,nofile
+212,"White, William Hale",http://viaf.org/viaf/79398669,Autobiography of Mark Rutherford,1881,3269,fic,ncf,42586,41953,WhitWAM,nofile
+213,"Jefferies, Richard",http://viaf.org/viaf/59140022,Bevis,1882,35930,fic,ncf,178090,175824,JeffRB,nofile
+214,"Schreiner, Olive",http://viaf.org/viaf/29554433,Story of an African farm,1883,1441,fic,ncf,100666,98988,SchrOSA,nofile
+215,"Stevenson, Robert Louis",http://viaf.org/viaf/95207986,Treasure Island,1883,120,fic,ncf,68496,67599,StevRTI,nofile
+216,"Ewing, Juliana Horatia Gatty",http://viaf.org/viaf/13120498,Jackanapes,1884,20351,fic,19b,10864,9987,EwinJJ,EwinJJ.txt
+217,"Jewett, Sarah Orne",http://viaf.org/viaf/44336104,A country doctor,1884,15294,fic,19b,92892,85720,JeweSCD,JeweSCD.txt
+218,"Howells, William Dean",http://viaf.org/viaf/95191935,The rise of Silas Lapham,1884,154,fic,19b,136686,119457,HoweWRS,HoweWRS.txt
+219,"Murfree, Mary Noailles",http://viaf.org/viaf/16014354,The prophet of the Great Smoky Mountains,1885,35619,fic,19b,68443,58867,MurfMPG,MurfMPG.txt
+220,"Meredith, George",http://viaf.org/viaf/14773801,Diana of the crossways,1885,4470,fic,ncf,152919,147543,MereGDC,nofile
+221,"Pater, Walter",http://viaf.org/viaf/19689601,"Marius, the Epicurean : his sensations and ideas (Vol. 1/2)",1885,4057; 4058,fic,19b,57613,54129,PateWME,PateWME.txt
+222,"Haggard, H. Rider",http://viaf.org/viaf/9841446,King Solomon's mines,1885,2166,fic,ncf,80773,78407,HaggHKS,nofile
+223,"Burnett, Frances Hodgson",http://viaf.org/viaf/27061925,Little Lord Fauntleroy,1886,479,fic,ncf,58719,57015,BurnFLL,nofile
+224,"Stevenson, Robert Louis",http://viaf.org/viaf/95207986,Strange case of Dr Jekyll and Mr Hyde,1886,26247,fic,ncf,25727,24931,StevRSC,nofile
+225,"Stevenson, Robert Louis",http://viaf.org/viaf/95207986,Kidnapped,1886,421,fic,ncf,80870,79149,StevRK,nofile
+226,"James, Henry",http://viaf.org/viaf/36920030,The Bostonians,1886,19717;19718,fic,19b,166140,154586,JameHB,JameHB.txt
+227,"Crawford, Francis Marion",http://viaf.org/viaf/4958780,A tale of a lonely parish,1886,13597,fic,19b,110362,102799,CrawFTL,CrawFTL.txt
+228,"Hardy, Thomas",http://viaf.org/viaf/54148778,Mayor of Casterbridge,1886,143,fic,ncf,113970,110448,HardTMC,nofile
+229,"Haggard, H. Rider",http://viaf.org/viaf/9841446,She,1887,3155,fic,ncf,112256,109140,HaggHS,nofile
+230,"Pater, Walter",http://viaf.org/viaf/19689601,Imaginary portraits,1887,4038,fic,19b,33715,31516,PateWIP,PateWIP.txt
+231,"Hardy, Thomas",http://viaf.org/viaf/54148778,Woodlanders,1887,482,fic,ncf,134170,129816,HardTW,nofile
+232,"Ward, Humphry, Mrs.",http://viaf.org/viaf/27084321,Robert Elsmere,1888,8737,fic,ncf,288118,278261,WardHRE,nofile
+233,"Stevenson, Robert Louis",http://viaf.org/viaf/95207986,Master of Ballantrae,1889,864,fic,ncf,85946,83875,StevRMB,nofile
+234,"Gissing, George",http://viaf.org/viaf/59083174,Nether world,1889,4301,fic,ncf,160790,157736,GissGNW,nofile
+235,"Doyle, Arthur Conan",http://viaf.org/viaf/65283845,The sign of four,1890,2097,fic,ncf,43137,42039,DoylASF,nofile
+236,"Meredith, George",http://viaf.org/viaf/14773801,One of our conquerors,1891,4476,fic,ncf,160281,152343,MereGOO,nofile
+237,"Gissing, George",http://viaf.org/viaf/59083174,New Grub Street,1891,1709,fic,ncf,186430,182104,GissGNG,nofile
+238,"Morris, William",http://viaf.org/viaf/22146194,News from nowhere,1891,3261,fic,ncf,77893,76907,MorrWNF,nofile
+239,"Wilde, Oscar",http://viaf.org/viaf/34464414,Picture of Dorian Gray,1891,174,fic,ncf,79108,77071,WildOPD,nofile
+240,"Kipling, Rudyard",http://viaf.org/viaf/7524679,Life's handicap; being stories of mine own people,1891,5777,fic,19b,143763,115761,KiplRLH,KiplRLH.txt
+241,"Hardy, Thomas",http://viaf.org/viaf/54148778,Tess of the D'Urbervilles,1891,110,fic,ncf,147552,142637,HardTTD,nofile
+242,"Grossmith, George",http://viaf.org/viaf/64144601,Diary of a nobody,1892,1026,fic,ncf,42231,39686,GrosGDN,nofile
+243,"Baring-Gould, Sabine",http://viaf.org/viaf/66640079,In the roar of the sea,1892,40631,fic,ncf,143581,138368,BariSIR,nofile
+244,"Ward, Humphry, Mrs.",http://viaf.org/viaf/27084321,The history of David Grieve (Vol. 1/3),1892,8076,fic,19b,96224,86071,WardHHD,WardHHD.txt
+245,"Doyle, Arthur Conan, Sir",http://viaf.org/viaf/65283845,The adventures of Sherlock Holmes,1892,1661,fic,19b,109410,98531,DoylAAS,DoylAAS.txt
+246,"Wallace, Lew",http://viaf.org/viaf/97214081,"The prince of India, or, Why Constantinople fell (Vol. 1/2)",1893,6848;6849,fic,19b,138033,127730,WallLPI,WallLPI.txt
+247,"Stevenson, Robert Louis",http://viaf.org/viaf/95207986,Island nights' entertainments,1893,329,fic,ncf,28634,28164,StevRIN,nofile
+248,"Gissing, George",http://viaf.org/viaf/59083174,Odd women,1893,4313,fic,ncf,139064,135156,GissGOW,nofile
+249,"Henty, George Alfred",http://viaf.org/viaf/69058592,Through the Sikh war; a tale of the conquest of the Punjaub,1894,53717,fic,19b,132090,122870,HentGTS,HentGTS.txt
+250,"Du Maurier, George",http://viaf.org/viaf/10144,Trilby (Vol. 1/3),1894,39858,fic,19b,37158,32714,DumaGT,DumaGT.txt
+251,"Moore, George",http://viaf.org/viaf/88634979,Esther Waters,1894,8157,fic,ncf,142261,139986,MoorGEW,nofile
+252,"Wells, H. G.",http://viaf.org/viaf/97006424,Time machine,1895,35,fic,ncf,32581,31788,WellHTM,nofile
+253,"Ward, Humphry, Mrs.",http://viaf.org/viaf/27084321,Story of Bessie Costrell,1895,12181,fic,ncf,23803,22645,WardHSB,nofile
+254,"Allen, Grant",http://viaf.org/viaf/48393117,The woman who did,1895,4396,fic,ncf,45667,44200,AlleGWW,nofile
+255,"Stevenson, Robert Louis",http://viaf.org/viaf/95207986,Weir of Hermiston,1896,380,fic,ncf,47876,45724,StevRWH,nofile
+256,"Hardy, Thomas",http://viaf.org/viaf/54148778,Jude the obscure,1896,153,fic,ncf,145515,142648,HardTJO,nofile
+257,"Hardy, Thomas",http://viaf.org/viaf/54148778,Well-beloved,1897,9438,fic,ncf,63053,61068,HardTW2,nofile
+258,"Gissing, George",http://viaf.org/viaf/59083174,Whirlpool,1897,4299,fic,ncf,162665,158292,GissGW,nofile
+259,"Stoker, Bram",http://viaf.org/viaf/17229847,Dracula,1897,345,fic,ncf,161169,156879,StokBD,nofile
+260,"Zangwill, Israel",http://viaf.org/viaf/56617927,Dreamers of the Ghetto,1898,29875,fic,19b,156317,144655,ZangIDG,ZangIDG.txt
+261,"Churchill, Winston",http://viaf.org/viaf/94507588,Richard Carvel,1899,5373,fic,19b,196922,177497,ChurWRC,ChurWRC.txt
+262,"Brown, George Douglas",http://viaf.org/viaf/7534248,The house with the green shutters,1901,25876,fic,ncf,89545,84348,BrowGHW,nofile
+263,"Butler, Samuel",http://viaf.org/viaf/49578292,The way of all flesh,1903,2084,fic,ncf,162911,159728,ButlSWA,nofile

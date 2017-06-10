@@ -1,0 +1,963 @@
+,actual,author,birthdate,date,doc_id,enumcron,final_genre,firstpub,gender,genretags,imprint,locnum,nationality,oclc,predicted,recordid,subjects,title,zscore
+767,1806,"Genlis, StÃ©phanie FÃ©licitÃ©,",1746,1806,uc1.$b522186,v.1,non_genre,1806,f,teamred | random,Londres;ImprimÃ© pour M. Peltier;1806.,,fr,14201458,1917.895434,8933396,,Madame de Maintenon,7.326022692
+790,1821,"Varty-Smith, Augusta A.",,1821,uc1.b254212,v. 1,non_genre,1821,f,teamred | random,London;R. ,PR5703.V43,uk,13377964,1909.080954,6504961,,Matthew Tindale,5.755760793
+764,1800,Anonymous5,1000,1909,sanskritdevasmita,,crime,1800,m,lockandkey | teamblack,from Somadeva,,in,,1880.069146,,"First pub, again, fictitious",Devasmita,5.227484022
+763,1834,"Pushkin, Alexander Sergeievich,",1799,1909,pushkinqueenofspades,,crime,1834,m,lockandkey | teamblack,,,ru,,1896.637617,,,The Queen of Spades,4.078096434
+765,1871,"Spielhagen, Friedrich,",1829,1909,spielhagenskeleton,,crime,1871,m,teamred | lockandkey | stew,,,ge,,1921.049185,,,The Skeleton in the House,3.248049537
+499,1884,"Chekhov, Anton,",1860,1909,chekhovsafetymatch,,crime,1884,m,teamred | lockandkey | stew,,,ru,,1933.701109,,,The Safety Match,3.225098375
+515,1764,Anonymous4,,1764,dul1.ark+=13960=t6446jc6s,v.2,non_genre,1764,,teamblack | random,"Naples, Pr",,uk,22883408,1812.533482,10943923,Italy;Anvi,The memoirs of Miss D'Arv,3.148108228
+498,1800,Anonymous8,1500,1909,arabicthreesharpers,,crime,1800,f,teamred | lockandkey | stew,from Thousand and One Nights,,ar,,1841.631733,,First pub is fictitious here. What can you do?,The Three Sharpers,2.693025726
+804,1826,"Radcliffe, Ann Ward,",1764,1826,uc1.b3575698,v.3,gothic,1826,f,teamred | pbgothic | stew,London;H. ,,uk,2810804,1866.753254,6677558,History;He,Gaston de Blondeville,2.635101208
+957,1877,"Verga, Giovanni,",1840,1909,vergacastleoftrezza,,crime,1877,m,lockandkey | teamblack,,,it,,1916.288304,,,The Castle of Trezza,2.538506371
+635,1764,"Walpole, Horace,",1717,1811,njp.32101067487007,,gothic,1764,m,teamred | pbgothic | stew,Edinburgh;,,uk,7121717,1801.739373,8958204,,The castle of Otranto;,2.436374056
+751,1771,"Mercier, Louis-SÃ©bastien,",1740,1802,nyp.33433081958500,,scifi,1771,m,teamblack | anatscifi,Liverpool;,,fr,3502928,1808.053172,8676577,Utopias in,Memoirs of the year two t,2.391127846
+549,1798,"Brown, Charles Brockden,",1771,1887,mdp.39015005076883,,gothic,1798,m,teamred | pbgothic,Philadelph,PZ3.B814 vol.1,us,819179,1834.514279,584495,,"Wieland; or, The transfor",2.355594706
+600,1780,"Campe, Joachim Heinrich,",1746,1788,mdp.39015078572263,v.1-2,non_genre,1780,m,teamblack | random,London;J. ,,ge,57015433,1816.012445,1420444,"Voyages, I",The new Robinson Crusoe;,2.322505181
+949,1820,"Irving, Washington,",1783,1873,uva.x000960744,,gothic,1820,m,teamblack | pbgothic,New York;G,PS2066.A1 1873,us,8523153,1854.170136,9776004,,The sketch-book of Geoffr,2.201028301
+305,1970,"Kurtz, Katherine,",1944,1970,20898,,scifi,1970,f,chifantasy | teamblack | chiscifi,New York B,,us,,2003.217087,,Science fi,Deryni rising,2.138186861
+563,1820,"Maturin, Charles Robert,",1782,1892,mdp.39015021040004,v.1,gothic,1820,m,teamblack | pbgothic | stew,London;R. ,,ir,4418502,1852.630984,1910357,,Melmoth the wanderer,2.09954086
+526,1824,"Cooper, James Fenimore,",1789,1832,hvd.hwjtfk,v.1,non_genre,1824,m,teamblack | random,Philadelph,,us,11743362,1856.317732,9719254,,The pilot;,2.078885835
+585,1922,"Squier, Emma-Lindsay,",1892,1922,mdp.39015063096088,,non_genre,1922,f,teamred | random,New York;C,PS3537.Q6W5 1922,us,3305841,1953.893766,5133156,Animals;Fi,The wild heart,2.050930691
+773,1838,"Poe, Edgar Allan,",1809,1838,uc1.31822038205001,,scifi,1838,m,teamblack | anatscifi | drop,London;Wil,PZ3.P752N2,us,3280190,1868.9652,10824291,,The narrative of Arthur G,1.989703545
+480,1922,"Sampson, Emma Speed,",1868,1922,4730,,non_genre,1922,f,chirandom | teamblack,Chicago Re,,us,,1952.55672,,Orphans --,The shorn lamb,1.962769493
+89,1948,"Williamson, Jack,",1908,1948,10923,,multi,1948,m,chifantasy | teamblack | chihorror | chiscifi,Pa. Fantas,,us,,1978.171722,,Werewolves,Darker than you think,1.937383812
+43,1936,"Latimer, Jonathan,",1906,1936,10494,,crime,1936,m,teamblack | chimyst,Garden Cit,,us,,1966.068775,,Mystery fi,Murder in the madhouse,1.930595724
+835,1777,"Reeve, Clara,",1729,1778,uc2.ark+=13960=t1td9p949,,gothic,1777,f,teamblack | pbgothic,London;E. ,,uk,3916924,1806.769168,7670886,,The old English baron,1.910840494
+76,1946,"Wellman, Manly Wade,",1903,1946,10834,,scifi,1946,m,teamred | chiscifi,New York P,,us,,1975.233259,,Science fi,The solar invasion,1.875504074
+504,1866,"Dostoevsky, Fyodor,",1821,1909,dostoevskypunishment,,crime,1866,m,teamred | lockandkey,,,ru,,1895.226566,,,Crime and Punishment,1.875062797
+157,1935,"Montgomery, L. M.",1874,1935,11472,,non_genre,1935,f,chirandom | teamblack,Toronto Mc,,ca,,1963.813507,,,Mistress Pat,1.847826832
+693,1790,"White, James,",,1790,nyp.33433074918784,v. 1,non_genre,1790,m,teamblack | random,London;Pri,,uk,5237679,1818.180488,8663985,1340-1399;,The adventures of John of,1.806087253
+573,1791,"Reeve, Clara,",1729,1791,mdp.39015033367668,v.1,gothic,1791,f,teamblack | stangothic,London;Printed for T. Hookham [etc.;1791.,PR3658.R5S3,uk,7082998,1819.074793,326939,,The school for widows,1.799118015
+176,1943,"Green, Henry,",1905,1943,11724,,non_genre,1943,m,chirandom | teamblack,London: Ho,,uk,,1970.293285,,England|Fi,Caught,1.74758749
+580,1826,"Banim, John,",1798,1826,mdp.39015051156498,v.3,non_genre,1826,m,teamred | random,London;W. ,,ir,66267484,1853.014915,282013,,Tales,1.729232516
+143,1931,"Rohmer, Sax,",1883,1931,11339,,crime,1931,m,teamblack | chimyst | stew,Garden Cit,,uk,,1957.824755,,"Fu Manchu,",Daughter of Fu Manchu,1.716693916
+471,1921,"Putnam, Nina Wilcox,",1888,1921,4605,,non_genre,1921,f,chirandom | teamred,New York G,,us,,1947.745613,,Broadway (,West Broadway,1.711475516
+442,1989,"Dunlap, Susan,",,1989,23075,,crime,1989,f,chirandom | teamred | chimyst | stew,New York V,,us,,2015.660253,,California,Pious deception,1.70584709
+684,1837,"Lover, Samuel,",1797,1837,nyp.33433074878889,,non_genre,1837,m,teamblack | random,New York;F,,ir,6298715,1863.386776,8666267,Ireland;Hi,Rory O'More,1.687814754
+665,1906,"Buckingham, Emma May.",,1906,nyp.33433068179716,,gothic,1906,f,teamred | locghost | stew,New York;F,BF1461.B9,,6599587,1932.328695,8622016,Ghost stor,Modern ghost stories,1.683985047
+164,1938,"Hyde, Robin,",1906,1938,11575,,non_genre,1938,f,chirandom | teamred,London Hur,,nz,,1964.250876,,Young wome,The godwits fly,1.678853925
+281,1966,"Pynchon, Thomas,",1937,1966,20709,,non_genre,1966,m,chirandom | teamblack,Philadelph,,us,,1992.238408,,California,The crying of lot 49,1.678031789
+639,1836,"Griffith, Mary,",1772,1836,njp.32101067645505,,scifi,1836,f,teamblack | locscifi,Philadelph,,us,12851342,1862.22018,8961936,Science fi,"Camperdown, or, News from",1.676829901
+615,1903,"Meyrink, Gustav,",1868,1909,meyrinkmanonthebottle,,crime,1903,m,teamred | lockandkey | stew,,,ge,,1929.051493,,,The Man on the Bottle,1.665707138
+852,1874,"Stockton, Frank Richard,",1834,1874,uc2.ark+=13960=t44q7rc7f,,non_genre,1874,m,teamblack | random,New York;D,PZ7.S866Wh,us,1383508,1899.918245,7673258,,What might have been expe,1.656921103
+492,1842,"Poe, Edgar Allan,",1809,1842,PoeMysteryMarieRoget1842,,crime,1842,m,teamred | det100 | stew, , ,us, ,1867.673255, ,,The Mystery of Marie Roget (short story),1.640767158
+465,1920,"Raine, William MacLeod,",1871,1920,4485,,non_genre,1920,m,chirandom | teamred,New York G,,us,,1945.248972,,,Oh: you Tex!,1.612791099
+603,1913,"Carson, James.",,1913,mdp.39015085433426,,crime,1913,m,teamblack | locdetmyst | stew,New York;C,,,4122645,1938.179489,5069382,Horses;Cow,The saddle boys of the Ro,1.608209533
+12,1924,"Bromfield, Louis,",1896,1924,10216,,non_genre,1924,m,chirandom | teamblack,New York G,,us,,1949.150306,,Ohio -- Ma,The green bay tree,1.606285306
+483,1948,"Derleth, August,",1909,1948,Derleth1948,,multi,1948,m,teamred | pbgothic | chiscifi,,,us,,1972.942017,,,Two stories by Derleth,1.592551268
+51,1940,"Rawson, Clayton,",1906,1940,10621,,crime,1940,m,teamred | chimyst | stew,New York G,,us,,1964.65162,,Magicians;,The headless lady,1.57340332
+523,1780,"Leprince de Beaumont,",1711,1798,hvd.hn6nee,v.2,non_genre,1780,f,teamblack | random,London;Printed for James Wallis ...;1798.,PQ1995.L75L5415 1798,fr,14355624,1804.471064,9712518,,Letters of Madame Du Montier,1.561497923
+605,1911,"Appleton, Victor.",,1911,mdp.39076002194574,,crime,1911,m,teamblack | locdetmyst | juvenile | drop,New York;G,,,1811552,1935.36464,9926874,Aeronautic,Tom Swift and his sky rac,1.554480636
+935,1786,"Beckford, William,",1760,1816,uiuo.ark+=13960=t9h41nx14,,gothic,1786,m,teamblack | pbgothic | stew,London;Pri,,uk,629922,1810.12553,8724075,,Vathek,1.538714357
+95,1950,"Coxe, George Harmon,",1901,1950,10983,,crime,1950,m,teamred | chimyst,New York A,,us,,1974.075494,,Mystery fi,The frightened fiancÃ¯Â¿Â_e,1.535415115
+799,1860,"Lawrence, George A.",1827,1860,uc1.b3324403,,non_genre,1860,m,teamred | random,Boston;Tic,,uk,10088557,1883.933972,6130930,,Sword and gown,1.526083556
+542,1837,"Hawthorne, Nathaniel,",1804,1915,mdp.39015002313487,,gothic,1837,m,teamblack | pbgothic,London;J. ,,us,1846344,1860.581822,478831,,Twice-told tales,1.502863768
+485,1868,"Ellis, Edward S.",1840,1880,EllisSteamManPrairies1868,,scifi,1868,m,teamblack | anatscifi | stew,,,us,,1891.557734,,,The Steam Man of the Prairies,1.501275448
+589,1794,"Gunning,",1740,1794,mdp.39015063931474,v.3,non_genre,1794,f,teamblack | random,London;J. ,PZ3.G954M,uk,23625332,1817.305598,245028,,Memoirs of Mary,1.484650263
+42,1936,"Gellhorn, Martha,",1908,1936,10490,,non_genre,1936,f,chirandom | teamred,London Put,,us,,1958.725723,,,The trouble I've seen,1.446414934
+707,1902,"Owen, Harle Oren.",,1902,nyp.33433074954656,,scifi,1902,m,teamred | locscifi,"Boston, Ma",PZ3.C9126W,us,10294318,1924.530266,8665125,Science fi,Welsh rarebit tales,1.433527018
+890,1847,"Froude, James Anthony,",1818,1847,uc2.ark+=13960=t9f47kt3k,,non_genre,1847,m,teamblack | random,London;J. ,PR 4706S52 1847,uk,367165,1869.517975,1023708,,Shadows of the clouds,1.432716539
+797,1853,"Irving, John Treat,",1812,1853,uc1.b3324210,,non_genre,1853,m,teamblack | random,New York;R,,us,28529437,1875.354071,6130834,,The attorney,1.421909178
+203,1952,"Brown, Fredric,",1906,1952,20049,,crime,1952,m,teamred | chimyst | stew,New York E,,us,,1974.222798,,Mystery fi,Deep end,1.413253419
+841,1858,"MacDonald, George,",1824,1874,uc2.ark+=13960=t2h70nx9q,v.1,gothic,1858,m,teamblack | pbgothic | stew,London;Dal,,uk,78798411,1880.000299,7705645,,Phantastes,1.398582432
+762,1896,"Palmarini, I. M.",1865,1909,palmarinishadows,,crime,1896,m,teamred | lockandkey,,,it,,1917.90404,,,Shadows,1.392235351
+63,1944,"Hughes, Dorothy B.",1904,1944,10746,,crime,1944,f,chifantasy | teamblack | chimyst,New York D,,us,,1965.787667,,Murder;Mys,The delicate ape,1.384562072
+749,1832,"Irving, Washington,",1783,1840,nyp.33433081585105,,gothic,1832,m,teamblack | pbgothic,Paris;Baud,,us,5797357,1853.295874,8644958,,Tales of the Alhambra,1.352134581
+148,1932,"Snow, C. P.",1905,1932,11384,,crime,1932,m,teamblack | chimyst | stew,Garden Cit,,uk,,1952.918989,,England;Ph,Death under sail,1.327283809
+260,1964,"Burroughs, William S.",1914,1964,20572,,scifi,1964,m,teamblack | chiscifi,New York G,,us,,1984.794055,,Science fi,Nova Express,1.319045967
+213,1953,"Lowndes, Robert W,",1916,1953,20106,,scifi,1953,m,teamred | chiscifi,Philadelph,,us,,1973.704789,,Science fi,Mystery of the third mine,1.313160009
+638,1878,"Auerbach, Berthold,",1812,1878,njp.32101067641678,,non_genre,1878,m,teamred | random,New York;H,PZ3.A917L,ge,1488706,1898.641506,7646450,,Landolin,1.308987347
+278,1966,"Dick, Philip K,",1928,1966,20684,,scifi,1966,m,chirandom | teamblack | chiscifi,Garden Cit,,us,,1986.592557,,Science fi,Now wait for last year,1.305759779
+620,1901,"Wells, H. G.",1866,1901,njp.32101021206436,,scifi,1901,m,teamblack | anatscifi | locscifi,Indianapol,PZ3.W465Fi2,uk,2160254,1921.584264,8886538,Science fi,The first men in the moon,1.305212943
+613,1847,"BrontÃ«, Charlotte,",1816,1907,mdp.39076006220979,v.2,gothic,1847,f,teamred | pbgothic | stew,Edinburgh;,,uk,4238315,1867.405307,9913820,,Jane Eyre,1.293413023
+783,1843,"Eastlake, Elizabeth,",1809,1846,uc1.b248744,,non_genre,1843,f,teamblack | random,London;J. ,,uk,3790961,1863.323425,6501566,,Livonian tales,1.288013922
+494,1841,"Poe, Edgar Allan,",1809,1841,PoeRueMorgue1841,,crime,1841,m,det100 | teamblack, , ,us, ,1861.318135, ,,The Murder in the Rue Morgue (short story),1.287665095
+732,1760,"Lesuire, Robert Martin,",1737,1764,nyp.33433075840177,,non_genre,1760,m,teamred | random,London;Pri,,fr,12901139,1780.209185,8671920,Social lif,The savages of Europe,1.280481231
+488,1920,"Lindsay, David,",1876,1920,LindsayVoyageToArcturus1920,,scifi,1920,m,teamred | chifantasy | anatscifi | stew,,,uk,,1940.052271,,,Voyage To Arcturus,1.270134764
+85,1948,"Queen, Ellery,",,1948,10911,,crime,1948,m,chirandom | det100 | teamblack | chimyst | cozy | stew,Boston Lit,,us,,1967.645274,,Sculptor;A,Ten days' wonder,1.243298497
+218,1954,"Manfred, Frederick Feikem",1912,1954,20151,,non_genre,1954,m,chirandom | teamred,New York M,,us,,1973.593792,,,Lord Grizzly,1.239903914
+642,1801,"Du Bois, Edward,",1774,1803,njp.32101068177094,vol.2,non_genre,1801,m,teamred | random,London;T.N. Longman and O. Rees;1803.,PZ3.D8515O2,uk,10370714,1820.331684,8969050,,Old Nick;,1.222621208
+788,1864,"Le Fanu, Joseph Sheridan,",1814,1864,uc1.b250128,v.2,multi,1864,m,sensation | pbgothic | teamblack | stew,London;R. ,,ir,5515317,1883.260469,6502425,,Uncle Silas,1.21792553
+495,1859,"Russell, William,",,1859,RecollectionsAD,,crime,1859,m,det100 | teamblack,,,uk,,1878.124848,,,Recollections of a Detect,1.208983005
+740,1891,"Ward, Herbert Dickinson,",,1891,nyp.33433076056781,,scifi,1891,m,teamblack | locscifi | stew,New York;T,PS3144.W212R46 1891,,20963778,1910.046063,6155283,Science fi,A republic without a pres,1.203788182
+14,1926,"Biggers, Earl Derr,",1884,1926,10250,,crime,1926,m,teamred | det100 | chimyst,Indianapol,,us,,1944.935121,,San Franci,Fifty candles,1.19647297
+956,1880,"Zhelikhovsky, Vera,",1835,1909,verajelihovskygeneralswill,,crime,1880,f,lockandkey | teamblack,,,ru,,1898.755902,,First pub a guess,The General's Will,1.184655701
+564,1794,"Bennett, Anna Maria,",,1794,mdp.39015021250124,v.1,non_genre,1794,f,teamred | random,London;Pri,,uk,6630561,1812.726311,282559,,"Ellen, Countess of Castle Howel",1.182704566
+612,1847,"BrontÃ«, Charlotte,",1816,1907,mdp.39076006220961,v.1,gothic,1847,f,teamred | pbgothic,Edinburgh;,,uk,4238315,1865.640919,9913820,,Jane Eyre,1.177074079
+65,1945,"Armstrong, Charlotte,",1905,1945,10765,,crime,1945,f,teamred | chimyst,New York C,,us,,1963.239196,,Mystery fi,The innocent flower,1.15058555
+25,1929,"Lewis, Sinclair,",1885,1929,10312,,non_genre,1929,m,chirandom | teamblack,New York H,,us,,1947.184421,,Retired ex,Dodsworth,1.146973852
+537,1914,"Seymour, St. John D.",,1914,inu.39000005852087,,gothic,1914,m,teamred | locghost,Dublin;Hod,,,2608863,1931.965981,1277225,Ireland;Gh,True Irish ghost stories,1.132570497
+0,1923,"Burroughs, Edgar Rice,",1875,1923,10008,,scifi,1923,m,teamred | chiscifi | stew,Chicago A.,,us,,1940.961636,,Science fi,Pellucidar,1.132283992
+850,1911,"Lummis, Charles Fletcher,",1859,1911,uc2.ark+=13960=t3xs5jt7k,,non_genre,1911,m,teamred | random,Chicago;A.,PZ3.L97Go2,us,4153323,1928.915498,7665238,,The gold fish of Gran Chi,1.129241766
+466,1920,"Stringer, Arthur,",1874,1920,4497,,non_genre,1920,m,chirandom | teamred,New York G,,us,,1937.85379,,,The prairie omnibus,1.125172911
+821,1845,"Poe, Edgar Allan,",1809,1909,uc2.ark+=13960=t0bv79z1x,,crime,1845,m,det100 | teamblack | drop,London;Sid,,us,2612191,1862.830668,7682514,,Selected tales of mystery,1.123648324
+842,1851,"Hawthorne, Nathaniel,",1804,1883,uc2.ark+=13960=t2r49vz0v,,gothic,1851,m,teamblack | pbgothic,Boston;Hou,,us,8198683,1868.729608,7699745,,The house of the seven ga,1.116984673
+880,1909,"Rinehart, Mary Roberts,",1876,1909,uc2.ark+=13960=t83j39v3z,,crime,1909,f,det100 | teamblack,New York;G,,us,37033520,1926.457617,7649263,,The man in lower ten,1.099050338
+102,1925,"Ford, Ford Madox,",1873,1925,11022,,non_genre,1925,m,chirandom | teamred,New York A,,uk,,1942.279813,,Great Brit,No more parades,1.087326429
+697,1865,"Williams, John Babbington",1827,1865,nyp.33433074929393,,crime,1865,m,teamred | locdetective | stew,New York;D,,us,25494127,1882.20665,8663988,Detectives,Leaves from the note-book,1.082502279
+502,1891,"Wilde, Oscar,",1854,1908,coo.31924014157121,,gothic,1891,m,teamblack | pbgothic,New York;B,,ir,18107497,1908.149604,11406079,,The picture of Dorian Gra,1.078740805
+39,1934,"Dickson, Carter,",1906,1934,10435,,crime,1934,m,chirandom | teamred | chimyst,New York W,,us,,1950.750669,,"Merrivale,",The Plague court murders,1.052436125
+817,1888,"Kipling, Rudyard,",1865,1899,uc1.b4104961,,gothic,1888,m,teamred | pbgothic,New York;H,,uk,5772680,1904.702719,590565,,The phantom rickshaw,1.049274432
+46,1937,"Steinbeck, John,",1902,1937,10531,,non_genre,1937,m,chirandom | teamred,New York Modern library 1937,,us,,1953.6861,743,Fiction in English;California;Ranch life;,Of mice and men,1.048178612
+960,1865,"Ouida,",1839,1877,wu.89099780959,,sensation,1865,f,teamred | sensation | stew,Philadelphia,,uk,,1881.681502,,,Strathmore,1.047875428
+699,1832,"Disraeli, Benjamin,",1804,1832,nyp.33433074937438,v. 1,non_genre,1832,m,teamblack | random,New York;H,,uk,13242846,1848.647118,8664338,English fi,Contarini Fleming;,1.045608227
+279,1966,"Herbert, Frank,",,1966,20694,,scifi,1966,m,teamred | chiscifi,New York B,,us,,1982.55463,,Science fi,The eyes of Heisenberg,1.039509828
+206,1952,"Powell, Richard,",1908,1952,20075,,crime,1952,m,chirandom | teamblack | chimyst,New York S,,us,,1968.476721,,Mystery fi,A shot in the dark,1.034372765
+809,1906,"Blackwood, Algernon,",1869,1915,uc1.b3578940,,gothic,1906,m,teamblack | pbgothic | stew,London;Eve,,uk,15217345,1922.437033,6678263,,The empty house,1.03175582
+44,1937,"Bristow, Gwen,",1903,1937,10514,,non_genre,1937,f,chirandom | teamblack,New York T,,us,,1952.999021,,Plantation,Deep summer,1.002874476
+26,1930,"Hammett, Dashiell,",1894,1930,10330,,crime,1930,m,hardboiled | det100 | teamblack | chimyst,New York; ,,us,,1945.950176,,Mystery fi,The Maltese falcon,0.999653812
+562,1820,"Maturin, Charles Robert,",1782,1892,mdp.39015021039998,v.2,gothic,1820,m,teamblack | pbgothic,London;R. ,,ir,4418502,1835.856074,1910357,,Melmoth the wanderer,0.99344895
+614,1853,"BrontÃ«, Charlotte,",1816,1905,mdp.49015001286492,,gothic,1853,f,teamblack | pbgothic,London;Smi,,uk,78080726,1868.793532,4511771,,Villette,0.989325136
+959,1898,"Bangs, John Kendrick,",1862,1898,wu.89069113231,,gothic,1898,m,teamred | locghost | stew,New York;H,,us,37709241,1913.718493,8995075,Ghost stor,Ghosts I have met and som,0.984377222
+496,1907,"Freeman, R. Austin,",1862,1907,RedThumbMark,,crime,1907,m,det100 | teamblack,,,uk,,1922.718315,,,The Red Thumb Mark,0.984365539
+915,1828,"Gaspey, Thomas,",1788,1828,uiuo.ark+=13960=t44q88m18,v.1,crime,1828,m,newgate | teamblack,London;H. ,,m,13323862,1843.4984,8720331,,History of George Godfrey,0.969864923
+544,1799,"Godwin, William,",1756,1832,mdp.39015003931113,,gothic,1799,m,teamred | pbgothic,London;H. ,,uk,62082920,1814.487298,392197,,St. Leon: a tale of the s,0.969132896
+22,1929,"Burroughs, Edgar Rice,",1875,1929,10301,,scifi,1929,m,teamred | chiscifi | stew,New York A,,us,,1944.451792,,Science fi,Tanar of Pellucidar,0.966791742
+187,1949,"Ferrars, E. X,",,1949,11882,,crime,1949,,chirandom | teamred | chimyst,Garden Cit,,uk,,1964.424911,,,The March Hare murders,0.965019254
+60,1943,"Queen, Ellery,",,1943,10723,,crime,1943,m,teamred | det100 | chimyst | cozy | stew,Boston Lit,,us,,1958.361707,,Mystery fi,There was an old woman,0.960851723
+246,1960,"Vance, Jack,",1916,1960,20433,,crime,1960,m,teamred | chimyst,New York R,,us,,1975.354749,,Mystery fi,The man in the cage,0.960392932
+774,1911,"Chesterton, G. K.",1874,1911,uc1.32106001930137,,crime,1911,m,teamred | det100 | locdetmyst,New York;J,,uk,993828,1926.34618,7123380,Clergy;Cat,The innocence of Father B,0.959827945
+198,1951,"MacDonald, John D.",1916,1951,20021,,scifi,1951,m,teamblack | chiscifi | stew,New York G,,us,,1966.269141,,Science fi,Wine of the dreamers,0.954748225
+677,1888,"Kipling, Rudyard,",1865,1898,nyp.33433074866686,,gothic,1888,m,teamblack | pbgothic | stew,Philadelph,,uk,421426,1903.264516,6156115,,Plain tales from the hill,0.954443226
+314,1971,"Pronzini, Bill,",1943,1971,20982,,crime,1971,m,teamred | chimyst,New York R,,us,,1986.261787,,Mystery fi,The stalker,0.954263308
+67,1945,"Hughes, Dorothy B. 1904- ",1904,1945,10778,,crime,1945,f,hardboiled | teamblack | chimyst,"Cleveland,",,us,,1960.235326,,Band direc,Dread journey,0.952518504
+782,1803,Anonymous7,,1803,uc1.b248234,v.1-2,non_genre,1803,,teamblack | random,London;Printed by the Philanthropic Society for W.J. and J. Richardson;1803.,,,30211695,1818.08795,6501224,,"Barbara Markham; or, The profligate requited;",0.942800985
+955,1880,"Aldrich, Thomas Bailey,",1836,1897,uva.x030832557,v.6 1897,crime,1880,m,teamred | det100,Boston;Hou,,us,21269234,1895.027454,9782899,,The stillwater tragedy,0.938812012
+954,1880,"Scudder, Horace Elisha,",1838,1880,uva.x030743237,,non_genre,1880,m,teamblack | random,Boston;Hou,PZ7.S437Do4,us,46702875,1895.000011,9776611,,Doings of the Bodley fami,0.937002534
+199,1951,"Merwin, Sam,",1910,1951,20026,,scifi,1951,m,chirandom | teamred | chiscifi,Garden Cit,,us,,1965.958832,,Science fi,The house of many worlds,0.934287252
+888,1858,"MacDonald, George,",1824,1874,uc2.ark+=13960=t9862rx2r,v.2,gothic,1858,m,teamblack | pbgothic,London;Dal,,uk,78798411,1872.948363,7705645,,Phantastes,0.933596978
+803,1826,"Radcliffe, Ann Ward,",1764,1826,uc1.b3575696,v.1,gothic,1826,f,teamblack | pbgothic,London;H. ,,uk,2810804,1840.852573,6677558,History;He,Gaston de Blondeville,0.92728082
+576,1785,"Lee, Sophia,",1750,1804,mdp.39015039369650,v.2,gothic,1785,f,teamblack | pbgothic | stew,London;T. ,,uk,32136573,1799.824119,167757,,The recess;,0.925404635
+116,1923,"Le Queux, William,",1864,1923,11109,,crime,1923,m,teamred | chimyst,New York M,,uk,,1937.778299,,Mystery fi,The voice from the void,0.922383421
+756,1907,"Hope, Laura Lee.",,1907,nyp.33433082332010,,crime,1907,f,teamred | locdetmyst | juvenile | drop,New York;G,PS3515.O585B603 1907,,9613473,1921.766912,5104160,Seashore;B,The Bobbsey twins at the ,0.921632621
+548,1841,"Dickens, Charles,",1812,1908,mdp.39015004880715,,gothic,1841,m,teamblack | pbgothic | stew,London;New,,uk,26687518,1855.719788,540357,,The old curiosity shop,0.918525355
+646,1843,"Poe, Edgar Allan,",1809,1884,njp.32101068601341,,gothic,1843,m,teamred | pbgothic,Leipzig;B.,,us,6629051,1857.460368,8973659,,Tales by Edgar Allan Poe,0.901419944
+146,1932,"Evans, Margiad,",1909,1932,11364,,non_genre,1932,f,chirandom | teamred,London Art,,uk,,1946.416749,,English fi,Country dance,0.898543811
+242,1960,"MacInnes, Helen,",1907,1960,20414,,non_genre,1960,f,chirandom | teamblack,New York H,,us,,1974.387357,,Conspiraci,Decision at Delphi,0.896605801
+253,1962,"Garrett, Randall,",1927,1962,20496,,scifi,1962,m,teamred | chiscifi | stew,Garden Cit,,us,,1976.374733,,Science fi,Unwise child,0.895773374
+250,1962,"Bradbury, Ray,",1920,1962,20480,,multi,1962,m,teamblack | chihorror | chiscifi,New York S,,us,,1976.333073,,Illinois;H,Something wicked this way,0.893026458
+336,1976,"Butler, Octavia E,",1947,1976,21304,,scifi,1976,f,teamred | chifantasy | chiscifi,Garden Cit,,us,,1990.258322,,Science fi,Patternmaster,0.888097521
+370,1979,"Braverman, Kate,",1950,1979,21603,,non_genre,1979,f,chirandom | teamblack,New York H,,us,,1993.241136,,Los Angele,Lithium for Medea,0.886964343
+656,1794,"Moser, Joseph,",1748,1794,nnc1.1002330709,v.2,non_genre,1794,m,teamred | random,London;179,,uk,35122360,1808.213514,8405386,,Turkish tales,0.885143027
+570,1834,"Ainsworth, William Harris",1805,1878,mdp.39015030996832,,multi,1834,m,teamred | newgate | stangothic,London;New,,uk,16389250,1848.094597,42246,,Rookwood,0.877301956
+36,1932,"Dos Passos, John,",1896,1932,10377,,non_genre,1932,m,chirandom | teamred,New York H,,us,,1946.093073,,Influence ,1919,0.877201452
+214,1953,"Pangborn, Edgar,",1909,1953,20114,,scifi,1953,m,chirandom | teamblack | chiscifi | stew,Garden Cit,,us,,1966.968029,,Science fi,West of the sun,0.868956407
+497,1897,"Stoker, Bram,",1847,1897,StokerDracula1897,,gothic,1897,m,teamblack | pbgothic | stew,,,ir,,1910.920608,,,Dracula,0.865829634
+572,1913,"Beresford, J. D.",1873,1913,mdp.39015031332862,,scifi,1913,m,teamred | anatscifi,London;W. ,PZ3.B45G,uk,8415311,1926.878422,472226,,Goslings,0.863047995
+875,1844,"Dickens, Charles,",1812,1844,uc2.ark+=13960=t7hq42c97,,non_genre,1844,m,teamblack | random,Philadelph,,uk,5369471,1857.850706,6672945,,Martin Chuzzlewit,0.86122044
+72,1946,"Sherman, Harold M.",1898,1946,10827,,scifi,1946,m,teamblack | chiscifi | stew,Chicago Ce,,us,,1959.803556,,Science fi,The green man,0.858111546
+493,1845,"Poe, Edgar Allan,",1809,1845,PoePurloinedLetter1845,,crime,1845,m,teamred | det100, , ,us, ,1858.727012, ,,The Purloined Letter (short story),0.853064433
+251,1962,"Burroughs, William S.",1914,1962,20481,,non_genre,1962,m,chirandom | teamblack,Paris Olym,,us,,1975.669333,,,The ticket that exploded,0.849261255
+928,1849,"Harris, Alexander,",1805,1849,uiuo.ark+=13960=t8pc3d497,v.2,non_genre,1849,m,teamblack | random,London;Smi,,au,34087352,1862.66282,8719495,,The emigrant family ;,0.848831792
+346,1977,"Anthony, Piers,",1934,1977,21390,,non_genre,1977,m,chifantasy | teamblack,New York B,,us,,1990.629746,,Fantasy;Xa,A spell for Chameleon,0.846650983
+919,1812,"Stanhope, Louisa Sidney.",,1812,uiuo.ark+=13960=t5z615j7x,v.1,gothic,1812,f,teamred | stangothic | stew,"London;Printed at the Minerva-Press, for A. K. Newman and Co.;1812.",,uk,7097044,1825.575572,8719007,,The confessional of Valombre,0.84307888
+37,1932,"Faulkner, William",1897,1932,10380,,gothic,1932,m,teamblack | pbgothic,New York: ,,us,,1945.550889,,Racially m,Light in August,0.841451328
+568,1867,"Gaboriau, Emile,",1832,1899,mdp.39015030307881,,crime,1867,m,det100 | teamblack,Boston;Lit,PZ3.G113F6,fr,22904937,1880.514989,1212443,,File no. 113,0.839084232
+5,1931,"Cummings, Ray,",1887,1931,10090,,scifi,1931,m,teamblack | chiscifi,New York A,,us,,1944.448444,,Science fi,Brigands of the moon,0.834696434
+205,1952,"Malamud, Bernard",1914,1952,20070,,non_genre,1952,m,chirandom | teamblack,New York: ,,us,,1965.431169,,Romance No,The natural,0.833557342
+247,1961,"Galouye, Daniel F,",1920,1961,20450,,scifi,1961,m,teamred | chiscifi | stew,New York B,,us,,1974.292731,,Science fi,Dark universe,0.824429096
+13,1925,"Burroughs, Edgar Rice,",1875,1925,10235,,scifi,1925,m,teamblack | chiscifi | stew,New York A,,us,,1938.262324,,Science fi,The moon men,0.822424192
+682,1796,"Lewis, M. G.",1775,1796,nyp.33433074874748,v. 3,gothic,1796,m,teamblack | pbgothic | stew,London;J. ,,uk,6566039,1809.189385,8665865,,The monk,0.817614752
+595,1832,"Galt, John,",1779,1832,mdp.39015063994266,v.3,non_genre,1832,m,teamred | random,London;H. ,,uk,1626459,1845.111512,779565,,Stanley Buxton;,0.812479998
+760,1920,"Bailey, Arthur Scott,",1877,1920,nyp.33433082524822,,non_genre,1920,m,teamblack | random,New York;G,,us,20434210,1933.051136,5959535,,The tale of Grumpy Weasel,0.808498979
+522,1829,"Vidocq, EugÃ¨ne FranÃ§ois,",,1834,hvd.32044020321865,,crime,1829,m,teamred | det100,,<blank>,fr,3859253,1841.937113,9721921,,Memoirs of Vidocq,0.800980632
+882,1832,"Hall, Anna Maria",1800,1832,uc2.ark+=13960=t8ff3s14j,v.3,crime,1832,f,teamred | locdetmyst | stew,London;R. ,,uk,14250735,1844.847438,7688518,Criminals;,The buccaneer,0.795067702
+945,1794,"Godwin, William,",1756,1856,uva.x000498882,V.1-2,gothic,1794,m,teamred | pbgothic | stew,New York;H,,uk,19769848,1806.834475,9780276,,The adventures of Caleb W,0.794212989
+99,1950,"Seton, Anya,",1904,1950,11007,,non_genre,1950,f,chirandom | teamblack,Chicago Sears Readers Club 1950,,us,,1962.771123,189,Romantic suspense fiction;Large type books;Married women;Arizona;Married women -- Arizona,Foxfire,0.790035673
+227,1956,"Del Rey, Lester,",1915,1956,20222,,scifi,1956,m,teamblack | chiscifi,Philadelph,,us,,1968.715217,,Science fi,Mission to the moon,0.786349399
+708,1853,"Dickens, Charles,",1812,1904,nyp.33433074954748,,crime,1853,m,teamred | det100,London;A. ,,uk,37223227,1865.607089,8668049,,Bleak house,0.779219731
+893,1821,"Scott, Walter,",1771,1838,ucm.5324200594,,non_genre,1821,m,teamred | random,Paris;Baud,,uk,,1833.418446,9654708,,Kenilworth,0.766781136
+469,1921,"Byrne, Donn,",1889,1921,4529,,non_genre,1921,m,chirandom | chifantasy | teamblack,New York C,,us,,1933.394187,,,Messer Marco Polo,0.765181594
+900,1807,"Mortimer, Edward,",,1807,uiuo.ark+=13960=t18k7vt5k,v.4,gothic,1807,m,teamred | stangothic,"London;Printed by J. Dennett, for J.F. Hughes;1807.",,uk,77209367,1819.272686,8719876,,The friar Hildargo,0.757170152
+114,1929,"Hammett, Dashiell,",1894,1929,11100,,crime,1929,m,hardboiled | det100 | teamblack | chimyst,New York; ,,us,,1941.21928,,Gangs;Unit,Red Harvest,0.75364865
+413,1986,"Dunlap, Susan,",,1986,22492,,crime,1986,f,teamblack | chimyst | stew,New York S,,us,,1998.173369,,California,The last annual slugfest,0.750621459
+594,1820,"Galt, John,",1779,1820,mdp.39015063967478,v.3,non_genre,1820,m,teamblack | random,Edinburgh;,,uk,66895091,1832.171602,779533,,The earthquake;,0.750504944
+619,1887,"Hudson, W. H.",1841,1906,njp.32101013621246,,scifi,1887,m,teamred | anatscifi,New York;E,,uk,10602436,1899.119372,8884062,,A crystal age,0.747060995
+150,1933,"Franklin, Miles,",1879,1933,11396,,crime,1933,f,chirandom | teamred | chimyst, Sydney : ,,au,,1945.082999,,,Bring the monkey,0.7446627
+490,1863,"Felix, Charles, pseud.",,1863,NottingHM,,non_genre,1863,m,teamred | blcrime,,,uk,,1875.075732,,,Notting Hill Mystery,0.744183494
+518,1899,"Wells, H. G.",1866,1899,dul1.ark+=13960=t80k32x0x,,scifi,1899,m,teamred | locscifi,New York;L,PZ3.W465Whe,uk,2338373,1910.958674,10944187,Science fi,When the sleeper wakes,0.736465059
+683,1899,"Hornung, E. W.",1866,1899,nyp.33433074876388,,crime,1899,m,teamred | det100,New York;C,,uk,11088221,1910.955662,8665032,English fi,The amateur cracksman,0.736266402
+168,1939,"Berkeley, Anthony,",1893,1939,11593,,crime,1939,,teamblack | chimyst,New York G,,uk,,1950.954996,,Mystery fi,Death in the house,0.736222524
+702,1888,"Besant, Walter,",1836,1888,nyp.33433074939723,,scifi,1888,m,teamblack | anatscifi | stew,New York;H,,uk,2016496,1899.952284,8664055,Fantasy fi,The inner house,0.736043716
+688,1788,"Smith, Charlotte,",1749,1788,nyp.33433074911508,v. 1,gothic,1788,f,teamred | pbgothic | stew,London;T. ,PR3688.S4E55,uk,7085107,1799.90284,1022801,,Emmeline,0.732783468
+248,1961,"Robbins, Harold,",1916,1961,20471,,non_genre,1961,m,chirandom | teamred,New York S,,us,,1972.802051,,Motion pic,The carpetbaggers,0.726137751
+40,1934,"Teilhet, Darwin L.",1904,1934,10460,,crime,1934,m,teamblack | chimyst,New York W,,us,,1945.786548,,Mystery fi,The talking sparrow murde,0.725115523
+719,1915,"Fowler, Ellen Thorneycrof",1860,1915,nyp.33433075741243,,non_genre,1915,f,teamred | random,New York;G,,uk,19903160,1926.538929,8665174,,Ten degrees backward,0.708788159
+910,1868,"Speight, T. W.",1830,1869,uiuo.ark+=13960=t3223k32d,v.2,crime,1868,m,det100 | teamblack | stew,London;Tin,,uk,57296189,1879.516025,8723979,,Under lock and key; a sto,0.707277934
+766,1891,Anonymous9,,1891,uc1.$b382267,,crime,1891,,teamblack | locdetmyst | stew,London;Cas,,,9118332,1902.512369,9260126,Detective ,Eleven possible cases,0.707036879
+57,1942,"Rice, Craig,",1908,1942,10688,,crime,1942,m,det100 | teamblack | chimyst,New York S,,us,,1953.502033,,Mystery fi,The big midget murders,0.706355394
+604,1921,"Seaman, Augusta Huiell,",1879,1921,mdp.39076002194368,,crime,1921,f,teamred | locdetmyst | juvenile | drop,New York;C,,us,23916790,1932.431535,9926721,Paper mone,The dragon's secret,0.701706933
+52,1940,"Reilly, Helen,",1890,1940,10622,,crime,1940,f,teamred | chimyst | stew,New York R,,us,,1951.325668,,Scottish A,The dead can tell,0.694726323
+107,1938,"Du Maurier, Daphne,",1907,1938,11061,,gothic,1938,f,teamred | pbgothic | stew,Garden Cit,,uk,,1949.303471,,England;En,Rebecca,0.693262744
+77,1946,"Welty, Eudora,",1909,1946,10835,,non_genre,1946,f,chirandom | teamblack,"New York: Harcourt, Brace & Co.",,us,,1957.297662,,,Delta Wedding,0.692879667
+243,1960,"McBain, Ed,",1926,1960,20417,,crime,1960,m,teamblack | chimyst | stew,New York S,,us,,1971.198168,,United Sta,Give the boys a great big,0.686319348
+695,1858,"Austin, Alfred,",1835,1858,nyp.33433074920608,v. 2,non_genre,1858,m,teamred | random,London;J.F,,uk,11850259,1869.142554,8663992,,Five years of it,0.682652322
+800,1890,"Lee, Vernon,",1856,1906,uc1.b3325448,,gothic,1890,f,teamred | pbgothic | stew,London;New,,uk,2155052,1901.114764,6131665,,Hauntings,0.680819916
+796,1906,"Cullum, Ridgwell,",1867,1913,uc1.b3324205,,non_genre,1906,m,teamblack | random,New York;A,,uk,4839101,1917.0692,6130830,,The night-riders;,0.67781553
+551,1910,"Mason, A. E. W.",1865,1910,mdp.39015006963881,,crime,1910,m,teamred | det100,New York;G,PZ3.M382At,uk,3692078,1921.027269,245776,,At the Villa Rose,0.675050749
+41,1935,"Lewis, Sinclair,",1885,1935,10476,,scifi,1935,m,teamred | chiscifi,Garden Cit,,us,,1946.016912,,Political ,It can't happen here,0.674367796
+561,1821,"Maturin, Charles Robert,",1782,1892,mdp.39015021039980,v.3,gothic,1821,m,teamred | pbgothic | stew,London;R. ,,ir,4418502,1832.015338,1910357,,Melmoth the wanderer,0.674264045
+478,1922,"Masters, Edgar Lee,",1868,1922,4708,,non_genre,1922,m,chirandom | teamred,New York M,,us,,1932.956243,,"Douglas, S",Children of the market pl,0.670367432
+531,1868,"Collins, Wilkie,",1824,1868,inu.30000007708815,,multi,1868,m,teamred | det100 | pbgothic,New York;H,PZ3.C697Mo2,uk,876882,1878.952035,6057734,,The moonstone,0.670089982
+287,1967,"Fox, Paula,",1923,1967,20737,,non_genre,1967,f,chirandom | teamblack,"New York Harcourt, Brace & Co. 1967",,us,,1977.891337,132,"Manhattan (New York, N.Y.);Suburban life;Juvenile delinquents",Poor George,0.666087739
+710,1790,"Radcliffe, Ann Ward,",1764,1792,nyp.33433074955091,v. 2,gothic,1790,f,teamred | pbgothic | stew,London;T. ,,uk,23642675,1800.864287,2104589,,A Sicilian romance,0.664304113
+643,1801,"Du Bois, Edward,",1774,1803,njp.32101068177102,vol.3,non_genre,1801,m,teamred | random,London;T.N. Longman and O. Rees;1803.,PZ3.D8515O2,uk,10370714,1811.819343,8969050,,Old Nick;,0.661340621
+32,1931,"Queen, Ellery,",,1931,10359,,crime,1931,m,teamred | det100 | chimyst,New York F,,us,,1941.642576,,Fathers an,The Dutch shoe mystery,0.649685133
+530,1894,"Doyle, Arthur Conan,",1859,1922,inu.30000007703436,,crime,1894,m,teamblack | locdetmyst,New York;A,,other,15749881,1904.634933,6057848,Private in,Memoirs of Sherlock Holme,0.64918118
+350,1977,"Foster, Alan Dean,",1946,1977,21423,,scifi,1977,m,chirandom | teamred | chiscifi,New York B,,us,,1987.601468,,Science fi,The end of the matter,0.646974585
+524,1761,"Rousseau, Jean-Jacques,",1712,1796,hvd.hw3q0s,v.3,non_genre,1761,m,teamred | random,Philadelph,PQ2039.A45,fr,10438442,1771.578661,9706391,,Eloisa: or A series of or,0.645470717
+533,1887,Anonymous3,,1887,inu.30000042783591,v.3,gothic,1887,,teamblack | locghost,London;G. ,,,3302677,1897.53647,6056230,Ghost stor,Dreamland and ghostland,0.642688776
+396,1982,"Wilcox, Collin,",1924,1982,22029,,crime,1982,m,teamblack | chimyst | stew,New York R,,us,,1992.466938,,"Hastings, ",Stalking horse,0.638103993
+481,1922,"Traprock, Walter E.",1877,1922,4748,,non_genre,1922,m,chirandom | teamblack,"New York; London G.P. Putnam's Sons,  : The Knickerbocker Press 1922",,us,,1932.437359,195,Arctic Regions;Arctic regions,My northern exposure,0.636153636
+798,1859,"De Forest, John William,",1826,1859,uc1.b3324220,,non_genre,1859,m,teamred | random,Boston;Phi,PZ3.D363S,us,2619996,1869.39183,6130842,,Seacliff;,0.633151605
+284,1966,"Zelazny, Roger,",1937,1966,20723,,scifi,1966,m,chifantasy | teamblack | chiscifi,New York; ,,us,,1976.246372,,Science fi,This immortal,0.623560477
+353,1977,"Sanders, Lawrence,",1920,1977,21469,,crime,1977,m,teamred | chimyst,New York P,,us,,1987.204126,,United Sta,The second deadly sin,0.620774922
+812,1863,"Trollope, Anthony,",1815,1863,uc1.b4101364,v.2,non_genre,1863,m,teamred | random,Leipzig;B.,,uk,5900255,1873.199888,6154524,,Rachel Ray,0.620495445
+961,1830,"Lytton, Edward Bulwer Lyt",1803,0,wu.89100297621,,crime,1830,m,teamred | newgate | stew,London;Rou,,uk,637830,1840.100411,9183449,,Paul Clifford,0.613936214
+210,1953,"Bradbury, Ray,",1920,1953,20088,,scifi,1953,m,teamblack | chiscifi | stew,New York B,,us,,1963.058557,,Political ,Fahrenheit 451,0.611176477
+592,1794,"Radcliffe, Ann Ward,",1764,1806,mdp.39015063950102,v.2,gothic,1794,f,teamred | pbgothic,London;Lon,,uk,44887870,1804.007023,781722,,The mysteries of Udolpho,0.607778475
+50,1939,"Stout, Rex,",1886,1939,10588,,crime,1939,m,teamred | det100 | chimyst,New York; ,,us,,1948.902738,,Indiana;My,Mountain cat Murders,0.600902235
+207,1952,"Spillane, Mickey,",1918,1952,20078,,crime,1952,m,chirandom | hardboiled | teamblack | chimyst | stew,New York E,,us,,1961.881595,,"Hammer, Mi",Kiss me: deadly,0.599508086
+54,1942,"Eberhart, Mignon Good",1899,1942,10661,,crime,1942,f,det100 | teamblack | cozy,New York: ,,us,,1951.840336,,Medical no,Wolf in man's clothing,0.596787571
+819,1894,"Morrison, Arthur,",1863,1907,uc1.b4105459,,crime,1894,m,det100 | teamblack,New York;H,,uk,4512180,1903.73368,6156317,,"Martin Hewitt, investigat",0.589754998
+130,1928,"Wright, S. Fowler,",1874,1928,11242,,scifi,1928,m,teamred | chifantasy | chiscifi,New York C,,uk,,1937.659722,,Science fi,The island of Captain Spa,0.584878376
+28,1930,"Kline, Otis Adelbert,",1891,1930,10337,,scifi,1930,m,teamblack | chiscifi,Chicago A.,,us,,1939.638542,,Science fi,The prince of peril,0.583481838
+849,1832,"Hall, Anna Maria",1800,1832,uc2.ark+=13960=t3rv0jp0n,v.1,crime,1832,f,teamred | locdetmyst | stew,London;R. ,,uk,14250735,1841.523383,7688518,Criminals;,The buccaneer,0.575888601
+342,1976,"Piercy, Marge,",1936,1976,21355,,scifi,1976,f,chiutopia | chiscifi | teamred,New York A,,us,,1985.51795,,Psychiatri,Woman on the edge of time,0.575530312
+930,1826,"Shelley, Mary Wollstonecr",uk,1826,uiuo.ark+=13960=t8x92v101,v.3,scifi,1826,f,teamred | femscifi,London;H. ,PZ3.S545L2,uk,2554632,1835.501332,1692807,,The last man,0.574434622
+225,1956,"Coxe, George Harmon,",1901,1956,20218,,crime,1956,m,teamblack | chimyst,New York A,,us,,1965.498163,,Mystery fi,Man on a rope,0.57422567
+558,1890,AnonymousGhost2,,1890,mdp.39015012876820,,gothic,1890,,teamblack | locghost | stew,New York;H,,,52047650,1899.487857,1901293,Ghost stor,Modern ghosts,0.573546088
+144,1931,"Williams, Charles,",1886,1931,11349,,non_genre,1931,m,chirandom | teamblack,London Vic,,uk,,1940.412177,,Paranormal,Many dimensions,0.568555965
+703,1906,"Chambers, Robert W.",1865,1906,nyp.33433074941562,,crime,1906,m,teamred | det100 | stew,New York;D,,us,577209,1915.406968,7915295,,The tracer of lost person,0.568212461
+124,1926,"Fraser, Ronald,",1888,1926,11166,,non_genre,1926,m,teamred | chifantasy,New York B,,uk,,1935.370521,,Fantasy fi,Flower phantoms,0.565809269
+787,1864,"Le Fanu, Joseph Sheridan,",1814,1864,uc1.b250127,v.1,multi,1864,m,teamred | sensation | pbgothic | stew,London;R. ,,ir,5515317,1873.348565,6502425,,Uncle Silas,0.564361552
+221,1954,"Robbins, Harold,",1916,1954,20163,,non_genre,1954,m,chirandom | teamblack,New York Avon Publications 1954,,us,,1963.318149,90,Big business;Businessmen;New York (N.Y.);Psychological fiction,Never leave me,0.562356035
+853,1893,"Griffith, George Chetwynd",1857,1894,uc2.ark+=13960=t45q4sn3p,,scifi,1893,m,teamblack | anatscifi,London;Tow,,uk,2110319,1902.307028,7660654,Science fi,The angel of the revoluti,0.561622717
+513,1826,"Shelley, Mary Wollstonecr",1797,1833,dul1.ark+=13960=t41r7h934,v.2,scifi,1826,f,teamblack | femscifi | stew,Philadelph,,uk,982656,1835.253806,10944411,,The last man,0.558113415
+802,1871,"McWatters, George S",1812,1871,uc1.b3386909,,crime,1871,m,teamred | locdetective,Hartford;J,HV7914.M3,,2567964,1880.184566,6284127,Detectives,Knots untied,0.553547879
+219,1954,"Matheson, Richard,",1926,1954,20152,,multi,1954,m,teamred | pbgothic | chihorror | chiscifi,Garden Cit,,us,,1963.126552,,Vampires;E,I am legend,0.549722606
+86,1948,"Skinner, B. F.",1904,1948,10916,,scifi,1948,m,chirandom | chiutopia | teamblack,New York M,,us,,1957.111382,,Gesellscha,Walden Two,0.548722323
+845,1908,"Rinehart, Mary Roberts,",1876,1908,uc2.ark+=13960=t3707xt9q,,crime,1908,f,teamred | det100 | locdetmyst,New York :,,us,4280505,1917.073945,7671080,,The circular staircase,0.546253849
+226,1956,"Crane, Frances,",1890,1956,20219,,crime,1956,f,teamblack | chimyst,New York R,,us,,1964.962486,,Indians of,Horror on the Ruby X,0.538904582
+805,1911,"Crawford, F. Marion",1854,1911,uc1.b3578339,,gothic,1911,m,teamred | pbgothic | stew,New York;M,,us,822499,1919.947814,6674546,,Wandering ghosts,0.537937124
+296,1969,"Davis, Gwen,",1936,1969,20820,,non_genre,1969,f,chirandom | teamred,New York W,,us,,1977.945719,,,The pretenders,0.537798998
+913,1803,"Young, Mary Julia.",1770,1803,uiuo.ark+=13960=t3xs6cp6m,v.2,gothic,1803,f,teamred | stangothic | stew,London;Printed by D.N. Shury for Crosby and Hughes;1803.,,uk,13323844,1811.907918,8722931,,"Right and wrong; or, The kinsmen of Naples",0.53530646
+33,1931,"Schuyler, George S.",1895,1931,10361,,scifi,1931,m,teamblack | chiscifi,New York M,,us,,1939.785582,,Humorous f,Black no more,0.527239975
+769,1876,"Pinkerton, Allan,",1819,1905,uc1.$b813705,,crime,1876,m,locdetective | teamblack,New York;D,,us,,1884.730285,9946595,Detectives,The spiritualists and the,0.52359383
+581,1823,"Lockhart, J. G.",1794,1823,mdp.39015059372105,v.2,non_genre,1823,m,teamblack | random,Edinburgh;William Blackwood;1823.,,uk,2275988,1831.72085,538804,,Reginald Dalton,0.522971716
+545,1818,"Shelley, Mary Wollstonecr",1797,1891,mdp.39015004200997,,multi,1818,f,stangothic | femscifi | teamred | stew,London;G. ,,uk,14770844,1826.628328,1774603,,Frankenstein,0.516871074
+479,1922,"Paine, Ralph Delahaye,",1871,1922,4720,,non_genre,1922,m,chirandom | teamred | juvenile | drop,Philadelph,,us,,1930.622128,,Pirates --,Blackbeard: buccaneer,0.516462281
+771,1818,"Austen, Jane,",1775,1922,uc1.31158008377706,,gothic,1818,f,teamblack | pbgothic,London;Tor,,uk,1215156,1826.618405,439042,,Northanger abbey,0.516216782
+525,1837,"Dickens, Charles,",1812,1843,hvd.hwjme4,,crime,1837,m,newgate | teamblack | stew,Leipzig;B.,,uk,1980800,1845.613502,9730346,,Oliver Twist,0.515893523
+632,1861,"Wood, Ellen,",1814,1877,njp.32101067187755,,sensation,1861,f,sensation | teamblack | stew,New York,,uk,,1869.604352,,,East Lynne,0.515290191
+855,1894,"Henty, G. A.",1832,1894,uc2.ark+=13960=t48p64044,,non_genre,1894,m,teamblack | random,New York;C,,uk,1563316,1902.600754,5549075,History;17,When London burned,0.51505292
+122,1925,"Knox, Ronald Arbuthnott,",1888,1925,11148,,crime,1925,m,teamred | chimyst,London Met,,uk,,1933.516875,,Mystery an,The viaduct murder,0.509522207
+843,1917,"Kerr, Doris Boake,",1889,1917,uc2.ark+=13960=t3125st2r,,non_genre,1917,f,teamred | random,Melbourne;,,au,11295112,1925.466832,7664297,,Painted clay,0.50622246
+141,1931,"Armstrong, Martin,",1882,1931,11316,,non_genre,1931,m,chirandom | teamblack,London V. ,,uk,,1939.423475,,,The romantic adventures o,0.50336367
+936,1826,Anonymous2,,1826,umn.31951002081141q,,gothic,1826,,teamred | locghost | stew,London;She,,uk,62602383,1834.399149,8560131,Ghost stor,Legends of terror!,0.501759664
+718,1890,"Franzos, Karl Emil,",1848,1891,nyp.33433075737753,,non_genre,1890,m,teamred | random,New York;H,PZ3.F859Ju,ah,4966570,1898.35893,8669383,,Judith Trachtenberg,0.49910769
+586,1818,"Opie, Amelia Alderson,",1769,1818,mdp.39015063556271,v.1,non_genre,1818,f,teamred | random,London;Lon,PR5115.O3N4,uk,13352959,1826.296686,5232730,,New tales,0.49500353
+567,1878,"Collins, Wilkie,",1824,1878,mdp.39015026244999,,gothic,1878,m,teamred | pbgothic | stew,Toronto;Ch,,uk,37217567,1886.296215,123462,,The haunted hotel,0.494972439
+863,1879,"Adams, Robert Chamblet,",1839,1879,uc2.ark+=13960=t5db7zr5v,,non_genre,1879,m,teamblack | random,Boston;D. ,G540.A3,us,5814567,1887.250608,6515288,Seafaring ,"On board the ""Rocket""",0.491965228
+167,1939,"Allan, Ted,",1916,1939,11592,,non_genre,1939,m,chirandom | teamred,New York W,,ca,,1947.238247,,Spain -- H,This time a better earth,0.491150179
+866,1863,"Reade, Charles,",1814,1899,uc2.ark+=13960=t5n87gd14,v. 2,sensation,1863,m,sensation | teamblack | stew,Boston,,uk,,1871.193224,,,Hard Cash,0.488181515
+171,1941,"Christie, Agatha,",1890,1941,11675,,crime,1941,f,chirandom | teamblack | chimyst,New York D,,uk,,1949.134967,,England;Do,N or M?,0.484340199
+482,1959,"Bloch, Robert,",1917,1959,BlochPsycho1959,,gothic,1959,m,teamblack | pbgothic,,,us,,1967.064487,,,Psycho,0.479692965
+133,1901,"Shiel, M. P.",1865,1929,11274,,scifi,1901,m,chifantasy | teamblack | chiscifi,London V. ,,uk,,1909.057141,,Natural di,The purple cloud,0.4792086
+357,1978,"Bayer, William,",1939,1978,21494,,non_genre,1978,m,chirandom | teamblack,New York E,,us,,1986.049801,,Tangier (M,Tangier,0.478724589
+268,1965,"Moore, Robin,",1925,1965,20648,,non_genre,1965,m,chirandom | teamblack,New York C,,us,,1973.034502,,Vietnam Wa,The green berets,0.477715815
+716,1893,"Fawcett, E. Douglas",1866,1893,nyp.33433075727168,,scifi,1893,m,teamblack | anatscifi,London;E. ,,uk,1920017,1900.978427,5065355,,Hartmann the anarchist,0.474018417
+208,1952,"Vonnegut, Kurt,",1922,1952,20079,,scifi,1952,m,chirandom | teamblack | chiscifi | stew,New York D,,us,,1959.935794,,"Satire, Am",Player piano,0.471207253
+909,1851,"MacCabe, William Bernard,",1801,1851,uiuo.ark+=13960=t2s475w45,v.3,non_genre,1851,m,teamred | random,London;T.C,,ir,13312718,1858.930455,8718341,,Bertha,0.470855258
+818,1892,"Zangwill, Israel,",1864,1895,uc1.b4105364,,crime,1892,m,teamred | det100,Chicago;Ra,,uk,2708030,1899.895171,6156262,,The big bow mystery,0.468528725
+10,1946,"Rand, Ayn,",1905,1946,10181,,scifi,1946,f,teamred | chiscifi,New York N,,us,,1953.819106,,Individual,Anthem,0.463513217
+355,1977,"Segal, Erich,",1937,1977,21473,,non_genre,1977,m,chirandom | teamred,New York H,,us,,1984.797208,,Grief,Oliver's story,0.462069306
+220,1954,"Reilly, Helen,",1890,1954,20162,,crime,1954,f,teamblack | chimyst,New York R,,us,,1961.7642,,Scottish A,Tell her it's murder,0.459892846
+864,1911,"Reeve, Arthur B.",1880,1911,uc2.ark+=13960=t5j961w9x,,crime,1911,m,det100 | teamblack,New York;H,,us,24992290,1918.761556,7682673,,The poisoned pen,0.459718476
+223,1955,"McCarthy, Mary",1912,1955,20194,,non_genre,1955,f,chirandom | teamred,New York: ,,us,,1962.662977,,Vases|Ital,A charmed life,0.453218494
+737,1914,"Reeve, Arthur B.",1880,1914,nyp.33433076047871,,crime,1914,m,teamred | det100,New York;V,,us,3336052,1921.565182,8660161,American f,The dream doctor,0.446770128
+98,1950,"Phillips, Rog,",1909,1950,11004,,scifi,1950,m,teamred | chifantasy | chiscifi | stew,Chicago Ce,,us,,1957.54838,,Science fi,Worlds within,0.445662228
+791,1818,"Opie, Amelia Alderson,",1769,1818,uc1.b287473,v. 1,non_genre,1818,f,teamblack | random,London;Longman;1818.,PR5115.O3N4,uk,13352959,1825.534875,5232730,,New tales,0.444771756
+560,1871,"Hardy, Thomas,",1840,1896,mdp.39015018606049,,sensation,1871,m,sensation | teamblack | stew,New York,,uk,,1878.524937,,,Desperate Remedies,0.444116496
+147,1932,"Shute, Nevil,",1899,1932,11383,,non_genre,1932,m,chirandom | teamred, Leicester,,uk,,1939.521072,,"World War,",Lonely road,0.443861618
+610,1920,"Snell, Roy J.",,1920,mdp.39076002660483,,crime,1920,m,teamblack | locdetmyst | juvenile | drop,Chicago;Th,,,3194900,1927.382599,9930255,Adventure ,Triple spies,0.434731144
+742,1865,"Murdoch, David.",1801,1865,nyp.33433076060874,,non_genre,1865,m,teamred | random,Philadelph,,us,6095778,1872.337995,7682091,,The Royalist's daughter a,0.431790027
+673,1832,"James, G. P. R.",1799,1832,nyp.33433074863691,v. 2,non_genre,1832,m,teamred | random,New York;J. & J. Harper;1832.,,uk,6328469,1839.303826,8665889,"History;Fiction;Great Britain;Civil War, 1642-1649",Henry Masterton;,0.42953704
+750,1905,"Pain, Barry,",1864,1905,nyp.33433081593646,,crime,1905,m,det100 | teamblack | stew,London;Unw,,uk,9994627,1912.270401,8688788,,The memoirs of Constantin,0.427333073
+508,1863,"Braddon, M. E.",1835,1863,dul1.ark+=13960=t1qf9gh9b,,sensation,1863,f,sensation | teamblack | stew,Richmond,,uk,,1870.269864,,,Aurora Floyd,0.427297654
+761,1918,"Emerson, Alice B.",1869,1918,nyp.33433082530043,,crime,1918,f,teamblack | locdetmyst | juvenile | drop,New York;C,,,4521263,1925.249676,5377923,Orphans;De,Ruth Fielding in the Red ,0.425966557
+142,1931,"Connington, J. J.",1880,1931,11323,,crime,1931,m,chirandom | teamblack | chimyst,Boston Lit,,uk,,1938.235794,,,The boathouse riddle,0.425051159
+407,1985,"Benford, Gregory,",1941,1985,22305,,scifi,1985,m,teamblack | chiscifi,New York; ,,us,,1992.176418,,Archaeolog,Artifact,0.42113613
+254,1962,"L'Engle, Madeleine,",1918,1962,20505,,scifi,1962,f,chifantasy | teamblack | chiscifi,New York D,,us,,1969.137193,,Newbery Me,A wrinkle in time,0.418549712
+599,1880,"Greg, Percy,",1836,1880,mdp.39015078569723,v.3,scifi,1880,m,teamred | anatscifi,Hamburg;K.,,uk,38580941,1887.122675,1420236,Utopias;Vo,Across the zodiac,0.417592461
+640,1874,"Benedict, Frank Lee,",1834,1874,njp.32101067707909,,non_genre,1874,m,teamred | random,New York;H,PZ3.B428J,us,4674189,1881.100166,7652249,,John Worthington's name,0.416108236
+291,1967,"Vance, Jack,",1916,1967,20767,,crime,1967,m,teamblack | chimyst,Indianapol,,us,,1974.091145,,Mystery fi,The Pleasant Grove murder,0.415513445
+20,1928,"Keeler, Harry Stephen,",1890,1928,10292,,crime,1928,m,teamred | chimyst,New York E,,us,,1935.051988,,Murder;Mys,Sing Sing nights,0.412931513
+813,1875,"Pinkerton, Allan,",1819,1875,uc1.b4101416,,crime,1875,m,teamblack | locdetmyst | stew,Chicago;W.,,us,6030345,1881.993636,6154545,Detective ,Claude Melnotte as a dete,0.409083969
+521,1827,"Loudon, Jane",1807,1828,hvd.32044014279723,v.1,scifi,1827,f,teamred | femscifi | stew,London;H. ,PZ3.L927M2,uk,6756991,1833.945806,630047,,The mummy!,0.405930197
+126,1927,"Buchan, John,",1875,1927,11191,,non_genre,1927,m,chirandom | chifantasy | teamblack,Boston; Ne,,uk,,1933.836158,,Scotland;C,Witch wood,0.398700297
+304,1970,"Brown, James Cooke,",1921,1970,20871,,scifi,1970,m,chiutopia | teamblack,Garden Cit,,us,,1976.759927,,Utopias;Fu,The Troika incident,0.393673812
+78,1947,"Blunden, Godfrey",1906,1947,10838,,non_genre,1947,m,chirandom | teamblack,Philadelphia: Lippincott,,au,,1953.672438,,,A Room on the Route,0.387905029
+211,1953,"Brown, Fredric,",1906,1953,20089,,scifi,1953,m,chirandom | teamred | chiscifi | stew,New York E,,us,,1959.648751,,Science fi,The lights in the sky are,0.386343144
+377,1979,"Zebrowski, George,",1945,1979,21685,,scifi,1979,m,teamred | chiscifi | stew,New York H,,us,,1985.641972,,Science fi,Macrolife,0.385896215
+111,1949,"Orwell, George,",1903,1949,11096,,scifi,1949,m,teamblack | chiscifi,New York H,,uk,,1955.625838,,Science fi,Nineteen eighty-four,0.384832364
+358,1978,"Bova, Ben,",1932,1978,21500,,scifi,1978,m,teamred | chiscifi | stew,New York P,,us,,1984.618796,,Science fi,Colony,0.384368015
+859,1834,"White, James,",,1834,uc2.ark+=13960=t4wh2p202,,non_genre,1834,m,teamblack | random,"Philadelphia;E. L. Carey & A. Hart;Baltimore;Carey, Hart & co.;1834.",PZ3.W584S,us,10190007,1840.61518,325094,,Some passages in the life of Sir Frizzle Pumpkin,0.384129574
+82,1947,"Van Vogt, A. E. 1912-2000",1912,1947,10877,,non_genre,1947,,teamred | chifantasy," Reading, ",,us,,1953.600886,,Fantasy fi,The book of Ptath,0.383187113
+729,1875,"Du Boisgobey, FortunÃ©,",1821,1876,nyp.33433075818801,,crime,1875,m,teamred | det100,Philadelph,PZ3.D853G,fr,22739476,1881.576067,8671972,French fic,The golden tress,0.381550587
+951,1917,"London, Jack,",1876,1917,uva.x001705067,,non_genre,1917,m,teamred | random,New York;T,PS3523.O46M5 1917,us,1161318,1923.567321,6154959,Dogs;Ficti,"Michael, brother of Jerry",0.380973893
+754,1894,"Astor, John Jacob,",1864,1894,nyp.33433082173273,,scifi,1894,m,teamblack | anatscifi | stew,London;Lon,,us,37134322,1900.527712,8663513,,A journey in other worlds,0.378362199
+34,1931,"Smith, Thorne,",1892,1931,10362,,scifi,1931,m,chifantasy | teamblack | chiscifi,Garden Cit,,us,,1937.524077,,Humorous f,The night life of the god,0.378122483
+313,1971,"Pentecost, Hugh,",1903,1971,20979,,crime,1971,m,teamblack | chimyst | stew,New York D,,us,,1977.520323,,Mystery fi,The deadly joke,0.377874979
+128,1928,"Cox, Erle,",1873,1928,11226,,scifi,1928,m,teamblack | chiscifi,New York R,,au,,1934.461208,,Science fi,Out of the silence,0.373977103
+607,1917,"Seaman, Augusta Huiell,",1879,1917,mdp.39076002607435,,crime,1917,f,teamblack | locdetmyst | juvenile | drop,New York;C,,us,18717400,1923.434509,9929466,Orphans;De,The girl next door,0.372216672
+808,1891,"Bierce, Ambrose,",1842,1891,uc1.b3578934,,gothic,1891,m,teamblack | pbgothic | stew,New York;U,,us,3268651,1897.346257,6678259,,Tales of soldiers and civ,0.366397549
+886,1866,"Kingsley, Charles,",1819,1866,uc2.ark+=13960=t9571nb3d,,non_genre,1866,m,teamblack | random,Boston;Tic,PZ3.K614H,uk,5315288,1872.294469,7700283,History;To,Hereward,0.362982759
+48,1938,"Carr, John Dickson",1906,1938,10543,,crime,1938,m,det100 | teamblack,New York: ,,us,,1944.179431,,"Fell, Gide",To wake the dead,0.355397515
+472,1921,"Sawyer, Ruth,",1880,1921,4611,,non_genre,1921,f,chirandom | teamred,New York; ,,us,,1927.156286,,,The silver sixpence,0.353871368
+325,1973,"Piercy, Marge,",1936,1973,21126,,non_genre,1973,f,chirandom | teamred,New York; ,,us,,1979.107987,,United Sta,Small changes,0.350686654
+477,1922,"Marquand, John P.",1893,1922,4705,,non_genre,1922,m,chirandom | teamred,New York C,,us,,1928.054081,,United Sta,The unspeakable gentleman,0.347132267
+775,1904,"Wells, H. G.",1866,1904,uc1.32106001959946,,scifi,1904,m,teamblack | anatscifi | locscifi,London;Mac,,uk,660430,1910.034001,7120624,Science fi,The food of the gods and ,0.345808245
+597,1890,AnonymousGhost2,,1890,mdp.39015066083661,,gothic,1890,,teamblack | locghost,New York;L,,,52047650,1896.007939,2040236,Ghost stor,Modern ghosts;,0.344089747
+738,1913,"Rinehart, Mary Roberts,",1876,1913,nyp.33433076053762,,crime,1913,f,det100 | teamblack,Indianapol,,us,3656581,1918.999882,8659914,,The case of Jennie Brice,0.343558526
+704,1866,"Collins, Wilkie,",1824,1873,nyp.33433074945779,,multi,1866,m,teamred | sensation | pbgothic | stew,New York;H,PZ3.C697.Ar2,uk,291965,1871.979838,8663981,,Armadale,0.342236869
+579,1892,"Doyle, Arthur Conan,",1859,1892,mdp.39015049217741,,crime,1892,m,teamred | det100 | stew,New York;H,,uk,2541507,1897.959953,207878,,Adventures of Sherlock Ho,0.340925717
+622,1875,"Pinkerton, Allan,",1819,1875,njp.32101031806159,,crime,1875,m,teamblack | locdetmyst,Chicago;W.,,us,6030345,1880.934224,6154545,Detective ,Claude Melnotte as a dete,0.339229196
+61,1944,"Brackett, Leigh,",1915,1944,10733,,crime,1944,f,chirandom | teamred | chimyst,New York C,,us,,1949.922987,,Extortion;,No good from a corpse,0.338488272
+536,1903,"Benson, Arthur Christophe",1862,1903,inu.39000002156706,,gothic,1903,m,teamblack | pbgothic,London;Isb,,uk,6388485,1908.877095,6058078,,The hill of trouble and o,0.335462248
+649,1898,"Le Braz, Anatole,",,1898,njp.32101076806486,,gothic,1898,m,teamblack | locghost,London;G. ,GR455.L5,,401337,1903.874656,9033917,Brittany;F,Dealings with the dead;,0.335301446
+285,1967,"Braun, Lilian Jackson,",1913,1967,20727,,crime,1967,f,chirandom | teamblack | chimyst,New York E,,us,,1972.857502,,"Qwilleran,",The cat who ate Danish mo,0.334170338
+834,1867,"MÃ_hlbach, L.",1814,1867,uc2.ark+=13960=t1sf2p11n,,non_genre,1867,f,teamblack | random,New York;M,,ge,320128849,1872.849856,7668360,,Marie Antoinette and her ,0.333666215
+546,1846,"Hawthorne, Nathaniel,",1804,1882,mdp.39015004274992,,gothic,1846,m,teamred | pbgothic,Boston;New,,us,274628,1851.753117,478557,,Mosses from an old manse,0.327287507
+517,1788,"Berkeley, George Monck,",1763,1788,dul1.ark+=13960=t6834qb4k,v.1,non_genre,1788,m,teamred | random,London;For,,uk,31480481,1793.727145,10942313,Publisher;,Heloise: or The siege of ,0.325574965
+277,1966,"Delany, Samuel R,",1942,1966,20683,,scifi,1966,m,teamred | chiscifi,New York A,,us,,1971.667866,,Science fi,Babel-17,0.321666278
+923,1810,Anonymous6,,1810,uiuo.ark+=13960=t7br98r5d,v.1,non_genre,1810,f,teamblack | random,"London;Printed for the authoress and sold by Sherwood, Neely, and Jones;1810.",,uk,30364815,1815.662641,8717971,,"The adulteress ; or, anecdotes of two noble families",0.321321786
+49,1938,"Sarton, May,",1912,1938,10561,,scifi,1938,f,chiutopia | teamblack,Boston; Ca,,us,,1943.640755,,Friendship,The single hound,0.319878641
+156,1935,"McKinney, J. P,",1891,1935,11469,,non_genre,1935,m,chirandom | teamred," Sydney, Angus & Robertson 1935",,au,,1940.610263,21,"World War, 1914-1918",Crucible,0.317868094
+100,1950,"Van Vogt, A. E. 1912-2000",1912,1950,11013,,scifi,1950,m,chirandom | teamblack | chiscifi,New York G,,us,,1955.56393,,Science fi,The house that stood stil,0.314813064
+303,1970,"Anderson, Poul,",1926,1970,20866,,scifi,1970,m,chirandom | teamblack | chiscifi,Garden Cit,,us,,1975.524224,,Science fi,Tau zero,0.312194905
+301,1969,"Pentecost, Hugh,",1903,1969,20842,,crime,1969,m,chirandom | teamblack | chimyst | stew,New York D,,us,,1974.499654,,"Chambrun, ",Girl watcher's funeral,0.310574834
+636,1867,"Broughton, Rhoda,",1840,1899,njp.32101067630820,,sensation,1867,f,teamred | sensation | stew,London,,uk,,1872.41337,,,Not Wisely But Too Well,0.304885499
+412,1986,"Dickson, Gordon R,",1923,1986,22488,,scifi,1986,m,teamred | chiscifi,New York A,,us,,1991.403482,,Science fi,The forever man,0.304233537
+230,1957,"Dick, Philip K,",1928,1957,20270,,scifi,1957,m,chirandom | teamblack | chiscifi,New York A,,us,,1962.373212,,Science fi,Eye in the sky,0.302237597
+918,1868,"Knight, Legh.",,1868,uiuo.ark+=13960=t58d0ds3h,v.1,non_genre,1868,m,teamred | random,London;Cha,,uk,56003792,1873.352548,8723823,,Tonic bitters,0.300875074
+958,1907,"Futrelle, Jacques,",1875,1907,wu.89004395398,,crime,1907,m,teamred | det100 | stew,London;Cha,,us,32345395,1912.323166,11985887,,The thinking machine,0.298937696
+201,1951,"Wylie, Philip,",1902,1951,20041,,scifi,1951,m,teamred | chiscifi | stew,New York R,,us,,1956.305195,,Science fi,The disappearance,0.297752757
+94,1950,"Asimov, Isaac,",1920,1950,10970,,scifi,1950,m,teamblack | chiscifi | stew,Garden Cit,,us,,1955.29919,,Science fi,I: robot,0.29735683
+56,1942,"Merritt, Abraham,",1884,1942,10679,,multi,1942,m,teamred | chimyst | chiscifi | stew,New York; ,,us,,1947.224725,,Science fi,Burn: witch: burn!,0.292446805
+637,1833,"Hall, James,",1793,1833,njp.32101067634046,,non_genre,1833,m,teamred | random,Philadelph,PZ3.H145S,us,10879910,1838.172188,8961437,,The soldier's bride and o,0.288982656
+917,1818,"Austen, Jane,",1775,1818,uiuo.ark+=13960=t4km00443,v. 3,gothic,1818,f,teamred | lochorror | stew,London;Joh,PR4034.N7 1818,uk,2026857,1823.106454,8721875,Rejection ,Northanger Abbey,0.284648285
+408,1985,"Collins, Max Allan,",1968,1985,22325,,crime,1985,m,chirandom | teamred | chimyst,New York W,,us,,1990.042332,,Mallory (F,A shroud for Aquarius,0.280420278
+575,1860,"Collins, Wilkie,",1824,1906,mdp.39015038723360,,multi,1860,m,teamred | sensation | pbgothic | stew,New York;T,PZ3.C697Wo 10,uk,2673386,1865.029313,122875,,The woman in white,0.279561855
+341,1976,"Niven, Larry,",1938,1976,21351,,scifi,1976,m,teamblack | chiscifi,New York H,,us,,1981.027645,,Science fi,A world out of time,0.279451876
+552,1846,"Sewell, Elizabeth Missing",1815,1846,mdp.39015006997806,v.2,non_genre,1846,f,teamred | random,London;Pri,,uk,22465631,1850.990883,780065,,Gertrude,0.277027902
+229,1956,"MacDonald, John D.",1916,1956,20240,,non_genre,1956,m,chirandom | teamblack, Greenwich,,us,,1960.974652,,Novels,You live once,0.275957639
+700,1832,"Disraeli, Benjamin,",1804,1832,nyp.33433074937446,v. 2,non_genre,1832,m,teamred | random,New York;H,,uk,13242846,1836.811636,8664338,English fi,Contarini Fleming;,0.265208825
+293,1968,"Oates, Joyce Carol,",1938,1968,20791,,gothic,1968,f,teamred | pbgothic | chihorror,New York V,,us,,1972.758398,,Suburban l,Expensive people,0.261698466
+236,1959,"Gantz, Kenneth Franklin,",1905,1959,20370,,scifi,1959,m,teamred | chiscifi,Garden Cit,,us,,1963.686053,,Science fi,Not in solitude,0.256928203
+404,1984,"Gibson, William",1948,1984,22193,,multi,1984,m,teamred | pbgothic | chiscifi | stew,New York: ,,us,,1988.63342,,Informatio,Neuromancer,0.253457769
+780,1886,"Verne, Jules,",1828,1887,uc1.b117774,,scifi,1886,m,teamred | anatscifi | locscifi,London;S. ,,fr,18939696,1890.587283,6610336,,The clipper of the clouds,0.250415612
+300,1969,"Nielsen, Helen,",1918,1969,20839,,crime,1969,f,teamred | chimyst | stew,New York M,,us,,1973.53582,,Mystery fi,Darkest hour,0.247022247
+180,1945,"Orwell, George,",1903,1945,11782,,scifi,1945,m,chiutopia | teamblack,London Sec,,uk,,1949.528311,,Satires;Po,Animal farm,0.246527165
+611,1900,"Chapman, Allen.",,1900,mdp.39076002720709,,crime,1900,m,teamblack | locdetmyst | stew,New York;C,,,213054717,1904.508411,9930755,Orphans;De,"Boys of Spring Hill, or, ",0.245214962
+757,1918,"Hunt, Edward Eyre,",1885,1918,nyp.33433082485636,,non_genre,1918,m,teamred | random,Garden Cit,D541.H8,us,8175832,1922.507305,7661558,"World War,",Tales from a famished lan,0.245142072
+35,1931,"Taylor, Phoebe Atwood",1909,1931,10365,,crime,1931,f,det100 | teamblack,New York: ,,us,,1935.49733,,Massachuse,The Cape Cod mystery,0.244484311
+676,1898,"Kipling, Rudyard,",1865,1908,nyp.33433074866413,,non_genre,1898,m,teamred | random,New York;D,,uk,37256980,1902.492885,8669074,,The day's work,0.244191243
+155,1935,"Marsh, Ngaio,",1895,1935,11468,,crime,1935,f,chirandom | teamblack | chimyst | cozy,Boston itt,,nz,,1939.469899,,"Alleyn, Ro",The nursing home murder,0.242675641
+516,1888,"Bellamy, Edward,",1850,1888,dul1.ark+=13960=t66401k8k,,scifi,1888,m,teamred | anatscifi | locscifi | stew,Boston;Tic,HX811 1887.B2,us,5934716,1892.458242,5082161,Social pro,"Looking backward, 2000-18",0.241906964
+2,1929,"Burnett, W. R.",1899,1929,10065,,crime,1929,m,teamred | chimyst,New York L,,us,,1933.44438,,Mystery an,Little Caesar,0.240992962
+618,1892,"Bierce, Ambrose,",1842,1898,njp.32101013566920,,gothic,1892,m,teamblack | pbgothic | stew,New York a,PZ3.B479I,us,1928290,1896.420687,8884012,,In the midst of life;,0.239430676
+364,1978,"Mcdonald, Gregory,",1937,1978,21560,,crime,1978,m,teamred | chimyst,New York A,,us,,1982.342091,,Private in,Fletch's fortune,0.23424832
+256,1962,"Stout, Rex,",1886,1962,20526,,crime,1962,m,chirandom | teamblack | chimyst,New York V,,us,,1966.34095,,New York (,Gambit,0.234173079
+31,1931,"Merritt, Abraham,",1884,1931,10357,,scifi,1931,m,chifantasy | teamblack | chiscifi,New York H,,us,,1935.32747,,Science fi,The face in the abyss,0.233284224
+138,1930,"Sayers, Dorothy L.",1893,1930,11302,,crime,1930,f,teamblack | chimyst | cozy,New York B,,uk,,1934.323052,,England;Wi,Strong poison,0.232992939
+70,1946,"Cummings, Ray,",1887,1946,10808,,scifi,1946,m,teamblack | chiscifi,London Ger,,us,,1950.318474,,Science fi,The shadow girl,0.23269105
+627,1796,"Roche, Regina Maria,",1764,1828,njp.32101062743727,v.3,gothic,1796,f,teamblack | pbgothic,Exeter [N.,,ir,13635486,1800.300668,9042425,,The children of the abbey,0.231516992
+591,1894,"Scott, Hugh Stowell,",1862,1894,mdp.39015063949229, ,non_genre,1894,m,teamblack | random,New York;L,PZ3.S426W,uk,5698165,1898.298846,779609,,With edged tools;,0.231396814
+660,1850,"Myers, P. Hamilton",1812,1850,nyp.33433022846707,,non_genre,1850,m,teamblack | random,New York;P,,us,10334594,1854.276885,7923007,,The King of the Hurons,0.229948806
+725,1894,"Pemberton, Max,",1863,1894,nyp.33433075765705,,crime,1894,m,det100 | teamblack,London;War,,uk,3124458,1898.261856,8667110,Fiction;Je,Jewel mysteries I have kn,0.228957796
+547,1870,"Verne, Jules,",1828,1873,mdp.39015004307362,,scifi,1870,m,teamred | anatscifi,Boston;G. ,,fr,4633573,1874.259756,1802393,,Twenty thousand leagues u,0.228819371
+55,1942,"Gardner, Erle Stanley,",1889,1942,10665,,crime,1942,m,teamred | det100 | chimyst,New York D,,us,,1946.161342,,Mystery fi,The case of the empty tin,0.222330185
+18,1927,"Keeler, Harry Stephen,",1890,1927,10272,,crime,1927,m,teamred | chimyst,New York E,,us,,1931.152433,,Newspaper ,Find the clock,0.221742746
+394,1982,"Lorrah, Jean,",1938,1982,21981,,scifi,1982,f,teamblack | chiscifi | stew,Garden Cit,,us,,1986.013306,,Science fi,Channel's destiny,0.212569102
+538,1885,"Pater, Walter,",1839,1885,mdp.39015000541717,v.2,non_genre,1885,m,teamred | random,London;Mac,,uk,1099692,1888.980584,1910607,,Marius the Epicurean,0.21041154
+276,1966,"Capps, Benjamin,",1922,1966,20677,,non_genre,1966,m,chirandom | teamred,New York D,,us,,1969.958173,,Comanche I,A woman of the people,0.20893378
+6,1931,"Merritt, Abraham,",1884,1931,10096,,scifi,1931,m,teamred | chiscifi,New York A,,us,,1934.912196,,Science fi,Face in the abyss,0.205902162
+387,1981,"Niven, Larry,",1938,1981,21877,,scifi,1981,m,teamred | chiscifi | stew,New York T,,us,,1984.879575,,Science fi,Oath of fealty,0.203751231
+794,1883,"Du Boisgobey, FortunÃ©,",1821,1887,uc1.b318291,,crime,1883,m,det100 | teamblack,London;Viz,,fr,7393828,1886.874797,6545031,,The detective's eye ;,0.203436173
+283,1966,"Westlake, Donald E,",1933,1966,20720,,crime,1966,m,teamred | chimyst | stew,New York R,,us,,1969.84555,,Drug traff,The busy body,0.201507751
+828,1895,"Besant, Walter,",,1895,uc2.ark+=13960=t17m0b23x,,scifi,1895,m,teamred | locscifi | stew,London;Cha,,,3552190,1898.679026,7685922,Moral and ,Beyond the dreams of avar,0.190527576
+727,1826,"Wilkins, George,",1785,1826,nyp.33433075768253,,non_genre,1826,m,teamblack | random,London;Lon,,uk,13354135,1829.674921,8667986,English fi,The convert,0.190256915
+868,1911,"Cowan, James,",1870,1911,uc2.ark+=13960=t5v69m62h,,non_genre,1911,m,teamred | random,London [et,,nz,8594300,1914.668873,6750666,b. 1837;Be,The adventures of Kimble ,0.189858105
+233,1958,"MacInnes, Helen,",1907,1958,20335,,non_genre,1958,f,chirandom | teamblack,New York H,,us,,1961.639859,,Italy;Larg,North from Rome,0.187945056
+194,1950,"Symons, Julian,",1912,1950,11928,,crime,1950,m,teamred | chimyst,New York H,,uk,,1953.636248,,Advertisin,The 31st of February,0.187706915
+193,1950,"Stapledon, Olaf,",1886,1950,11927,,scifi,1950,m,teamred | chiscifi,London Met,,uk,,1953.633319,,Science fi,A man divided,0.187513775
+532,1910,"Wharton, Edith,",1862,1910,inu.30000011752437,,gothic,1910,f,teamred | pbgothic,London;Mac,,us,3304072,1913.628339,6058720,,Tales of men and ghosts,0.187185438
+836,1914,"Vance, Louis Joseph,",1879,1914,uc2.ark+=13960=t1zc7v45r,,crime,1914,m,det100 | teamblack,New York;A,,us,6056454,1917.610715,7676125,,The lone wolf,0.186023363
+501,1908,"Moore, Frank Frankfort,",1855,1908,coo.31924013525971,,non_genre,1908,m,teamred | random,Leipzig;B.,,ir,63964163,1911.600345,11250402,,An amateur adventuress,0.185339592
+698,1847,"BrontÃ«, Emily,",1818,1848,nyp.33433074931118,,gothic,1847,f,teamred | pbgothic | stew,New York;H,,uk,7611990,1850.584281,420967,,Wuthering Heights,0.184280384
+352,1977,"Michaels, Fern,",,1977,21453,,non_genre,1977,f,chirandom | teamblack,New York B,,us,,1980.452132,,Romance fi,Captive passions,0.175566816
+163,1938,"Connington, J. J.",1880,1938,11564,,crime,1938,m,teamblack | chimyst | stew,Boston Lit,,uk,,1941.442366,,Mystery fi,Murder will speak,0.174922849
+921,1803,"Cuthbertson, Catherine.",1780,1803,uiuo.ark+=13960=t6xw4rw1j,v.2,gothic,1803,f,teamblack | stangothic,London;Printed for G. and J. Robinson;1803.,,uk,6715920,1806.425309,8690976,English fiction,Romance of the Pyrenees,0.173798166
+641,1892,"Bradshaw, William R.",1851,1892,njp.32101068138443,,scifi,1892,m,teamblack | locscifi,New York;J,,us,2110206,1895.381946,8967329,Science fi,The goddess of Atvatabar,0.170938932
+249,1961,"Stout, Rex,",1886,1961,20474,,crime,1961,m,chirandom | teamblack | chimyst,New York V,,us,,1964.380181,,Mystery fi,The final deduction,0.170822598
+851,1909,"Newbolt, Henry John,",1862,1909,uc2.ark+=13960=t40r9p16h,,non_genre,1909,m,teamblack | random,Edinburgh;,,uk,3667675,1912.361092,242133,History;Fi,The new June,0.169563928
+895,1813,"Parker, Emma.",,1813,uiuo.ark+=13960=t09w1328x,v.1,non_genre,1813,f,teamblack | random,London;Printed for B. and R. Crosby;1823.,,uk,495994369,1816.344722,8718188,,Aretas,0.168484523
+519,1895,"Wells, H. G.",1866,1895,dul1.ark+=13960=t98637h6g,,scifi,1895,m,teamred | anatscifi | locscifi | stew,New York;H,PZ3.W465Ti,uk,1162397,1898.319497,10944701,,The time machine;,0.166821262
+925,1858,"Manning, Anne,",1807,1858,uiuo.ark+=13960=t7pn9mm7s,v.2,non_genre,1858,f,teamblack | random,London;Ric,,uk,1451923,1861.311793,8720842,,The ladies of Bever Hollo,0.166313242
+922,1818,"Austen, Jane,",1775,1818,uiuo.ark+=13960=t6zw24n6x,v. 2,gothic,1818,f,teamred | lochorror,London;Joh,PR4034.N7 1818,uk,2026857,1821.244389,8721875,Rejection ,Northanger Abbey,0.161868837
+430,1987,"Ray, Robert J. 1935-  (Ro",,1987,22766,,crime,1987,m,teamblack | chimyst | stew,New York S,,us,,1990.237022,,United Sta,Murdock for hire,0.161383084
+623,1832,"Lytton, Edward Bulwer Lyt",1803,1881,njp.32101032308387,,crime,1832,m,teamred | newgate,Philadelph,,uk,8909779,1835.216796,8888080,,Eugene Aram,0.160049417
+539,1838,"Dickens, Charles,",1812,1867,mdp.39015000551799,,gothic,1838,m,teamred | pbgothic | stew,New York;H,PZ3.D55O115,uk,13280368,1841.119709,540236,,Oliver Twist,0.153647781
+386,1981,"Niven, Larry,",1938,1981,21876,,scifi,1981,m,teamblack | chiscifi,New York; ,,us,,1984.092861,,Science fi,Dream Park,0.151877476
+245,1960,"Sigal, Clancy,",1926,1960,20428,,non_genre,1960,m,chirandom | teamblack,Boston Hou,,us,,1963.033666,,England --,Weekend in Dinlock,0.147974345
+58,1942,"Rinehart, Mary Roberts,",1876,1942,10690,,crime,1942,f,chirandom | teamred | chimyst,New York P,,us,,1945.033148,,Mystery fi,The door,0.147940152
+373,1979,"Gordon, Noah,",1926,1979,21620,,non_genre,1979,m,chirandom | teamred,New York Random House 1979,,us,,1982.019766,591,Diamonds,The Jerusalem diamond,0.147057812
+356,1978,"Adler, Warren,",1927,1978,21488,,non_genre,1978,m,chirandom | teamblack,New York P,,us,,1981.008656,,,The Casanova embrace,0.14632524
+948,1893,"Bierce, Ambrose,",1842,1903,uva.x000885514,,gothic,1893,m,teamblack | pbgothic,Washington,PZ3.B479C2,us,3265761,1895.921945,9789429,,Can such things be?,0.140607708
+554,1877,"Cobbe, Frances Power,",1822,1877,mdp.39015010330341,,scifi,1877,f,teamred | femscifi | stew,London;War,,ir,35955358,1879.916117,1986831,,The age of science,0.140223428
+578,1913,"Sinclair, May.",1863,1913,mdp.39015048759016,,non_genre,1913,f,teamred | random,New York;L,PR6037.I73C6,uk,2273628,1915.897085,1185742,,The combined maze,0.138968568
+577,1904,"Hope, Laura Lee.",,1904,mdp.39015039487205,,crime,1904,f,teamred | locdetmyst | juvenile | drop,New York;G,,,2576341,1906.890464,1416899,Bobbsey Tw,The Bobbsey twins;,0.138531985
+840,1888,"Gibbon, Charles,",1843,1888,uc2.ark+=13960=t2h70dt42,v.1,crime,1888,m,teamred | locdetmyst,London;Sam,,,13324493,1890.865482,7688203,Fiction;De,Beyond compare,0.136884715
+500,1885,"Haggard, H. Rider",1856,1912,coo.31924013476498,,gothic,1885,m,teamred | pbgothic,London;New,,uk,63963369,1887.845761,11405492,,King Solomon's mines,0.135584353
+322,1959,"Himes, Chester B.",1909,1973,21104,,crime,1959,m,chirandom | hardboiled | chimyst | teamred," Chatham, ",,us,,1961.816945,,,The crazy kill,0.133684297
+667,1880,"Cowan, Frank,",1844,1880,nyp.33433074818778,,scifi,1880,m,teamblack | locscifi,Greensburg,,us,10311195,1882.758115,8658697,Science fi,Revi-Lona,0.129805266
+362,1978,"King, Stephen,",1947,1978,21542,,gothic,1978,m,teamred | chihorror | stew,Garden Cit,,us,,1980.716684,,Biological,The stand,0.127073416
+79,1947,"Heinlein, Robert A.",,1947,10853,,scifi,1947,m,chirandom | teamred | chiscifi,New York; ,,us,,1949.710388,,Science fi,Rocket ship Galileo,0.126658266
+29,1931,"Hill, Grace Livingston,",1865,1931,10353,,non_genre,1931,f,chirandom | teamred,New York G,,us,,1933.686761,,Family-own,The chance of a lifetime,0.125100378
+505,1807,"Bayfield, E. G.,",,1807,dul1.ark+=13960=t0tq6sw6t,v.2,non_genre,1807,f,teamred | random,"London;Printed by J.G. Barnard, for B. Crosby;1807.",,uk,13307942,1809.685722,10944112,,A winter in Bath,0.125031861
+801,1840,"Hook, Theodore Edward,",1788,1840,uc1.b3326097,,non_genre,1840,m,teamred | random,Paris;Baud,,uk,3945332,1842.673483,7922865,,"Cousin Geoffrey, the old ",0.124224854
+743,1922,"Jewell, Edward Alden,",1888,1922,nyp.33433076072051,,non_genre,1922,m,teamblack | random,New York;A,PZ3.J547Mo,us,9369637,1924.610213,7663321,,The moth decides,0.120052983
+216,1954,"Foote, Shelby,",1916,1954,20136,,non_genre,1954,m,chirandom | teamred,New York Dial Press 1954,,us,,1956.600703,129,Mississippi,Jordan County,0.119425907
+462,1920,"Lindsay, Vachel,",1879,1920,4458,,scifi,1920,m,chiutopia | teamblack,New York M,,us,,1922.569632,,Springfiel,The golden book of Spring,0.117377212
+92,1949,"Stout, Rex,",1886,1949,10962,,crime,1949,m,teamred | det100 | chimyst,New York V,,us,,1951.564256,,New York (,The second confession,0.11702267
+510,1807,"Bayfield, E. G.,",,1807,dul1.ark+=13960=t3dz14r97,v.1,non_genre,1807,f,teamred | random,"London;Printed by J.G. Barnard, for B. Crosby;1807.",,uk,13307942,1809.5433,10944112,,A winter in Bath,0.115640941
+897,1876,"Robinson, Frederick Willi",1830,1876,uiuo.ark+=13960=t0ft97228,v.1,non_genre,1876,m,teamred | random,London;Hur,,uk,57461836,1878.507531,8718218,,As long as she lived,0.113282423
+529,1872,"Le Fanu, Joseph Sheridan,",1814,1886,inu.30000007695723,,gothic,1872,m,teamblack | pbgothic | stew,London;R. ,PZ3.L518I,ir,5237816,1874.498374,6059136,,In a glass darkly,0.112678625
+173,1942,"Christie, Agatha,",1890,1942,11703,,crime,1942,f,chirandom | teamblack | chimyst | stew,London Pub,,uk,,1944.451402,,,Five little pigs,0.109581387
+297,1969,"Dick, Philip K,",1928,1969,20821,,scifi,1969,m,teamred | chiscifi,New York B,,us,,1971.445132,,Science fi,Galactic pot-healer,0.10916799
+337,1976,"Farris, John,",,1976,21318,,gothic,1976,m,teamblack | chihorror | stew,Chicago Pl,,us,,1978.4318,,Psychics -,The fury,0.108288898
+11,1950,"Castor, Henry,",1909,1950,10202,,non_genre,1950,m,chirandom | teamred,Garden Cit,,us,,1952.422416,,Spanish-Am,The year of the Spaniard,0.10767014
+753,1847,"Arthur, T. S.",1809,1847,nyp.33433082170576,,non_genre,1847,m,teamred | random,Philadelph,,us,11601574,1849.394014,6155929,,Lovers and husbands,0.105797411
+870,1853,"Lytton, Edward Bulwer Lyt",1803,1853,uc2.ark+=13960=t6154fk9b,v.4,non_genre,1853,m,teamred | random,Edinburgh;,PZ3.L998My,uk,1855837,1855.392135,7665257,,"""My novel,""",0.1056735
+883,1913,"Reeve, Arthur B.",1880,1913,uc2.ark+=13960=t8z89353s,,crime,1913,m,teamred | det100,New York;H,,us,2338963,1915.388003,7670869,,"Constance Dunlap, woman d",0.105401083
+832,1833,"Lytton, Edward Bulwer Lyt",1803,1880,uc2.ark+=13960=t1mg7hw3f,,gothic,1833,m,teamblack | pbgothic,London;New,PZ3.L998G6,uk,3727345,1835.303304,7648454,,Godolphin,0.09981622
+244,1960,"Sheckley, Robert,",1928,1960,20427,,scifi,1960,m,teamblack | chiscifi,New York B,,us,,1962.291883,,Science fi,Store of infinity,0.099063148
+165,1938,"Priestley, J. B.",1894,1938,11584,,scifi,1938,m,teamred | chiscifi,London Wil,,uk,,1940.249529,,Science fi,The doomsday men,0.096270471
+712,1777,Henrietta.,,1777,nyp.33433074955331,v. 2,non_genre,1777,f,teamblack | random,London;Pri,,uk,16105885,1779.233281,8663523,English fi,Letters from Henrietta to,0.095199116
+711,1790,"Radcliffe, Ann Ward,",1764,1792,nyp.33433074955109,v. 1,gothic,1790,f,teamred | pbgothic | stew,London;T. ,,uk,23642675,1792.150484,2104589,,A Sicilian romance,0.089739717
+786,1803,Anonymous0,,1803,uc1.b250120,v.3,non_genre,1803,,teamblack | random,London;J. Johnson;1803.,,,13258977,1805.115541,6502422,,Letters of Miss Riversdale,0.087435651
+722,1915,"Ostrander, Isabel,",1883,1915,nyp.33433075749287,,crime,1915,f,teamred | det100 | stew,New York;W,PZ3.O85A,us,9825754,1917.111267,8666794,,At one-thirty,0.08715382
+540,1914,"Bramah, Ernest,",1868,1914,mdp.39015000613680,,crime,1914,m,det100 | teamblack,London;Met,PZ3.S64657Mac,uk,9344265,1916.08504,1185912,,Max Carrados,0.085424519
+625,1816,"Lewis, Alethea,",1749,1816,njp.32101038161780,vol.3,non_genre,1816,f,teamblack | random,London;Pri,,uk,4551747,1818.060383,8722917,,Rhoda,0.083798701
+106,1933,"Hilton, James,",1900,1933,11046,,scifi,1933,m,chiutopia | chifantasy | teamblack,New York W,,uk,,1934.907874,,Buddhist m,Lost horizon,0.073742635
+69,1946,"Busch, Niven,",1903,1946,10803,,non_genre,1946,m,chirandom | teamblack,New York; ,,us,,1947.824049,,San Franci,Day of the conquerors,0.068215442
+347,1977,"Dick, Philip K,",1928,1977,21412,,scifi,1977,m,teamblack | chiscifi,Garden Cit,,us,,1978.822799,,Science fi,A scanner darkly,0.068133051
+129,1928,"Knox, Ronald Arbuthnott,",1888,1928,11234,,crime,1928,m,chirandom | teamred | det100,London Met,,uk,,1929.793304,,,The footsteps at the lock,0.066188228
+118,1923,"Phillpotts, Eden,",1862,1923,11114,,crime,1923,m,det100 | teamblack,London: Hu,,uk,,1924.784359,,,The red Redmaynes,0.065598408
+631,1791,"Combe, William,",1742,1791,njp.32101066479765,v.1-2,non_genre,1791,m,teamblack | random,London;Pri,,uk,654829907,1792.767943,8929179,,The devil upon two sticks,0.064515965
+557,1896,"Post, Melville Davisson,",1869,1896,mdp.39015011950766,,crime,1896,us,teamred | det100,New York [,PZ3.P844St,us,26231984,1897.766635,205913,,The strange schemes of Ra,0.064429752
+366,1978,"Sanchez, Thomas,",1943,1978,21569,,crime,1978,m,teamblack | chimyst,New York E,,us,,1979.735518,,Los Angele,Zoot-suit murders,0.062377984
+941,1914,"Cullum, Ridgwell,",1867,1914,uva.x000315604,,non_genre,1914,m,teamred | random,New York;A,,uk,4839114,1915.685725,7656595,,The way of the strong;,0.059094775
+857,1888,"Gibbon, Charles,",1843,1888,uc2.ark+=13960=t4cn73z09,v.2,crime,1888,m,teamblack | locdetmyst | stew,London;Sam,,,13324493,1889.654941,7688203,Fiction;De,Beyond compare,0.057064955
+881,1850,"Arthur, T. S.",1809,1850,uc2.ark+=13960=t8df6mw4h,,non_genre,1850,m,teamblack | random,Philadelph,,us,2914131,1851.559215,7651549,,Tales of domestic life,0.050753053
+904,1820,"Opie, Amelia Alderson,",1769,1820,uiuo.ark+=13960=t1rf6b61z,v.2,non_genre,1820,f,teamblack | random,London;Lon,,uk,4903083,1821.541967,8723671,,Tales of the heart,0.049615737
+739,1919,"Ostrander, Isabel,",1883,1919,nyp.33433076054620,,crime,1919,f,teamred | det100,New York;W,PS3529.S68T78 1919,us,4412484,1920.44295,8659658,,The twenty-six clues,0.043086829
+908,1850,"Reynolds, George W. M.",1814,1850,uiuo.ark+=13960=t2j683k08,v.3-4,gothic,1850,m,teamblack | pbgothic,London;J. ,PZ3.R336My 2,uk,4420260,1851.40789,7585723,,The mysteries of the cour,0.040775107
+1,1928,"Burroughs, Edgar Rice,",1875,1928,10053,,scifi,1928,m,teamblack | chiscifi,New York G,,us,,1929.369195,,Science fi,The master mind of Mars,0.038223602
+898,1801,"Moore, George,",1852,1801,uiuo.ark+=13960=t0ns19n7m,v.2,gothic,1801,m,teamblack | stangothic,"London;Printed for G.G. and J. Robinson, by R. Noble;1801.",,uk,6936332,1802.351056,8720059,,Grasville Abbey,0.037027587
+706,1803,"Cuthbertson, Catherine.",1780,1803,nyp.33433074951611,v. 3,gothic,1803,f,teamblack | stangothic,London;Printed for G. and J. Robinson;1803.,,uk,6715920,1804.335483,8690976,English fiction,Romance of the Pyrenees,0.036000778
+593,1920,"Stevenson, Burton Egbert,",1872,1921,mdp.39015063960556,,crime,1920,m,det100 | teamblack,New York;D,,us,48101478,1921.259753,249234,,The gloved hand;,0.031007297
+648,1844,"Reynolds, George W. M.",1814,1845,njp.32101075374379,v.1,gothic,1844,m,teamred | pbgothic | stew,London;G. ,PR5221.R35M88 1845,uk,15496734,1845.228295,9026153,,The mysteries of London,0.028933074
+84,1939,"Chandler, Raymond,",1888,1948,10889,,crime,1939,m,hardboiled | det100 | teamblack | chimyst,London Pen,,us,,1940.17781,,Los Angele,The big sleep,0.02560421
+83,1948,"Brown, Fredric,",1906,1948,10883,,crime,1948,m,teamred | chimyst,New York E,,us,,1949.171484,,Chicago (I,The dead ringer,0.025187137
+854,1903,"Doyle, Arthur Conan,",1859,1905,uc2.ark+=13960=t45q4tp5h,,crime,1903,m,teamblack | locdetmyst,New York;M,,other,8153985,1904.147115,6871797,Private in,The return of Sherlock Ho,0.023580304
+66,1945,"Halliday, Brett,",,1945,10774,,crime,1945,m,teamred | chimyst,New York D,,us,,1946.145847,,"Shayne, Mi",Murder is my business,0.023496647
+647,1790,"LavallÃ©e, Joseph,",1747,1790,njp.32101074629542,vol.1,non_genre,1790,m,teamblack | random,London;Pri,,fr,43079743,1791.1123,9023042,,The negro equalled by few,0.02128468
+721,1909,"Serviss, Garrett Putman,",1851,1911,nyp.33433075746895,,scifi,1909,m,teamblack | anatscifi | locscifi,New York;L,PS3537.E69C64 1911,us,2160312,1910.005894,8667440,Science fi,A Columbus of space,0.01426856
+103,1927,"Woolf, Virginia,",1882,1927,11030,,non_genre,1927,f,chirandom | teamblack,"New York Harcourt, Brace & Co. 1927",,uk,,1928.002816,1192,"Skye, Island of (Scotland);",To the lighthouse,0.014065594
+121,1925,"Christie, Agatha,",1890,1925,11141,,crime,1925,f,chirandom | det100 | teamblack, Bodley 19,,uk,,1925.965738,,,Poirot investigates,0.011620789
+71,1946,"Fair, A. A.",1889,1946,10814,,crime,1946,m,teamred | det100 | chimyst,New York W,,us,,1946.964844,,Mystery fi,Crows can't count,0.011561799
+215,1954,"Del Rey, Lester,",1915,1954,20133,,scifi,1954,m,teamblack | chiscifi,Philadelph,,us,,1954.955616,,Science fi,Step to the stars,0.010953381
+75,1946,"Van Vogt, A. E. 1912-  (A",,1946,10832,,scifi,1946,,teamblack | chiscifi | stew,New York D,,us,,1946.950858,,Science fi,Slan,0.010639612
+784,1898,Anonymous1,,1898,uc1.b249346,,crime,1898,,teamred | locdetmyst,New York;J,,,13864836,1898.947284,6501962,Detective ,"Seth Bond, or, A lost tre",0.010403984
+91,1949,"Palmer, Stuart,",1905,1949,10954,,crime,1949,m,chirandom | teamblack | chimyst,New York M,,us,,1949.932189,,Women teac,Four lost ladies,0.009408624
+793,1832,"Spindler, Carl,",1796,1832,uc1.b316144,v.1,non_genre,1832,m,teamblack | random,London;E. ,,ge,21013899,1832.911779,6543844,,The Jew,0.008062867
+916,1868,"Capes, J. M.",1813,1868,uiuo.ark+=13960=t48p6974b,v.2,non_genre,1868,m,teamblack | random,London;R. ,,uk,21073483,1868.876076,8721688,823C1712M,The mosaic-worker's daugh,0.005708696
+899,1828,"Gaspey, Thomas,",1788,1828,uiuo.ark+=13960=t15m6kw75,v.2,crime,1828,m,newgate | teamblack,London;H. ,,uk,13323862,1828.863785,8720331,,History of George Godfrey,0.004898252
+869,1913,"Daviess, Maria Thompson.",1872,1913,uc2.ark+=13960=t5x63bm4w,,non_genre,1913,f,teamblack | random,New York;T,PZ3.D29Ti,us,4694442,1913.839942,7647157,,The tinder-box,0.003326131
+415,1986,"Friedman, Kinky,",1944,1986,22499,,crime,1986,m,teamblack | chimyst,New York B,,us,,1986.788012,,Humorous f,Greenwich killing time,-9.80E-05
+871,1871,"Farjeon, B. L.",1838,1871,uc2.ark+=13960=t6251m863,v.2,non_genre,1871,m,teamblack | random,London;Tin,PZ3.F229Jo,uk,14248675,1871.777635,7687349,,Joshua Marvel,-0.00078223
+541,1912,"London, Jack,",1876,1915,mdp.39015001553547,,scifi,1912,m,teamblack | anatscifi | stew,New York;T,PZ3.L846Sc,us,1161842,1912.727848,630442,,The scarlet plague,-0.004065012
+856,1887,"Fawcett, Edgar,",1847,1888,uc2.ark+=13960=t4bn9zk9h,,non_genre,1887,m,teamred | random,Boston;Tic,PZ3.F281O,us,5067437,1887.724964,7657447,,Olivia Delaplaine,-0.004255185
+374,1979,"King, Stephen,",1947,1979,21631,,multi,1979,m,teamblack | chihorror | chiscifi | stew,New York V,,us,,1979.692773,,Science fi,The dead zone,-0.006377772
+197,1951,"Davis, Dorothy Salisbury,",1916,1951,20008,,crime,1951,f,teamblack | chimyst,New York C,,us,,1951.677602,,1951;Myste,A gentle murderer,-0.007378127
+334,1975,"Silverberg, Robert,",1935,1975,21286,,scifi,1975,m,teamblack | chiscifi | stew,New York H,,us,,1975.664674,,Science fi,The stochastic man,-0.008230541
+312,1971,"Hjortsberg, William,",1941,1971,20961,,scifi,1971,m,teamred | chiscifi,New York S,,us,,1971.633651,,Science fi,Gray matters,-0.010276152
+511,1786,"Bennett, Anna Maria,",,1786,dul1.ark+=13960=t3vt2js1t,v.1,non_genre,1786,f,teamred | random,Dublin;Whi,,uk,13274424,1786.62469,10942285,Publisher;,"Anna; or, Memoirs of a Welch Heiress",-0.010866967
+266,1965,"Friedman, Sanford,",1928,1965,20632,,non_genre,1965,m,chirandom | teamblack,New York E,,us,,1965.56918,,Bildungsro,Totempole,-0.014527196
+309,1971,"Blatty, William Peter",1928,1971,20936,,gothic,1971,m,teamblack | pbgothic,New York: ,,us,,1971.521995,,Exorcism;D,The exorcist,-0.017638443
+186,1949,"Christie, Agatha,",1890,1949,11877,,crime,1949,f,chirandom | teamred | chimyst, Leicester,,uk,,1949.516201,,Murder;Lar,Crooked house,-0.018020448
+19,1928,"Esteven, John,",1888,1928,10286,,crime,1928,m,teamblack | chimyst,New York; ,,us,,1928.488012,,Mystery fi,The door of death,-0.019879153
+178,1943,"Wentworth, Patricia,",1878,1943,11736,,crime,1943,f,chirandom | teamred | chimyst,New York; ,,uk,,1943.449874,,"Silver, Ma",Miss Silver deals with de,-0.022393894
+556,1909,"Post, Melville Davisson,",1869,1923,mdp.39015011950758,,crime,1909,m,det100 | teamblack,New York;L,,us,7041750,1909.389659,205906,,"Randolph Mason, corrector",-0.026364323
+691,1897,"Morrison, Arthur,",1863,1897,nyp.33433074915269,,crime,1897,m,teamred | det100 | stew,London;War,,uk,37287421,1897.350241,8669776,English fi,The Dorrington deed-box,-0.028963413
+689,1788,"Smith, Charlotte,",1749,1788,nyp.33433074911532,v. 4,gothic,1788,f,teamblack | pbgothic | stew,London;T. ,PR3688.S4E55,uk,7085107,1788.329032,1022801,,Emmeline,-0.030361855
+929,1803,"Walker, George,",1772,1803,uiuo.ark+=13960=t8w95tz11,v.2,gothic,1803,m,teamred | stangothic,"London;Printed for G. Walker, and T. Hurst, by Exton;1803.",PR5708.W57D6,uk,7121292,1803.307329,8719363,823W15D,Don Raphael,-0.031792909
+80,1947,"Myers, John Myers,",1906,1947,10862,,non_genre,1947,m,chirandom | teamred,New York E,,us,,1947.305873,,,The wild Yazoo,-0.031888942
+874,1909,"Ayscough, John,",1858,1909,uc2.ark+=13960=t7hq41f5s,,non_genre,1909,m,teamblack | random,Bristol;J.,PR6003.I3R66 1909,uk,43830225,1909.240537,7914996,,A Roman tragedy and other,-0.036196996
+776,1905,"Dunsany, Edward John More",1878,1911,uc1.32106001980371,,gothic,1905,m,teamblack | pbgothic | stew,London;The,PR6007.U6G7 1911,ir,3692943,1905.061176,1692458,,The gods of PegÄÅna,-0.048023589
+298,1969,"Macdonald, Ross,",1915,1969,20833,,crime,1969,m,teamred | chimyst,New York A,,us,,1969.034588,,"Archer, Le",The goodbye look,-0.049776695
+151,1933,"Oppenheim, E. Phillips,",1866,1933,11404,,crime,1933,m,teamred | chimyst,Boston Lit,,uk,,1933.017286,,Monaco -- ,Murder at Monte Carlo,-0.050917587
+112,1950,"Lessing, Doris,",1919,1950,11098,,crime,1950,f,chirandom | teamred | chimyst | stew,New York C,,uk,,1949.989207,,Murder;Mys,The grass is singing,-0.052769032
+392,1982,"Bishop, Michael,",1945,1982,21929,,scifi,1982,m,teamblack | chiscifi,New York T,,us,,1981.839738,,Science fi,No enemy but time,-0.062624607
+436,1988,"Grissom, Ken,",1945,1988,22894,,crime,1988,m,chirandom | teamblack | chimyst | stew,New York S,,us,,1987.805776,,United Sta,Drop-off,-0.06486396
+228,1956,"Heinlein, Robert A.",1907,1956,20233,,scifi,1956,m,chirandom | teamred | chiscifi,Garden Cit,,us,,1955.779316,,Science fi,Double star,-0.066608679
+241,1959,"Stout, Rex,",1886,1959,20393,,crime,1959,m,teamred | chimyst,New York V,,us,,1958.768813,,Large type,Plot it yourself,-0.067301179
+90,1949,"Myers, John Myers,",1906,1949,10951,,non_genre,1949,m,teamred | chifantasy,New York E,,us,,1948.713903,,Fantasy fi,Silverlock,-0.070921803
+329,1973,"Vonnegut, Kurt,",1922,1973,21147,,scifi,1973,m,teamred | chiscifi,New York D,,us,,1972.696823,,Science fi,Breakfast of Champions,-0.072048037
+463,1920,"London, Jack,",1876,1920,4459,,non_genre,1920,m,chifantasy | teamblack,New York M,,us,,1919.693941,,Fantasy fi,Hearts of three,-0.072238027
+64,1944,"Walker, Mildred",1905,1944,10761,,non_genre,1944,f,chirandom | teamred,New York: ,,us,,1943.692914,,Farm life ,Winter wheat,-0.072305782
+21,1928,"Wells, Carolyn,",-194,1928,10298,,crime,1928,f,teamblack | chimyst | stew,Garden Cit,,us,,1927.684859,,Mystery fi,Deep-Lake mystery,-0.072836909
+282,1966,"Schmitz, James H.",1911,1966,20712,,scifi,1966,m,teamred | chiscifi,Philadelph,,us,,1965.673975,,Science fi,The witches of Karres,-0.073554563
+134,1929,"Wallace, Edgar,",1875,1929,11277,,crime,1929,m,chirandom | teamblack | chimyst | stew,London W. ,,uk,,1928.608669,,,The lone house mystery,-0.077860667
+117,1923,"Oppenheim, E. Phillips,",1866,1923,11113,,crime,1923,m,teamred | chimyst,Boston Lit,,uk,,1922.606936,,"Sayers, Mi",Michael's evil deeds,-0.077974938
+584,1881,"Sidney, Margaret,",1844,1881,mdp.39015062658789,,non_genre,1881,f,teamblack | random,"Boston, Ma",,us,180945282,1880.59278,7430893,,Five little Peppers and h,-0.078908318
+847,1832,"Hall, Anna Maria",1800,1832,uc2.ark+=13960=t3hx1bd9t,v.2,crime,1832,f,teamred | locdetmyst | stew,London;R. ,,uk,14250735,1831.574669,7688518,Criminals;,The buccaneer,-0.080102527
+319,1973,"Berryman, John,",1914,1973,21079,,non_genre,1973,m,chirandom | teamred,New York F,,us,,1972.571175,,Psychologi,Recovery,-0.080332892
+668,1915,"Bianchi, Martha Dickinson",1866,1915,nyp.33433074841895,,non_genre,1915,f,teamred | random,New York;D,PZ3.B4699K,us,7481117,1914.539082,8657475,,The Kiss of Apollo,-0.082449058
+369,1978,"Wilcox, Collin,",1924,1978,21589,,crime,1978,m,teamred | chimyst | stew,New York R,,us,,1977.537126,,"Hastings, ",The watcher,-0.082577981
+606,1915,"Seaman, Augusta Huiell,",1879,1915,mdp.39076002286230,,crime,1915,f,teamblack | locdetmyst | juvenile | drop,New York;C,,us,10413912,1914.528628,9926708,Abandoned ,The boarded-up house,-0.083138313
+222,1955,"Crane, Frances,",1890,1955,20176,,crime,1955,f,teamred | chimyst,New York R,,us,,1954.518101,,Mystery fi,Death in lilac time,-0.083832477
+820,1887,"Doyle, Arthur Conan,",1859,1914,uc1.b4107807,(copy 1),crime,1887,m,det100 | teamblack,New York;P,,uk,4827090,1886.516352,6156982,,A study in scarlet,-0.083947781
+621,1874,"Pinkerton, Allan,",1819,1874,njp.32101031806142,,crime,1874,m,teamred | locdetective,Chicago;W.,,us,385323,1873.414584,1744766,Detectives,The expressman and the de,-0.090658089
+645,1868,"Alcott, Louisa May,",1832,1868,njp.32101068580768,,non_genre,1868,f,teamblack | random,Boston;Lor,,us,17281843,1867.412547,8972722,Young men;,Kitty's class day ;,-0.09079238
+432,1987,"Swift, Edward,",1943,1987,22787,,non_genre,1987,m,chirandom | teamred,New York D,,us,,1986.400833,,Big Thicke,A place with promise,-0.091564816
+822,1888,"Gibbon, Charles,",1843,1888,uc2.ark+=13960=t0cv4hf87,v.3,crime,1888,m,teamblack | locdetmyst,London;Sam,,,13324493,1887.383457,7688203,Fiction;De,Beyond compare,-0.092710549
+333,1974,"Stark, Richard,",1933,1974,21221,,crime,1974,m,chirandom | teamblack | crime,New York R,,us,,1973.359021,,Criminals;,Butcher's moon,-0.094321789
+692,1809,"More, Hannah,",1745,1809,nyp.33433074915970,v. 2,non_genre,1809,f,teamred | random,New York;published by T. and J. Swords [printed by M'Farlane & Long].;1809..,,uk,36723572,1808.350706,8667884,English fiction,CÅ“lebs in search of a wife,-0.094870042
+670,1904,"Harris-Burland, J. B.",1870,1904,nyp.33433074850870,,scifi,1904,m,teamred | locscifi,Boston;Lit,PZ3.H2443Pr2,uk,13659278,1903.341872,8664795,Science fi,The Princess Thora,-0.095452524
+903,1875,"Mason, Charles Welsh.",1831,1875,uiuo.ark+=13960=t1qf99m3q,v.3,non_genre,1875,m,teamblack | random,London;Sam,,uk,56485321,1874.262894,8722670,,"The rape of the gamp; or,",-0.100660145
+123,1925,"Phillpotts, Eden,",1862,1925,11156,,crime,1925,m,chirandom | det100 | teamblack | stew,London Hut,,uk,,1924.213372,,,A voice from the dark,-0.103925485
+950,1888,"Green, Anna Katharine,",1846,1906,uva.x001307832,,crime,1888,f,teamred | det100 | stew,New York;G,,us,21309411,1887.208245,9782975,,Behind closed doors,-0.104263522
+338,1976,"Jenkins, Dan,",1929,1976,21330,,non_genre,1976,m,chirandom | teamred,New York Atheneum 1976,,us,,1975.176124,279,Humorous fiction;Television broadcasting,Limo,-0.10638148
+596,1889,"Twain, Mark,",1835,1896,mdp.39015066036578,,scifi,1889,m,teamblack | anatscifi | stew,New York;H,,us,9451665,1888.11877,664119,,A Connecticut Yankee in K,-0.110163262
+892,1874,"Pinkerton, Allan,",1819,1874,uc2.ark+=13960=t9t14vb5t,,crime,1874,m,teamred | locdetective,Chicago;W.,,us,385323,1873.102824,1744766,Detectives,The expressman and the de,-0.111214686
+158,1936,"Innes, Michael,",1906,1936,11499,,crime,1936,m,chirandom | teamred | chimyst | stew,London Vic,,uk,,1935.094193,,,Death at the president's ,-0.111783794
+326,1973,"Platt, Kin,",1911,1973,21127,,crime,1973,m,teamblack | chimyst,New York R,,us,,1972.061636,,Mystery fi,The Princess Stakes murde,-0.113930502
+375,1979,"Schulman, J. Neil 1953-  ",,1979,21670,,scifi,1979,m,teamblack | chiscifi,New York C,,us,,1978.009453,,Science fi,Alongside night,-0.117371329
+135,1930,"Berkeley, Anthony,",1893,1930,11285,,crime,1930,m,teamblack | chimyst,Garden Cit,,uk,,1928.973712,,England --,The Piccadilly murder,-0.11972797
+848,1911,"Pearson, Edmund Lester,",1880,1911,uc2.ark+=13960=t3pv6dr2h,,non_genre,1911,m,teamblack | random,Boston;Sma,Z682.5.P31,us,1484027,1909.879502,6497282,Anecdotes;,The librarian at play,-0.125939945
+723,1888,"Farjeon, B. L.",1838,1888,nyp.33433075761720,v. 3,non_genre,1888,m,teamblack | random,London;War,,uk,37236515,1886.865193,558285,,Miser Farebrother,-0.126883466
+768,1911,"Johnston, Mary,",1870,1911,uc1.$b807274,,non_genre,1911,f,teamblack | random,Boston;New,PS2142.L6 1911,us,30612223,1909.858964,7939341,"Civil War,",The long roll,-0.127294149
+489,1927,"Lovecraft, H. P.",1890,1927,LovecraftCharlesDexter1927,,gothic,1927,m,teamblack | pbgothic,,,us,,1925.792957,,,The Case of Charles Dexter Ward,-0.131646467
+475,1922,"Hough, Emerson,",1857,1922,4690,,non_genre,1922,m,chirandom | teamred,New York H,,us,,1920.71816,,Missouri R,The young Alaskans on the,-0.136578383
+659,1791,"Radcliffe, Ann Ward,",1764,1795,nnc1.cu58506756,,gothic,1791,f,teamblack | pbgothic | stew,Philadelph,,uk,9590696,1789.688999,8434485,,The romance of the forest,-0.138501182
+53,1941,"Merritt, Abraham,",1884,1941,10645,,scifi,1941,m,teamred | chiscifi | stew,New York; ,,us,,1939.646975,,Science fi,The metal monster,-0.141272153
+445,1989,"Jeter, K. W,",1950,1989,23117,,scifi,1989,m,teamred | chiscifi,New York S,,us,,1987.630152,,Science fi,Farewell horizontal,-0.142381422
+896,1818,"Austen, Jane,",1775,1818,uiuo.ark+=13960=t09w14g77,v. 1,gothic,1818,f,teamblack | lochorror,London;Joh,PR4034.N7 1818,uk,2026857,1816.498567,8721875,Rejection ,Northanger Abbey,-0.151057778
+830,1886,"LemaÃ®tre, Jules,",1853,1920,uc2.ark+=13960=t1dj5cf2j,,non_genre,1886,m,teamred | random,London;Elk,,fr,18822991,1884.495824,7694490,,Serenus and other stories,-0.151238596
+747,1916,"Sherwood, Margaret Polloc",1889,1916,nyp.33433076081649,,non_genre,1916,f,teamblack | random,Boston;Lit,PZ3.S5545W,us,1461667,1914.49317,8661586,,The worn doorstep,-0.151413612
+217,1954,"Heinlein, Robert A.",,1954,20139,,scifi,1954,m,teamblack | chiscifi | stew,New York; ,,us,,1952.471223,,Science fi,The star beast,-0.152860722
+200,1951,"Spillane, Mickey,",1918,1951,20032,,crime,1951,m,hardboiled | chimyst | teamred,New York E,,us,,1949.370577,,"Hammer, Mi",The big kill,-0.15949709
+617,1813,"Roche, Regina Maria,",1763,1813,njp.32101013133523,v.1,gothic,1813,f,teamred | stangothic,"London;Printed at the Minerva Press, for A. K. Newman and Co.;1813.",,uk,7031984,1811.276383,8883560,,The monastery of St. Columb;,-0.165707957
+140,1930,"Williams, Charles,",1886,1930,11311,,non_genre,1930,m,chifantasy | teamblack,London Vic,,uk,,1928.259628,,Good and e,War in heaven,-0.166812723
+509,1880,"Greg, Percy,",1836,1880,dul1.ark+=13960=t3dz0xh78,v.1,scifi,1880,m,teamblack | anatscifi | locscifi,London;TrÃ_,PZ3.G8616A,uk,12767085,1878.254407,6678144,Science fi,Across the zodiac,-0.167157011
+701,1827,"Lytton, Edward Bulwer Lyt",1803,1830,nyp.33433074937610,,gothic,1827,m,teamblack | pbgothic | stew,New York;J,,uk,223417,1825.162466,8664083,,Falkland,-0.173219328
+400,1983,"May, Julian,",1931,1983,22103,,scifi,1983,f,teamblack | chiscifi,Boston Hou,,us,,1981.086258,,Science fi,The nonborn king,-0.178244255
+267,1965,"MacDonald, John D.",1916,1965,20642,,crime,1965,m,chirandom | teamred | chimyst, Greenwich,,us,,1963.069489,,Florida --,A deadly shade of gold,-0.179349979
+379,1980,"Herzog, Arthur,",1927,1980,21734,,non_genre,1980,m,chirandom | teamred,New York R,,us,,1978.040775,,Suspense f,Aries rising,-0.181243321
+152,1933,"White, Ethel Lina,",1876,1933,11416,,crime,1933,f,chirandom | teamred | chimyst,New York H,,uk,,1931.032265,,,Put out the light,-0.181804455
+382,1981,"Harris, Thomas",1940,1981,21845,,multi,1981,m,chimyst | pbgothic | teamred,New York: ,,us,,1979.025703,,Government,Red dragon,-0.182237119
+674,1848,"Kavanagh, Julia,",1824,1859,nyp.33433074863782,,non_genre,1848,f,teamblack | random,New York;D,,ir,37257042,1845.996035,8669084,,Madeleine,-0.184193316
+24,1929,"Kline, Otis Adelbert,",1891,1929,10310,,scifi,1929,m,teamblack | chiscifi | stew,Chicago A.,,us,,1926.990474,,Science fi,The planet of peril,-0.184560017
+901,1803,"Cuthbertson, Catherine.",1780,1807,uiuo.ark+=13960=t1gh9v49g,v.4,gothic,1803,f,teamblack | stangothic | stew,London;G. Robinson;1807.,,uk,11893100,1800.977707,8722972,,Romance of the Pyrenees,-0.185401848
+439,1988,"Rosenberg, Joel,",1954,1988,22960,,scifi,1988,m,teamred | chifantasy | chiscifi,New York N,,us,,1985.889667,,Science fi,Not for glory,-0.191206973
+17,1927,"Hill, Grace Livingston,",1865,1927,10270,,non_genre,1927,f,chirandom | teamblack,New York G,,us,,1924.815334,,Religious ,Job's niece,-0.196108257
+920,1810,"Cuthbertson, Catherine.",1780,1810,uiuo.ark+=13960=t6251zn27,v.3,gothic,1810,f,teamblack | stangothic,London;Printed for George Robinson;1810.,,uk,6715887,1807.804486,8719830,,Forest of Montalbano,-0.196823546
+730,1893,"Flammarion, Camille,",1842,1894,nyp.33433075827018,,scifi,1893,m,teamblack | anatscifi,New York;C,PZ3.F612O,fr,2231489,1890.798784,6708866,,Omega: the last days of t,-0.197199526
+687,1896,"Merrick, Leonard,",1864,1913,nyp.33433074897426,,non_genre,1896,m,teamred | random,New York;L,PZ3.M525T4,uk,4545642,1893.774541,158356,,This stage of fools,-0.198798078
+933,1859,"Chorley, Henry Fothergill",1808,1859,uiuo.ark+=13960=t9c53x809,v.1,non_genre,1859,m,teamred | random,London;Jam,,uk,4334467,1856.63748,8722958,,Roccabella,-0.207835511
+354,1977,"Saul, John,",1942,1977,21470,,gothic,1977,m,teamred | chihorror,New York D,,us,,1974.531674,,Children;P,Suffer the children,-0.214812016
+184,1947,"Robins, Denise,",1897,1947,11836,,non_genre,1947,f,chirandom | teamred, Leicester,,uk,,1944.512343,,Large type,More than love,-0.216086709
+582,1886,"Stevenson, Robert Louis,",1850,1903,mdp.39015059642994,,multi,1886,m,teamred | pbgothic | anatscifi | stew,New York;C,,uk,4470724,1883.509554,123543,,Strange case of Dr. Jekyl,-0.216270607
+434,1988,"Anthony, Piers,",1934,1988,22817,,non_genre,1988,m,chifantasy | teamblack,New York A,,us,,1985.390605,,Fantasy fi,Heaven cent,-0.224113743
+449,1989,"Shatner, William,",1931,1989,23191,,multi,1989,m,teamred | chimyst | chiscifi,New York P,,us,,1986.31509,,Science fi,TekWar,-0.229093022
+503,1912,"Doyle, Arthur Conan,",1859,1912,coo.31924051019580,,scifi,1912,m,teamred | anatscifi | stew,"New York, ",,uk,8518122,1909.269078,11405226,,The lost world,-0.232126883
+317,1972,"Levin, Ira,",1929,1972,21035,,multi,1972,m,teamblack | chihorror | chiscifi,New York R,,us,,1969.262418,,Married wo,The Stepford wives,-0.232566084
+527,1803,"Lee, Harriet,",1757,1803,hvd.hwkdax,v.1,non_genre,1803,f,teamred | random,"London;Printed for G. and J. Robinson;1804, 1803.",,uk,83645615,1800.260297,9708812,,Canterbury tales,-0.232705925
+137,1930,"Oppenheim, E. Phillips,",1866,1930,11300,,crime,1930,m,teamred | chimyst | stew,Boston Lit,,uk,,1927.259175,,London (En,The million pound deposit,-0.232779918
+927,1803,"Cuthbertson, Catherine.",1780,1803,uiuo.ark+=13960=t8nc69j1b,v.3,gothic,1803,f,teamblack | stangothic,London;Printed for G. and J. Robinson;1803.,,uk,6715920,1800.159399,8690976,English fiction,Romance of the Pyrenees,-0.239358846
+628,1886,"Hume, Fergus,",1859,1900,njp.32101063580268,,crime,1886,m,teamred | det100,London;Jar,,uk,17653915,1883.158083,8916598,,The mystery of a hansom c,-0.239445636
+191,1950,"Crispin, Edmund,",1921,1950,11907,,crime,1950,m,teamblack | chimyst,London V. ,,uk,,1947.125236,,"Fen, Gerva",Frequent hearses,-0.241611431
+367,1978,"Strieber, Whitley",1945,1978,21578,,gothic,1978,m,teamred | pbgothic,New York: ,,us,,1975.1227,,Werewolves,The wolfen,-0.241778672
+885,1876,"Russell, William Clark,",1844,1898,uc2.ark+=13960=t9474d81g,,crime,1876,m,det100 | teamblack | stew,London;Cha,,uk,13352223,1873.066599,7692227,,Is he the man?,-0.245477846
+876,1919,"Pease, Howard,",,1919,uc2.ark+=13960=t7np1xq4d,,gothic,1919,m,teamblack | locghost | stew,London;E. ,,,3715366,1916.060882,6934614,Ghost stor,Border ghost stories,-0.245854775
+359,1978,"Brown, Wesley,",1945,1978,21501,,non_genre,1978,m,chirandom | teamred,New York R,,us,,1975.0403,,Bildungsro,Tragic magic,-0.247211884
+270,1965,"Prather, Richard S,",1921,1965,20653,,crime,1965,m,teamred | chimyst,New York T,,us,,1961.969482,,"Scott, She",The meandering corpse,-0.251881468
+807,1897,"Wait, Frona Eunice,",1859,1897,uc1.b3578887,,scifi,1897,f,teamred | femscifi,San Franci,PZ3.C6709Y,us,6443351,1893.875308,6678235,,Yermah the Dorado,-0.258091048
+939,1850,"Hawthorne, Nathaniel,",1804,1889,uva.x000180089,,gothic,1850,m,teamred | pbgothic | stew,"Boston, Ne",PZ3.H318Sc20,us,34554465,1846.832688,9793718,,The scarlet letter,-0.260901294
+3,1930,"Burroughs, Edgar Rice,",1875,1930,10083,,scifi,1930,m,teamred | chifantasy | chiscifi,New York G,,us,,1926.704716,,Adventure ,Tarzan at the earth's cor,-0.269339375
+626,1794,"Radcliffe, Ann Ward,",1764,1828,njp.32101051650776,vol.1,gothic,1794,f,teamblack | pbgothic | stew,Philadelph,PR5202.M9 1828,uk,4321242,1790.700611,8899606,,The mysteries of Udolpho,-0.26961009
+476,1922,"Kyne, Peter B.",1880,1922,4698,,non_genre,1922,m,chirandom | teamred,New York C,,us,,1918.655423,,Shipping c,Cappy Ricks retires,-0.272589672
+514,1862,"Braddon, M. E.",1835,1864,dul1.ark+=13960=t4jm31m6k,,sensation,1862,f,teamred | sensation | stew,Mobile,,uk,,1858.635582,,,Lady Audley's Secret,-0.273897919
+371,1979,"Cline, C. Terry,",1935,1979,21607,,non_genre,1979,m,chirandom | teamblack,Garden Cit,,us,,1975.631508,,Visions,Cross current,-0.274166518
+119,1924,"Fletcher, J. S.",1863,1924,11121,,crime,1924,m,teamblack | chimyst,New York; ,,uk,,1920.603874,,Mystery fi,The safety pin,-0.275988657
+271,1965,"Raphael, Rick,",1919,1965,20655,,scifi,1965,m,teamred | chiscifi | stew,New York S,,us,,1961.57716,,Science fi,Code three,-0.277750126
+182,1946,"Koestler, Arthur,",1905,1946,11809,,non_genre,1946,m,chirandom | teamblack,New York M,,uk,,1942.55471,,Jews;Jewis,Thieves in the night,-0.27923036
+196,1951,"Asimov, Isaac,",1920,1951,20002,,scifi,1951,m,teamred | chiscifi,Garden Cit,,us,,1947.511311,,Science fi,Foundation,-0.282092002
+420,1987,"Collins, Max Allan,",1968,1987,22649,,crime,1987,m,teamblack | chimyst,New York; ,,us,,1983.431187,,Thrillers;,Spree,-0.287375156
+629,1903,"Isham, Frederic Stewart,",1866,1903,njp.32101063580995,,non_genre,1903,m,teamred | random,Indianapol,,us,10095079,1899.419542,8916628,,Under the rose,-0.288142995
+321,1973,"Gardner, John,",1933,1973,21094,,non_genre,1973,m,chirandom | teamred | chifantasy,New York A,,us,,1969.397034,,Jason (Gre,Jason and Medeia,-0.289627147
+288,1967,"Levin, Ira,",1929,1967,20743,,gothic,1967,m,teamblack | pbgothic | chihorror | stew,New York R,,us,,1963.395072,,Upper West,Rosemary's baby,-0.289756498
+846,1863,"Reade, Charles,",1814,1899,uc2.ark+=13960=t3bz6dj56,v. 1,sensation,1863,m,teamred | sensation | stew,Boston,,uk,,1859.371477,,,Hard Cash,-0.291312258
+280,1966,"MacDonald, John D.",1916,1966,20698,,crime,1966,m,teamred | chimyst,New York F,,us,,1962.360917,,Florida --,Darker than amber,-0.292008591
+272,1965,"Spencer, Elizabeth,",1921,1965,20661,,non_genre,1965,f,chirandom | teamblack,New York T,,us,,1961.34576,,Mississipp,The voice at the back doo,-0.29300801
+823,1887,"Clarke, Rebecca Sophia,",1883,1887,uc2.ark+=13960=t0js9hc64,,non_genre,1887,f,teamblack | random,Boston;Lee,,us,8569879,1883.342414,7655935,,Drones' honey,-0.293228598
+744,1911,"Wells, Carolyn,",1862,1911,nyp.33433076073786,,crime,1911,f,teamred | det100 | stew,Philadelph,PZ3.W463GlPS3545.E533,us,4530196,1907.302924,8660028,,The gold bag,-0.295832497
+115,1940,"Chandler, Raymond,",1888,1940,11101,,crime,1940,m,det100 | teamblack | hardboiled | stew,New York: ,,us,,1936.243043,,,Farewell My Lovely,-0.299780832
+437,1988,"Hambly, Barbara",1951,1988,22897,,gothic,1988,f,chifantasy | teamblack | pbgothic | stew,New York: ,,us,,1984.242424,,Fantasy fi,Those who hunt the night,-0.299821693
+239,1959,"Kirkland, Elithe Hamilton",,1959,20380,,non_genre,1959,f,chirandom | teamblack,Garden Cit,,us,,1955.241307,,,Love is a wild assault,-0.299895359
+289,1967,"McNichols, Charles Longstreth,",1895,1967,20750,,non_genre,1967,m,chirandom | teamred," Lincoln, University of Nebraska Press 1967",,us,,1963.22928,144,Mohave Indians;Arizona,Crazy weather,-0.300688358
+452,1952,"Allingham, Margery,",1904,1952,23468,,crime,1952,f,teamred | chimyst | cozy,Garden Cit,,uk,,1948.195999,,England;En,The tiger in the smoke,-0.30288279
+4,1930,"Stratemeyer, Edward,",1862,1930,10086,,non_genre,1930,m,chirandom | teamblack,Boston Lot,,us,,1926.185518,,Mexican Wa,With Taylor on the Rio Gr,-0.3035739
+360,1978,"Daniels, Les,",1943,1978,21511,,gothic,1978,m,teamred | chihorror | stew,New York C,,us,,1974.174168,,Spain -- H,The black castle,-0.30432228
+624,1807,"Dacre, Charlotte,",1771,1807,njp.32101037977574,vol.3-4,gothic,1807,f,teamblack | pbgothic,London;T. ,,uk,777049387,1803.134687,8889025,,The libertine;,-0.30692557
+806,1880,"Greg, Percy,",1836,1880,uc1.b3578701,v.2,scifi,1880,m,teamblack | anatscifi | locscifi,London;TrÃ_,PZ3.G8616A,uk,12767085,1876.075426,6678144,Science fi,Across the zodiac,-0.310833086
+139,1930,"Stapledon, Olaf,",1886,1930,11305,,scifi,1930,m,teamred | chiscifi | stew,London Met,,uk,,1926.046513,,Science fi,Last and first men,-0.31273952
+862,1879,"Pinkerton, Allan,",1819,1879,uc2.ark+=13960=t5bc3wr6q,,crime,1879,m,teamred | locdetective,New York;G,,us,12719329,1874.993769,7670294,Detectives,Mississippi outlaws and t,-0.316217301
+104,1932,"Huxley, Aldous,",1894,1932,11043,,scifi,1932,m,chiutopia | teamblack | chiscifi,Garden Cit,,uk,,1927.940915,,Culture;Gr,Brave new world,-0.319702351
+571,1920,"Hewlett, Maurice,",1861,1920,mdp.39015031235545,,non_genre,1920,m,teamred | random,New York;H,PZ3.H498Lig,uk,3945313,1915.883891,437866,Fiction;ÃƒÂ_,The light heart,-0.323462358
+323,1973,"MacDonald, John D.",1916,1973,21114,,crime,1973,m,chirandom | teamred | chimyst,New York L,,us,,1968.784571,,Florida --,The scarlet ruse,-0.330011237
+294,1968,"Peters, Elizabeth,",1927,1968,20794,,non_genre,1968,f,chirandom | teamblack,New York M,,us,,1963.733301,,Egypt;Roma,The jackal's head,-0.333391846
+192,1950,"Pragnell, Festus,",1905,1950,11921,,non_genre,1950,m,teamred | chifantasy,New York  ,,uk,,1945.688269,,Fantasy fi,The green man of Graypec,-0.336361163
+555,1918,"Post, Melville Davisson,",1869,1918,mdp.39015010776881,,crime,1918,m,det100 | teamblack | stew,New York;L,PZ3.P844U,us,1016010,1913.674588,205914,,"Uncle Abner, master of my",-0.337263216
+724,1904,"Tracy, Louis,",1863,1904,nyp.33433075763080,,crime,1904,m,det100 | teamblack,New York;R,PZ3.T674A1,uk,1935922,1899.632383,7673651,,The Albert Gate mystery,-0.340046121
+583,1922,"Marquand, John P.",1893,1922,mdp.39015062473205,,non_genre,1922,m,teamred | random,New York;C,,us,63670224,1917.62598,5110965,,The unspeakable gentleman,-0.340468315
+125,1926,"Gask, Arthur,",1872,1926,11169,,crime,1926,m,chirandom | teamblack | chimyst,London H. ,,uk,,1921.61151,,,Cloud: the smiter,-0.341422415
+952,1910,"Leroux, Gaston,",1868,1910,uva.x001752097,,crime,1910,m,teamred | det100,New York;G,,fr,704115751,1905.565576,9794563,,The mystery of the yellow,-0.344451159
+914,1867,"Kirkus, William,",1830,1867,uiuo.ark+=13960=t42r4bj1d,v.2,non_genre,1867,m,teamblack | random,London;Tin,,uk,2208440,1862.546784,8722031,,Only to be married,-0.345690305
+789,1864,"Le Fanu, Joseph Sheridan,",1814,1864,uc1.b250129,v.3,multi,1864,m,teamred | sensation | pbgothic | stew,London;R. ,,ir,5515317,1859.544138,6502425,,Uncle Silas,-0.345864744
+735,1900,"Osborne, Duffield,",1858,1900,nyp.33433076024060,,scifi,1900,m,teamred | locscifi | stew,New York;L,PZ3.O815 #b Se,us,16402623,1895.447046,8690139,Science fi,The secret of the crater,-0.352266709
+487,1898,"James, Henry,",1843,1898,JamesTurnOfScrew1898,,gothic,1898,m,teamred | pbgothic,,,us,,1893.440063,,,The Turn of the Screw,-0.352727208
+865,1885,"Lynch, Lawrence L.",1853,1886,uc2.ark+=13960=t5n874v29,,crime,1885,f,det100 | teamblack,Chicago;A.,,us,320092736,1880.366795,7666192,,"Dangerous ground, or, The",-0.357558286
+736,1921,"Rice, Alice Caldwell Hega",1870,1921,nyp.33433076047608,,non_genre,1921,f,teamred | random,New York;T,PZ3.R36Qui,us,2003540,1916.36538,7669798,,Quin,-0.357651548
+16,1927,"Glaspell, Susan,",1876,1927,10269,,crime,1927,f,chirandom | teamred | chimyst,London E. ,,us,,1922.357319,,Mystery an,A jury of her peers,-0.358183087
+672,1905,"Gibbon, Perceval,",1879,1909,nyp.33433074857248,,non_genre,1905,m,teamblack | random,New York;D,PZ3.G3523S,uk,6782292,1900.232379,6533670,,Salvator,-0.366421271
+389,1981,"Valin, Jonathan,",1947,1981,21904,,crime,1981,m,teamblack | chimyst | stew,New York D,,us,,1976.212826,,"Stoner, Ha",Dead Letter,-0.367710587
+161,1937,"Rhode, John",1884,1937,11545,,crime,1937,m,teamred | det100 | stew,New York: ,,uk,,1932.165454,,,The harvest murder,-0.370834157
+388,1981,"Strieber, Whitley",1945,1981,21900,,gothic,1981,m,teamblack | pbgothic | stew,New York: ,,us,,1976.163496,,Vampires,The hunger,-0.370963227
+953,1871,"Lytton, Edward Bulwer Lyt",1803,1871,uva.x030223689,,scifi,1871,m,teamblack | anatscifi,New York;F,,uk,1827211,1866.161916,9795627,Utopias,The coming race,-0.371067405
+255,1962,"Shannon, Dell,",1921,1962,20522,,crime,1962,m,teamblack | chimyst,New York W,,us,,1957.076404,,"Mendoza, L",Extra kill,-0.376705882
+651,1795,"Cumberland, Richard,",1732,1798,nnc1.0037104152,v.3,non_genre,1795,m,teamred | random,London;Pri,,uk,6702182,1790.05158,8398357,,Henry,-0.378342714
+453,1953,"Goudge, Elizabeth,",1900,1953,23474,,non_genre,1953,f,chirandom | teamred,New York C,,uk,,1947.989929,,Music;Larg,The heart of the family,-0.382407767
+38,1933,"Endore, S. Guy,",1900,1933,10403,,gothic,1933,m,chifantasy | teamblack | chihorror | stew,New York F,,us,,1927.958116,,Paris (Fra,The werewolf of Paris,-0.384505416
+456,1964,"Snow, C. P.",1905,1964,23514,,non_genre,1964,m,chirandom | teamblack,New York C,,uk,,1958.954658,,Politik;En,Corridors of power,-0.384733437
+717,1921,AnonymousGhost3,,1921,nyp.33433075732655,,gothic,1921,,teamred | locghost | stew,New York;L,PZ1.S285Hu,,1376917,1915.899743,8667561,Ghost stor,Humorous ghost stories,-0.388354415
+715,1920,"Christie, Agatha,",1890,1920,nyp.33433074970710,,crime,1920,f,det100 | teamblack | cozy,London;New,,uk,8661270,1914.660517,8667899,,The mysterious affair at ,-0.404128295
+93,1949,"Zagat, Arthur Leo,",1896,1949,10968,,scifi,1949,m,teamblack | chiscifi,Pa. Fantas,,us,,1943.621709,,Science fi,Seven out of time,-0.406687242
+265,1965,"Braithwaite, E. R.  (Edwa",,1965,20620,,non_genre,1965,m,chirandom | teamblack,London Bod,,guyana,,1959.557343,,,Choice of straws,-0.410931326
+175,1942,"Stapledon, Olaf,",1886,1942,11711,,scifi,1942,m,teamred | chiscifi,London Met,,uk,,1936.524082,,Science fi,Darkness and the light,-0.413124458
+15,1926,"Van Dine, S. S",1888,1926,10265,,crime,1926,m,teamred | det100,New York: ,,us,,1920.43423,,"Vance, Phi",The Benson murder case,-0.419049043
+947,1899,"Thornton, Marcellus Eugen",1846,1899,uva.x000676502,,non_genre,1899,m,teamred | random,London;New,,us,9671514,1893.426222,9794578,,"My ""budie"" and I",-0.41957711
+661,1890,"Donnelly, Ignatius,",1831,1890,nyp.33433039680552,,scifi,1890,m,teamred | anatscifi,Chicago;F.,,us,,1884.410961,8611888,,CÃ_sar's column,-0.420583385
+27,1930,"Kline, Otis Adelbert,",1891,1930,10336,,scifi,1930,m,teamred | chiscifi | stew,Chicago A.,,us,,1924.406103,,Science fi,Maza of the moon,-0.420903705
+406,1984,"Muller, Marcia,",1944,1984,22241,,crime,1984,f,teamred | chimyst | stew,New York S,,us,,1978.340401,,San Franci,Games to keep the dark aw,-0.425235861
+451,1989,"Weinstein, Howard,",1954,1989,23231,,scifi,1989,m,chirandom | teamblack | chiscifi | stew,New York P,,us,,1983.158599,,Science fi,Power hungry,-0.437223397
+340,1976,"Lutz, John,",1939,1976,21341,,crime,1976,m,teamred | chimyst,New York P,,us,,1970.14176,,Saint Loui,Buyer beware,-0.438333708
+553,1889,"Stockton, Frank Richard,",1834,1889,mdp.39015007007282,,scifi,1889,m,teamred | anatscifi,New york;D,,us,18920069,1883.107487,124275,,The great war syndicate,-0.440593626
+907,1818,"Austen, Jane,",1775,1818,uiuo.ark+=13960=t2b85z60c,v. 4,gothic,1818,f,teamblack | lochorror | stew,London;Joh,PR4034.N7 1818,uk,2026857,1812.098493,8721875,Rejection ,Northanger Abbey,-0.441186638
+23,1929,"Burroughs, Edgar Rice,",1875,1929,10302,,scifi,1929,m,teamred | chiscifi | stew,New York G,,us,,1922.982689,,Science fi,The monster men,-0.44882247
+905,1880,"Braddon, M. E.",1835,1880,uiuo.ark+=13960=t2697pf21,,sensation,1880,f,sensation | teamblack | stew,London,,uk,,1873.977797,,,The Story of Barbara,-0.449144982
+662,1800,"Karamzin, NikolaÄ_ MikhaÄ_lovich,",1766,1803,nyp.33433051569915,,non_genre,1800,m,teamred | random,London;Printed by G. Sidney;1803.,,ru,,1793.97402,8614719,,Russian tales,-0.449394057
+609,1913,"Aldridge, Janet.",,1913,mdp.39076002657265,,gothic,1913,f,teamred | locghost,Philadelph,,,144204779,1906.954267,9930140,Hazing;Con,The Meadow-Brook girls un,-0.450696541
+162,1937,"Wells, H. G.",1866,1937,11552,,scifi,1937,m,teamred | chiscifi,London Cha,,uk,,1930.910362,,Science fi,Star-begotten,-0.45359149
+838,1912,"Burroughs, Edgar Rice,",1875,1917,uc2.ark+=13960=t2794143s,,scifi,1912,m,teamred | anatscifi,New York;G,,us,28946565,1905.805906,7652854,,A princess of Mars,-0.46047902
+202,1952,"Asimov, Isaac,",1920,1952,20044,,scifi,1952,m,chirandom | teamblack | chiscifi | stew,Garden Cit,,us,,1945.783395,,"Seldon, Ha",Foundation and empire,-0.461963379
+470,1921,"Nathan, Robert,",1894,1921,4599,,non_genre,1921,m,chirandom | teamred,New York R,,us,,1914.748151,,Teachers;U,Autumn,-0.464287275
+149,1932,"Stapledon, Olaf,",1886,1932,11385,,scifi,1932,m,teamred | chiscifi,London Met,,uk,,1925.740087,,Science fi,Last men in London,-0.464818961
+348,1977,"Donaldson, Stephen R,",1947,1977,21416,,non_genre,1977,m,chifantasy | teamblack,New York H,,us,,1970.692464,,Fantasy li,The Illearth war,-0.467959126
+937,1838,"Trollope, Frances Milton,",1779,1838,umn.31951002096159c,v.2,non_genre,1838,f,teamblack | random,London;R. Bentley;1838.,,uk,5786305,1831.673879,11223881,,A romance of Vienna,-0.469184549
+320,1973,"Davis, Dorothy Salisbury,",1916,1973,21088,,crime,1973,f,chirandom | teamblack | chimyst,New York C,,us,,1966.631016,,Mystery fi,The little brothers,-0.472010823
+932,1812,"Byron, Medora Gordon.",,1812,uiuo.ark+=13960=t95723s7x,v.2,non_genre,1812,f,teamblack | random,"London;Printed at the Minerva-press, for A. K. Newman and co.;1812.",,uk,36811317,1805.524947,283101,,The Englishman,-0.479004725
+328,1973,"Stout, Rex,",1886,1973,21143,,crime,1973,m,teamred | chimyst,New York V,,us,,1966.479454,,New York (,Please pass the guilt,-0.482004389
+444,1989,"Hillerman, Tony,",1925,1989,23109,,crime,1989,m,teamred | chimyst, Thorndike,,us,,1982.46671,,United Sta,Talking God,-0.482844691
+179,1945,"Lewis, C. S.",1898,1945,11778,,scifi,1945,m,chifantasy | teamblack | chiscifi,London Bod,,uk,,1938.425907,,"Ransom, El",That hideous strength,-0.485535163
+815,1899,"Green, Anna Katharine,",1846,1899,uc1.b4104310,,crime,1899,f,det100 | teamblack,New York;L,,us,276196,1892.412757,6155805,,Agatha Webb,-0.486402236
+671,1905,"Harper, Vincent.",,1905,nyp.33433074850961,,scifi,1905,m,teamblack | anatscifi | stew,New York;D,,us,8259737,1898.353157,8666750,,The mortgage on the brain,-0.49033209
+598,1912,"Baum, L. Frank",1856,1912,mdp.39015074379739,,crime,1912,m,teamred | locdetective | stew,Chicago;Re,,,47014670,1905.322357,5668909,Mystery an,Aunt Jane's nieces on vac,-0.492362908
+97,1950,"Howard, Robert E.",1906,1950,10993,,non_genre,1950,m,chifantasy | teamblack,New York G,,us,,1943.183755,,Fantasy fi,Conan the conqueror,-0.501501992
+45,1937,"Pseudoman, Akkad,",1866,1937,10526,,scifi,1937,m,chirandom | teamblack | chiscifi," Princeton, N.J., Scientific Pub. Co. 1937",,us,,1930.176422,112,Science -- Philosophy;Technology -- Philosophy;Hypothesis,Zero to eighty,-0.501985522
+385,1981,"McIntyre, Vonda N,",1948,1981,21866,,scifi,1981,f,teamred | chiscifi,New York P,,us,,1974.099163,,Science fi,The entropy effect,-0.507079745
+174,1942,"Marsh, Ngaio,",1895,1942,11709,,crime,1942,f,chirandom | teamblack | chimyst | cozy,New York S,,nz,,1935.078514,,"Alleyn, Ro",A man lay dead,-0.508441274
+872,1912,"Pidgin, Charles Felton,",1844,1912,uc2.ark+=13960=t6zw19x28,,crime,1912,m,det100 | teamblack,Boston;L. ,PZ3.P592Ch,us,2329444,1905.059181,7646115,,The chronicles of Quincy ,-0.509716078
+644,1910,"Orczy, Emmuska Orczy,",1865,1910,njp.32101068574530,,crime,1910,f,det100 | teamblack,London;New,,uk,11192817,1903.036967,8972389,,Lady Molly of Scotland Ya,-0.511180755
+204,1952,"Jones, Raymond F.",1915,1952,20065,,scifi,1952,m,teamblack | chiscifi,Philadelph,,us,,1945.032016,,Science fi,Son of the stars,-0.511507253
+262,1964,"Fast, Howard,",1914,1964,20582,,non_genre,1964,m,chirandom | teamblack,Garden Cit,,us,,1956.939538,,,Agrippa's daughter,-0.517604994
+153,1934,"Linklater, Eric,",1899,1934,11442,,non_genre,1934,m,chirandom | teamred,New York F,,uk,,1926.930583,,Scottish f,Magnus Merriman,-0.51819545
+669,1910,"Eggleston, George Cary,",1839,1910,nyp.33433074848668,,non_genre,1910,m,teamblack | random,Boston;Lot,PZ3.E30We,us,3141215,1902.872929,6501584,,Westover of Wanalah;,-0.521996998
+726,1908,"Perrin, Alice,",1867,1908,nyp.33433075766463,,non_genre,1908,f,teamred | random,London;Cha,,uk,37301807,1900.869078,8670000,,The stronger claim,-0.522250933
+421,1987,"Flynn, Robert,",1932,1987,22676,,non_genre,1987,m,chirandom | teamred, Fort Worth : Texas Christian University Press 1987,,us,,1979.861686,406,Texas,Wanderer Springs,-0.522738307
+403,1984,"Cherryh, C. J,",1942,1984,22168,,scifi,1984,f,teamred | chifantasy | chiscifi,New York Y,,us,,1976.692246,,Science fi,Chanur's venture,-0.533910745
+390,1981,"Vardeman, Robert E,",1947,1981,21905,,scifi,1981,m,chirandom | teamred | chiscifi | stew,New York P,,us,,1973.669432,,Science fi,The Klingon gambit,-0.535415012
+663,1807,"Roche, Regina Maria,",1763,1807,nyp.33433067303937,v. 1,gothic,1807,f,teamred | stangothic,New-York;P. Burtsell;1807.,,uk,37291665,1799.668566,8618455,English fiction,"The discarded son; or, Haunt of the banditti",-0.535472168
+894,1823,"Gaspey, Thomas,",1788,1823,uiuo.ark+=13960=t00z7jj1c,v.2,gothic,1823,m,teamblack | stangothic,London;Longman;1823.,,uk,13323912,1815.569087,8722090,,"Other times; or, the monks of Leadenhall",-0.542031501
+678,1838,"James, G. P. R.",1799,1838,nyp.33433074868807,v. 1,non_genre,1838,m,teamred | random,New York;H,,uk,37312214,1830.564184,8670619,,The robber,-0.542354799
+824,1829,"Lytton, Edward Bulwer Lyt",1803,1829,uc2.ark+=13960=t0ms3qz4m,v.1,non_genre,1829,m,teamred | random,London;Hen,PZ3.L998DPR4922,uk,4630009,1821.542615,5261214,History;An,Devereux,-0.54377701
+826,1912,"Rose, William Ganson,",1878,1912,uc2.ark+=13960=t0xp6w75n,,non_genre,1912,m,teamblack | random,New York;D,HF6161.M8R7,us,2381540,1904.497406,7671273,,Putting Marshville on the,-0.546757947
+195,1950,"Wentworth, Patricia,",1878,1950,11932,,crime,1950,f,chirandom | teamblack | chimyst,Philadelph,,uk,,1942.457495,,"Silver, Ma",Through the wall,-0.549389558
+686,1871,"Marryat, Florence,",1837,1871,nyp.33433074880075,,non_genre,1871,f,teamblack | random,New York;H,,uk,13325535,1863.455297,8666639,English fi,Her lord and master,-0.54953449
+345,1976,"Vonnegut, Kurt,",1922,1976,21379,,non_genre,1976,m,chifantasy | teamblack,New York :,,us,,1968.348518,,Fantasy fi,Slapstick,-0.556575259
+940,1865,"Dickens, Charles,",1812,1881,uva.x000237148,,gothic,1865,m,teamblack | pbgothic,Boston;Hou,,uk,20658959,1857.337287,9780471,,Our mutual friend,-0.557315794
+942,1865,"Verne, Jules,",1828,1874,uva.x000380956,,scifi,1865,m,teamred | anatscifi | stew,New York;S,PQ2469.D3E45 1874,fr,2867357,1857.333761,8719887,,From the Earth to the Moo,-0.557548294
+814,1904,"Baring-Gould, S.",,1904,uc1.b4103074,,gothic,1904,m,teamred | locghost | stew,London;Met,,uk,20916821,1896.333601,6155345,Ghost stor,A book of ghosts,-0.557558797
+911,1818,"Porter, Anna Maria,",1778,1818,uiuo.ark+=13960=t3jw90j80,v.2,gothic,1818,f,teamblack | stangothic,"London;Printed for Longman, Hurst, Rees, Orme, and Brown;1818.",,uk,3596752,1810.313286,404317,,The fast of St. Magdalen,-0.558898334
+212,1953,"Lasswell, Mary,",1905,1953,20102,,non_genre,1953,f,chirandom | teamred,Boston Hou,,us,,1945.19152,,Fishers;Wi,Tooner Schooner,-0.56692726
+506,1922,"Hamilton, Cicely,",1872,1922,dul1.ark+=13960=t16m3xm4f,,scifi,1922,f,teamred | femscifi | anatscifi,London;Leo,,uk,6700740,1914.066852,10943531,Utopias,Theodore savage,-0.575147524
+685,1914,"Locke, William John,",1863,1914,nyp.33433074879481,,non_genre,1914,m,teamblack | random,New York;J,PZ3.L796Fo,uk,1842255,1906.063859,6534259,,The fortunate youth,-0.575344855
+696,1920,"Benson, E. F.",1867,1920,nyp.33433074926712,,non_genre,1920,m,teamred | random,New York;D,,uk,7362222,1912.050092,8664212,,"""Queen Lucia""",-0.576252642
+946,1888,"Ward, Humphry,",1851,1888,uva.x000674483,v.3,non_genre,1888,f,teamblack | random,Leipzig;Ta,,uk,17989629,1880.001266,9782339,,Robert Elsmere,-0.579472073
+418,1987,"Bonanno, Margaret Wander,",,1987,22623,,scifi,1987,f,teamblack | chiscifi | stew,New York Y,,us,,1978.845277,,Movie nove,Strangers from the sky,-0.589757561
+779,1846,"Reynolds, George W. M.",1814,1846,uc1.32106010644463,v.4,gothic,1846,m,teamred | pbgothic | stew,London;G. ,,uk,6338680,1837.687936,8323033,,The mysteries of London,-0.600132201
+491,1946,"Peake, Mervyn,",1911,1946,PeakeTitusGroan1946,,gothic,1946,m,teamblack | pbgothic | stew,,,uk,,1937.64195,,,Titus Groan,-0.603164391
+938,1915,"Rockwood, Roy.",,1915,umn.319510024638086,,crime,1915,m,teamblack | locdetmyst | juvenile | drop,New York;C,PZ7.A498Daa 1915,us,3453283,1906.586468,11223763,"Dashaway, ","Dave Dashaway, air champi",-0.606822764
+68,1945,"Stein, Gertrude,",1874,1945,10793,,non_genre,1945,f,chirandom | teamred,New York R,,us,,1936.55717,,,Wars I have seen,-0.608754554
+264,1965,"Ball, John Dudley,",1911,1965,20618,,crime,1965,m,teamred | chimyst,New York H,,us,,1956.466485,,Police;Pol,In the heat of the night,-0.614734108
+159,1937,"Allingham, Margery,",1904,1937,11519,,crime,1937,f,chirandom | teamred | chimyst | cozy,London W. ,,uk,,1928.444381,,England;My,Dancers in mourning,-0.616191549
+9,1940,"Atkinson, Eleanor,",1863,1940,10151,,non_genre,1940,f,chirandom | teamred,New York H,,us,,1931.440194,,Dogs;Skye ,Greyfriars Bobby,-0.61646763
+410,1985,"Effinger, George Alec,",1947,1985,22340,,scifi,1985,m,chirandom | teamblack | chiscifi | stew,Garden Cit,,us,,1976.424585,,Science fi,The nick of time,-0.617496844
+368,1978,"Swift, Edward,",1943,1978,21579,,non_genre,1978,m,chirandom | teamred,New York V,,us,,1969.418506,,Librarians,Splendora,-0.617897671
+209,1953,"Asimov, Isaac,",1920,1953,20083,,scifi,1953,m,chirandom | teamred | chiscifi | stew,Garden Cit,,us,,1944.390292,,"Seldon, Ha",Second foundation,-0.619758034
+666,1918,"Butler, Ellis Parker,",1869,1918,nyp.33433074807342,,crime,1918,m,det100 | teamblack,Boston;New,PZ3.B9766Ph,us,1949982,1909.359734,123924,,Philo Gubb,-0.621772984
+383,1981,"Jones, Robert F.",1934,1981,21851,,non_genre,1981,m,chirandom | teamred,New York S,,us,,1972.318486,,Alaska;Adv,Slade's glacier,-0.624492728
+630,1908,"Bodkin, M. McDonnell",1850,1908,njp.32101066455278,,crime,1908,m,det100 | teamblack | stew,London;Unw,,ir,8823315,1899.288255,8927893,,The quests of Paul Beck,-0.62648606
+731,1867,"Gaboriau, Emile,",1832,1906,nyp.33433075833354,,crime,1867,m,det100 | teamblack,New York;C,,fr,30650664,1858.283092,1795880,,The mystery of Orcival,-0.626826492
+534,1849,"Ainsworth, William Harris",1805,1880,inu.30000060903741,,gothic,1849,m,teamblack | pbgothic,London;New,,uk,11412156,1840.231144,6057971,,The Lancashire witches,-0.630251802
+290,1967,"Reed, Ishmael,",1938,1967,20755,,non_genre,1967,m,chifantasy | teamblack,Garden Cit,,us,,1958.218213,,African Am,The free-lance pallbearer,-0.631104451
+713,1917,"Doyle, Arthur Conan,",1859,1917,nyp.33433074968045,,crime,1917,m,teamred | locdetmyst,New York;G,,other,718243,1908.217442,6871794,Private in,His last bow,-0.631155289
+261,1964,"Clement, Hal,",1922,1964,20573,,scifi,1964,m,teamblack | chiscifi,New York B,,us,,1955.150688,,Science fi,Close to critical,-0.635556885
+380,1980,"Jakes, John,",1932,1980,21739,,non_genre,1980,m,chirandom | teamblack,New York Y : Jove Publications 1980,,us,,1970.94566,768,Kent family (Fictitious characters);United States;Adventure fiction;Epic fiction;Historical fiction,The Americans,-0.649075876
+512,1888,"De Mille, James,",1833,1888,dul1.ark+=13960=t3zs3df24,,scifi,1888,m,teamblack | anatscifi | locscifi,New York;H,PS1534.D35S8,ca,4355055,1878.721759,7509390,Utopias;Sc,A strange manuscript foun,-0.663839258
+446,1989,"Lackey, Mercedes,",1950,1989,23126,,multi,1989,f,chifantasy | teamblack | chimyst | chihorror,New York T,,us,,1979.707329,,Occult fic,Burning water,-0.664790731
+376,1979,"Stasheff, Christopher,",1944,1979,21672,,scifi,1979,m,teamred | chifantasy | chiscifi,Garden Cit,,us,,1969.686842,,Science fi,A wizard in Bedlam,-0.666141618
+310,1971,"Corman, Avery,",1935,1971,20942,,non_genre,1971,m,chifantasy | teamblack,New York S,,us,,1961.685736,,Fantasy;Fa,Oh: God!,-0.666214576
+113,1950,"Lewis, C. S.",1898,1950,11099,,non_genre,1950,m,chifantasy | teamblack,London G. ,,uk,,1940.626007,,Fantasy;Fa,The lion: the witch and t,-0.670152916
+616,1843,"James, G. P. R.",1799,1843,njp.32101007059791,v.1,non_genre,1843,m,teamblack | random,London;Sau,,uk,2841712,1833.611355,2104490,Robin Hood,Forest days;,-0.671119046
+275,1966,"Asimov, Isaac,",1920,1966,20673,,scifi,1966,m,teamred | chiscifi | stew,Boston Hou,,us,,1956.602622,,Movie nove,Fantastic voyage,-0.67169484
+728,1876,"GrÃ©ville, Henry,",1842,1878,nyp.33433075818611,,non_genre,1876,f,teamred | random,Philadelph,,fr,37713510,1866.527779,8677648,Translatio,Marrying off a daughter,-0.676629808
+816,1895,"Corelli, Marie,",1855,1896,uc1.b4104774,,gothic,1895,f,teamred | pbgothic,Philadelph,PZ3.C812Sor,uk,1724064,1885.525471,286078,,The sorrows of Satan;,-0.676781965
+306,1970,"L'Amour, Louis,",1908,1970,20899,,non_genre,1970,m,chirandom | teamred,New York B,,us,,1960.516091,,Land settl,Galloway,-0.677400454
+924,1886,"Corelli, Marie,",1855,1886,uiuo.ark+=13960=t7cr65585,v.2,scifi,1886,f,teamred | femscifi | locscifi,London;Ric,,uk,12076816,1876.35223,8722974,Science fi,A romance of two worlds,-0.688205046
+566,1785,"Genlis, StÃ©phanie FÃ©licitÃ©",1746,1785,mdp.39015024230610,v.4,non_genre,1785,f,teamred | random,London;Pri,,fr,5236729,1775.325721,1796037,,Tales of the castle;,-0.689952932
+590,1907,"Murfree, Mary Noailles,",1850,1907,mdp.39015063941135,,non_genre,1907,f,teamred | random,New York;D,PZ3.M943Wi,us,1108662,1897.323103,322679,,The windfall;,-0.690125554
+424,1987,"Hiaasen, Carl,",1953,1987,22692,,crime,1987,m,chirandom | teamred | chimyst,New York P,,us,,1977.264549,,Florida;Ph,Double whammy,-0.693986473
+349,1977,"Donaldson, Stephen R,",1947,1977,21417,,scifi,1977,m,chirandom | chifantasy | teamblack | chiscifi | stew,New York H,,us,,1967.111965,,Space and ,The power that preserves,-0.704047458
+858,1909,"Orczy, Emmuska Orczy,",1865,1909,uc2.ark+=13960=t4qj79t1j,,crime,1909,f,teamred | det100 | stew,New York;D,,uk,5338172,1899.099795,7668984,,The man in the corner,-0.704849922
+308,1970,"Spillane, Mickey,",1918,1970,20922,,crime,1970,m,hardboiled | teamblack | chimyst | stew,New York E,,us,,1960.037742,,"Hammer, Mi",Survival Zero,-0.708941478
+160,1937,"Linklater, Eric,",1899,1937,11535,,non_genre,1937,m,chirandom | teamred,London J. ,,uk,,1926.894953,,English fi,Juan in China,-0.718356622
+931,1883,"Oliphant, Laurence,",1829,1883,uiuo.ark+=13960=t9474zg09,v.1,non_genre,1883,m,teamred | random,Edinburgh;,,uk,21828368,1872.842017,8718045,823OL29A,Altiora Peto,-0.721847062
+183,1947,"Hartley, L. P.",1895,1947,11829,,non_genre,1947,m,chirandom | teamblack,London: Pu,,uk,,1936.840203,,Domestic f,Eustace and Hilda,-0.721966704
+734,1910,"Roe, Clifford Griffith,",1875,1910,nyp.33433075968796,,non_genre,1910,m,teamred | random,New York;F,HQ281.R6,us,259161,1899.762248,8679134,Chicago;Pr,Panders and their white s,-0.727106841
+101,1923,"Wells, H. G.",1866,1923,11018,,scifi,1923,m,teamred | chiscifi | stew,New York M,,uk,,1912.682473,,Science fi,Men like gods,-0.732367001
+694,1840,"Ainsworth, William Harris",1805,1858,nyp.33433074919402,,gothic,1840,m,teamred | pbgothic | stew,London;New,,uk,36143063,1829.676009,8663847,Lady;Engli,The Tower of London,-0.732793172
+427,1987,"McCaffrey, Anne,",1926,1987,22732,,non_genre,1987,f,chirandom | teamred,New York B,,us,,1976.662858,,Ireland;Fa,The lady,-0.733660344
+398,1983,"Foster, Alan Dean,",1946,1983,22073,,scifi,1983,m,chirandom | teamred | chiscifi | stew,New York Y,,us,,1972.653717,,Science fi,For love of mother-not,-0.734263051
+8,1935,"Burroughs, Edgar Rice,",1875,1935,10117,,non_genre,1935,m,chifantasy | teamblack,Calif. Tar,,us,,1924.652205,,Fantasy fi,Tarzan and the leopard me,-0.734362739
+105,1932,"Morgan, Charles,",1894,1932,11044,,non_genre,1932,m,chirandom | teamred,New York A,,uk,,1921.617201,,Engelse fi,The fountain,-0.736670847
+363,1978,"Lustbader, Eric,",1946,1978,21552,,scifi,1978,m,teamred | chiscifi,Garden Cit,,us,,1967.588889,,Science fi,Shallows of night,-0.738537655
+440,1989,"Cook, Robin,",1940,1989,23059,,multi,1989,m,teamred | chihorror | chiscifi | stew,New York P,,us,,1978.496726,,Science fi,Mutation,-0.744614619
+315,1971,"Thomas, Ross,",1926,1971,20996,,crime,1971,m,teamblack | chimyst,New York M,,us,,1960.489974,,United Sta,The fools in town are on ,-0.745059819
+861,1875,"Walraven, E. G.",1811,1875,uc2.ark+=13960=t53f4sg3b,,non_genre,1875,m,teamred | random,New York;N,,fr,8501533,1864.473921,7693557,,"The two orphans, or, The ",-0.746118319
+839,1918,"Hewlett, Maurice,",1861,1918,uc2.ark+=13960=t2h70dm6b,,non_genre,1918,m,teamred | random,London;Con,,uk,6564594,1907.413445,483166,Norse;Fict,Gudrid the Fair,-0.750105954
+127,1927,"Mirrlees, Hope,",1887,1927,11203,,non_genre,1927,f,chifantasy | teamblack,New York A,,uk,,1916.303158,,Fantasy fi,Lud-in-the-Mist,-0.757377961
+62,1944,"Burroughs, Edgar Rice,",1875,1944,10736,,scifi,1944,m,teamred | chifantasy | chiscifi," Tarzana, ",,us,,1933.231311,,Science fi,Land of terror,-0.762115389
+431,1987,"Spencer, LaVyrle,",1943,1987,22783,,non_genre,1987,f,chirandom | teamred,New York Y,,us,,1976.197358,,Large type,The gamble,-0.764354115
+634,1871,"Le Fanu, Joseph Sheridan,",1814,1871,njp.32101067344661,,crime,1871,m,teamred | det100,Philadelph,,uk,37262147,1860.148682,8668910,Irish fict,Checkmate,-0.76756369
+778,1866,"Gaboriau, Emile,",1832,1905,uc1.32106006960592,,crime,1866,m,teamred | det100,New York;S,,fr,9618288,1855.1361,7103227,,The widow Lerouge,-0.768393304
+391,1982,"Andrews, V. C.  (Virginia",,1982,21920,,gothic,1982,f,teamblack | chihorror | stew,New York P,,us,,1971.128702,,Horror fic,My sweet Audrina,-0.768881121
+574,1878,"Green, Anna Katharine,",1846,1906,mdp.39015035566440,,crime,1878,f,teamred | det100,New York;A,,us,8367751,1867.084172,404338,,The Leavenworth case,-0.771817295
+30,1931,"Leinster, Murray,",1896,1931,10355,,scifi,1931,m,teamblack | chiscifi,New York B,,us,,1920.065387,,Science fi,Murder madness,-0.773055935
+185,1948,"Mitchell, Gladys,",1901,1948,11860,,crime,1948,f,teamblack | chimyst,London M. ,,uk,,1937.04649,,Mystery an,The Dancing Druids,-0.774301977
+860,1916,"Winterburn, Florence Hull",1858,1916,uc2.ark+=13960=t53f4nk4h,,non_genre,1916,f,teamred | random,New York;L,PZ7.W765L,us,12359858,1905.045852,7677039,,Liberty hall,-0.774344
+414,1986,"Foster, Alan Dean,",1946,1986,22498,,multi,1986,m,teamred | chihorror | chiscifi | stew,New York Y,,us,,1974.947116,,Masai (Afr,Into the out of,-0.780854383
+170,1940,"Shute, Nevil,",1899,1940,11664,,non_genre,1940,m,chirandom | teamblack,New York: ,,uk,,1928.830817,,"World War,",Landfall,-0.788522851
+232,1957,"Moore, C. L.",1911,1957,20293,,scifi,1957,f,teamred | chiscifi,Garden Cit,,us,,1945.796371,,Science fi,Doomsday morning,-0.790794133
+73,1946,"Stout, Rex,",1886,1946,10828,,crime,1946,m,teamred | det100 | chimyst,New York V,,us,,1934.771208,,New York (,The silent speaker,-0.7924533
+378,1980,"Andrews, V. C.  (Virginia",,1980,21686,,gothic,1980,f,teamred | chihorror,New York S,,us,,1968.714785,,Mothers an,Petals on the wind,-0.796173716
+473,1921,"Traprock, Walter E.",1877,1921,4625,,non_genre,1921,m,chirandom | teamred,New York; ,,us,,1909.687954,,Oceania,The cruise of the Kawa : ,-0.79794287
+131,1929,"Berkeley, Anthony,",1893,1929,11252,,crime,1929,m,teamblack | chimyst,Garden Cit,,uk,,1917.665216,,Mystery fi,The poisoned chocolates c,-0.799442129
+422,1987,"Friedman, Kinky,",1944,1987,22678,,crime,1987,m,chirandom | teamred | chimyst,New York B,,us,,1975.569203,,Humorous f,A case of Lone Star,-0.805772942
+655,1888,AnonymousGhost,,1888,nnc1.0113307762,v.3,gothic,1888,,teamred | locghost,New York;W,,,43496979,1876.543514,8394195,Ghost stor,Weird tid-bits,-0.807466835
+47,1938,"Burroughs, Edgar Rice,",1875,1938,10542,,scifi,1938,m,teamred | chiscifi,New York; ,,us,,1926.522527,,Science fi,The lad and the lion,-0.808850653
+351,1977,"Leiber, Fritz,",1910,1977,21443,,scifi,1977,m,teamred | chifantasy | chiscifi,New York B,,us,,1965.512573,,Science fi,Our lady of darkness,-0.809506983
+926,1806,"Frances, Sophia L.",,1806,uiuo.ark+=13960=t86h4xr9x,v.1,gothic,1806,f,teamblack | stangothic | stew,"London;Printed at the Minerva Press, for Lane, Newman;1806.",,,77319848,1794.465895,8724127,,"Vivonio, or, The hour of retribution",-0.812584842
+755,1919,"Atherton, Gertrude Frankl",1857,1919,nyp.33433082251855,,non_genre,1919,f,teamred | random,New York;D,PZ3.A869Tr,us,909937,1907.4619,386065,,Transplanted;,-0.812848207
+316,1972,"Highsmith, Patricia,",1921,1972,21028,,crime,1972,f,chirandom | teamred | crime,New York A,,us,,1960.429782,,,A dog's ransom,-0.81496599
+120,1924,"Freeman, R. Austin,",1862,1924,11123,,crime,1924,m,teamblack | chimyst,New York; ,,uk,,1912.357203,,Mystery an,The red thumb mark,-0.819751655
+238,1959,"Heinlein, Robert A.",1907,1959,20374,,scifi,1959,m,teamblack | chiscifi | stew,New York P,,us,,1947.356471,,Juvenile w,Starship troopers,-0.819799933
+587,1882,"Oliphant,",1828,1883,mdp.39015063559390,,gothic,1882,f,teamred | pbgothic | stew,London;Mac,,uk,9086569,1870.344464,321854,,A little pilgrim in the u,-0.820591624
+59,1943,"Cain, James M.",1892,1943,10700,,crime,1943,m,hardboiled | chimyst | teamred,New York; ,,us,,1931.342953,,California,Double indemnity,-0.820691289
+405,1984,"MacLeod, Charlotte,",1922,1984,22221,,crime,1984,f,teamred | chimyst,Garden Cit,,us,,1972.321434,,Boston (Ma,The Convivial Codfish,-0.822110187
+448,1989,"Powers, Tim,",1952,1989,23165,,scifi,1989,m,teamred | chifantasy | chiscifi,New York A,,us,,1977.300332,,Science fi,The stress of her regard,-0.823501556
+601,1913,"Emerson, Alice B.",1869,1913,mdp.39015083943665,,crime,1913,f,teamblack | locdetmyst | juvenile | drop,New York;C,PZ7.E58RB,,3251839,1901.266829,9452081,Detective ,Ruth Fielding at Briarwoo,-0.825710671
+417,1987,"Anthony, Piers,",1934,1987,22609,,non_genre,1987,m,chifantasy | teamblack,New York B,,us,,1975.24898,,Music;Musi,Being a green mother,-0.826887601
+399,1983,"MacLeod, Charlotte,",1922,1983,22097,,crime,1983,f,chirandom | teamred | chimyst | stew,Garden Cit,,us,,1971.046899,,"Shandy, Pe",Something the cat dragged,-0.840212289
+372,1979,"Dickson, Gordon R,",1923,1979,21611,,scifi,1979,m,teamblack | chiscifi | stew,Garden Cit,,us,,1967.005358,,Science fi,Masters of Everon,-0.842951353
+464,1920,"Martin, Helen Reimensnyder,",1868,1920,4463,,non_genre,1920,f,chirandom | teamred,"Garden City; New York Doubleday, Page & Co. 1920",,us,,1907.9948,27,,The schoolmaster of Hessville,-0.843647516
+879,1807,"Grant, Anne MacVicar,",1755,1807,uc2.ark+=13960=t82j6cs08,v.1,non_genre,1807,f,teamblack | random,London;Lon,DA880.H6G6,uk,1113056,1794.889287,5777344,,Letters from the mountain,-0.850604765
+520,1840,"Ainsworth, William Harris",1805,1898,dul1.ark+=13960=t9n30pf1s,,crime,1840,m,newgate | teamblack,London;G. ,,uk,11360969,1827.863024,10943726,1702-1724;,Jack Sheppard ;,-0.85233651
+263,1964,"Kim, Richard E.",1932,1964,20592,,non_genre,1964,m,chirandom | teamred,New York G,,us,,1951.852621,,Korean War,The martyred,-0.853022461
+441,1989,"Crais, Robert,",1953,1989,23062,,crime,1989,m,teamred | chimyst,New York B,,us,,1976.840124,,Los Angele,Stalking the angel,-0.853846419
+259,1963,"Vonnegut, Kurt,",1922,1963,20563,,scifi,1963,m,teamblack | chiscifi,New York H,,us,,1950.783499,,Humorous f,Cat's Cradle,-0.857580174
+748,1892,"Bierce, Ambrose,",1842,1892,nyp.33433079897819,,non_genre,1892,m,teamblack | random,Chicago;F.,P23R479M,us,3173179,1879.726572,1027062,1866-;De C,The monk and the hangman',-0.861333742
+416,1986,"Kerr, Katharine,",1944,1986,22530,,non_genre,1986,f,teamred | chifantasy,Garden Cit,,us,,1973.723615,,Deverry (I,Daggerspell,-0.861528768
+235,1958,"Updike, John,",1932,1958,20352,,non_genre,1958,m,chirandom | teamblack, Greenwich,,us,,1945.69071,,Old age in,The poorhouse fair,-0.863698372
+811,1913,"Ford, Ford Madox,",1873,1913,uc1.b4095602,,non_genre,1913,m,teamblack | random,London;How,PR6011.O53M53,uk,3635323,1900.656785,390158,,Mr. Fleight,-0.865935355
+831,1888,"Haggard, H. Rider",1856,1888,uc2.ark+=13960=t1gh9jr4d,,crime,1888,m,teamred | det100,London;Spe,,uk,3789691,1875.648742,245281,,Mr. Meeson's will,-0.866465688
+602,1922,"Emerson, Alice B.",1869,1922,mdp.39015085351131,,crime,1922,f,teamred | locdetmyst | juvenile | drop,New York;C,,,237143141,1909.524599,7429484,Juvenile f,Ruth Fielding on the St. ,-0.874651323
+781,1898,"Shiel, M. P.",1865,1898,uc1.b244810,,scifi,1898,m,teamblack | anatscifi,London;Gra,,uk,599666,1885.474448,6499036,,The yellow danger,-0.877958123
+132,1929,"Christie, Agatha,",1890,1929,11255,,crime,1929,f,teamred | chimyst | cozy,New York D,,uk,,1916.465287,,England;Po,The Seven dials mystery,-0.878562167
+474,1922,"Burroughs, Edgar Rice,",1875,1922,4655,,scifi,1922,m,teamblack | chiscifi | stew,New York G,,us,,1909.458259,,Science fi,The chessmen of Mars,-0.879025593
+96,1950,"Fast, Howard,",1914,1950,10986,,non_genre,1950,m,chirandom | teamblack,Boston Lit,,us,,1937.456753,,United Sta,The proud and the free,-0.879124895
+286,1967,"Ellin, Stanley,",1916,1967,20734,,crime,1967,m,teamblack | chimyst,New York R,,us,,1954.40261,,Tutors and,House of cards,-0.882694901
+257,1963,"Caldwell, Taylor,",1900,1963,20533,,non_genre,1963,f,chirandom | teamblack,Garden Cit,,us,,1950.372887,,British Is,Grandmother and the pries,-0.884654798
+690,1799,"Robinson, Mary Darby,",1758,1799,nyp.33433074911771,v. 4,non_genre,1799,f,teamred | random,London;Pri,,uk,7021200,1786.3161,8663613,English fi,The false friend,-0.888399191
+770,1881,"Pinkerton, Allan,",1819,1909,uc1.$b813836,,crime,1881,m,teamred | locdetective | stew,New York;D,,us,,1868.253912,9946682,Detectives,The rail-road forger and ,-0.892499648
+401,1983,"Meade, Marion,",1934,1983,22107,,non_genre,1983,f,chirandom | teamblack,New York Morrow 1983,,us,,1970.208833,324,,Sybille,-0.895472056
+878,1904,"Orcutt, William Dana,",1870,1904,uc2.ark+=13960=t7tm74c51,,non_genre,1904,m,teamred | random,London;Hei,,us,23533090,1891.177235,1427113,sieur de;L,Robert Cavelier,-0.897555521
+393,1982,"Hubbard, L. Ron,",1911,1982,21967,,scifi,1982,m,chirandom | teamred | chiscifi,New York S,,us,,1969.175303,,Science fi,Battlefield earth,-0.897682908
+486,1959,"Jackson, Shirley,",1916,1959,JacksonHillHouse1959,,gothic,1959,f,teamblack | pbgothic | stew,,,us,,1946.143801,,,The Haunting of Hill House,-0.899760094
+292,1968,"Chappell, Fred,",1936,1968,20772,,gothic,1968,m,teamred | chihorror,New York H,,us,,1955.071217,,North Caro,Dagon,-0.90454609
+468,1921,"Burroughs, Edgar Rice,",1875,1921,4528,,scifi,1921,m,teamblack | chiscifi,New York G,,us,,1908.048684,,Science fi,The mucker,-0.906031832
+330,1974,"Harrison, Harry,",1925,1974,21179,,crime,1974,m,teamblack | chimyst,Garden Cit,,us,,1961.014183,,Mystery fi,Queen Victoria's revenge,-0.908306725
+81,1947,"Taine, John,",1883,1947,10874,,scifi,1947,,teamred | chiscifi,Pa. Fantas,,us,,1934.002592,,Science fi,The forbidden garden,-0.909070994
+447,1989,"McMurtry, Larry,",1936,1989,23139,,non_genre,1989,m,chirandom | teamblack,New York S,,us,,1975.893094,,Thalia (Te,Some can whistle,-0.916291053
+507,1906,"Ford, Douglas Morey.",1851,1906,dul1.ark+=13960=t1qf9cr59,,scifi,1906,m,teamblack | locscifi | stew,London;Gre,,uk,11452074,1892.715786,10943345,Home & Col,A time of terror,-0.927982217
+833,1919,"James, M. R.",1862,1919,uc2.ark+=13960=t1pg1k81k,,gothic,1919,m,teamred | pbgothic,New York;L,PZ3.J2355Th,uk,7557147,1905.654556,7661701,,A thin ghost and others,-0.932019598
+433,1987,"Williams, Walter Jon,",1953,1987,22803,,scifi,1987,m,chirandom | teamblack | chiscifi,New York; ,,us,,1973.564259,,Science fi,Voice of the whirlwind,-0.937973512
+795,1827,"Ward, R. Plumer",1765,1827,uc1.b3290572,v. 4,non_genre,1827,m,teamblack | random,London;H. ,,uk,16887275,1813.547549,6128720,,De Vere,-0.939075338
+339,1976,"L'Amour, Louis,",1908,1976,21335,,non_genre,1976,m,chirandom | teamblack,New York S,,us,,1962.543005,,Fugitives ,To the Far Blue Mountains,-0.93937495
+745,1922,"Wells, Carolyn,",1862,1922,nyp.33433076073893,,crime,1922,f,teamred | det100,New York;G,PS3545.E563V3 1922,us,9245716,1908.531606,8660082,,The vanishing of Betty Va,-0.940126584
+675,1888,"Goodman, E. J.",1836,1888,nyp.33433074864889,,non_genre,1888,m,teamred | supernatural | random,Leipzig;B.,,uk,486451,1874.395421,8665316,English fi,Too curious,-0.949106203
+810,1916,"Biggers, Earl Derr,",1884,1916,uc1.b3728033,,crime,1916,m,det100 | teamblack | stew,Indianapol,PZ3.B482APS3503.I54,us,1222065,1902.331804,6704620,Police;Hon,The agony column,-0.953300928
+681,1796,"Lewis, M. G.",1775,1796,nyp.33433074874300,v. 1,gothic,1796,m,teamblack | pbgothic,London;J. ,,uk,6566039,1782.310829,8665865,,The monk,-0.95468399
+429,1987,"Parker, Robert B.",1932,1987,22748,,crime,1987,m,teamblack | chimyst,New York D,,us,,1973.287029,,Spenser (F,Pale kings and princes,-0.956253273
+384,1981,"May, Julian,",1931,1981,21864,,scifi,1981,f,teamred | chiscifi | stew,Boston Hou,,us,,1967.157739,,Science fi,The many-colored land,-0.964778336
+166,1938,"Wright, S. Fowler,",1874,1938,11591,,scifi,1938,m,chirandom | chiutopia | teamblack | chiscifi | stew,London H. ,,uk,,1924.049878,,Science fi,The adventure of Wyndham ,-0.97189042
+343,1976,"Platt, Kin,",1911,1976,21356,,crime,1976,m,teamblack | chimyst,New York R,,us,,1961.880726,,Mystery fi,The body beautiful murder,-0.983043832
+331,1974,"Le Guin, Ursula K.",1929,1974,21187,,scifi,1974,f,chiutopia | chiscifi | teamred,New York  ,,us,,1959.649943,,Extraterre,The Dispossessed,-0.998261023
+318,1972,"Millhauser, Steven,",1943,1972,21043,,non_genre,1972,m,chirandom | teamred,New York Alfred A. Knopf 1972,,us,,1957.578049,501,Boys;Authors;Historical fiction,Edwin Mullhouse,-1.003001529
+234,1958,"Taylor, Robert Lewis,",1912,1958,20350,,non_genre,1958,m,chirandom | teamred,Garden Cit,,us,,1943.398544,,Travelers,The travels of Jaimie McP,-1.014837576
+302,1969,"Stout, Rex,",1886,1969,20855,,crime,1969,m,teamred | chimyst,New York V,,us,,1954.335532,,New York (,Death of a dude,-1.018992444
+224,1955,"Stout, Rex,",1886,1955,20205,,crime,1955,m,teamred | chimyst,New York V,,us,,1940.288959,,New York (,Before midnight,-1.022063331
+867,1796,"Burney, Fanny,",1752,1796,uc2.ark+=13960=t5t728t8q,v.3,non_genre,1796,f,teamblack | random,London;T. ,PR3316.A4C3 1796,uk,994380,1781.176526,7685802,,"Camilla: or, A picture of",-1.029476816
+454,1957,"Hoyle, Fred,",1915,1957,23487,,scifi,1957,m,teamblack | chiscifi,New York H,,uk,,1942.023046,,Science fi,The black cloud,-1.039596883
+902,1823,"Sullivan, Mary Ann.",,1823,uiuo.ark+=13960=t1ng5958h,v.2,gothic,1823,f,teamred | stangothic,London;A.K. Newman and Co.;1823.,,uk,82688894,1808.003217,8722137,823SU55O1823,"Owen Castle, or, Which is the heroine?",-1.0409044
+837,1922,"French, Joseph Lewis,",,1922,uc2.ark+=13960=t23b5ww6x,v.2,multi,1922,m,teamblack | locdetmyst | locghost,Garden Cit,PZ1.F885Ma,,39486112,1906.912041,7647543,Ghost stor,Masterpieces of mystery,-1.046916272
+457,1965,"Allingham, Margery,",1904,1965,23516,,crime,1965,f,teamblack | chimyst | stew,New York M,,uk,,1949.911998,,England;En,The mind readers,-1.046919126
+746,1916,"Wells, Carolyn,",1862,1916,nyp.33433076076144,,crime,1916,f,teamred | det100,New York;G,PZ3.W463Br,us,19933920,1900.828686,323903,,The bride of a moment,-1.052412474
+332,1974,"Platt, Kin,",1911,1974,21211,,crime,1974,m,teamred | chimyst | stew,New York R,,us,,1958.828205,,California,The giant kill,-1.052444156
+397,1983,"Coldsmith, Don,",1926,1983,22054,,non_genre,1983,m,chirandom | teamblack,Garden Cit,,us,,1967.794718,,Indians of,Follow the wind,-1.054652227
+741,1910,"Palmer, Frederick,",1873,1914,nyp.33433076060080,,non_genre,1910,m,teamblack | random,New York;M,PZ3.P182Bi,us,175242,1894.776867,449342,,The big fellow,-1.055829302
+944,1897,"Hardy, Thomas,",1840,1897,uva.x000459624,,non_genre,1897,m,teamblack | random,New York;H,PZ3.H222We3,uk,213515229,1881.653571,9775587,,The well-beloved;,-1.063959097
+154,1935,"Heyer, Georgette,",1902,1935,11462,,non_genre,1935,f,chirandom | teamblack,London; To,,uk,,1919.630009,,Large type,Regency buck,-1.065512715
+395,1982,"Montalbano, William D,",1941,1982,21999,,crime,1982,m,teamblack | chimyst | stew,New York A,,us,,1966.567972,,Drug traff,Trap line,-1.069603266
+177,1943,"Marsh, Ngaio,",1895,1943,11730,,crime,1943,f,chirandom | teamred | chimyst,Boston Lit,,nz,,1927.511858,,"Alleyn, Ro",Colour scheme,-1.073303219
+172,1941,"Heyer, Georgette,",1902,1941,11681,,non_genre,1941,f,chirandom | teamred,London Hei,,uk,,1925.415099,,Large type,Faro's daughter,-1.079683251
+136,1930,"Manning, Frederic,",1882,1930,11298,,non_genre,1930,m,chirandom | teamblack,London P. ,,au,,1914.353922,,"World War,",Her privates: we,-1.083717086
+74,1946,"Taine, John,",1883,1946,10829,,scifi,1946,,teamred | chiscifi | stew,Buffalo; P,,us,,1930.329596,,Science fi,The time stream,-1.085321118
+484,1934,"Dinesen, Isak,",1885,1934,DinesenGothicTales1934,,gothic,1934,f,teamblack | pbgothic | stew,,,da,,1918.328052,,,Seven Gothic Tales,-1.085422902
+543,1921,"Sackville-West, V.",1892,1922,mdp.39015002753815,,non_genre,1921,f,teamred | random,New York;G,PR6037.A35D7,uk,6139167,1905.289838,1377718,,The dragon in shallow wat,-1.087942647
+425,1987,"King, Stephen,",1947,1987,22708,,gothic,1987,m,teamred | pbgothic | chihorror,New York; ,,us,,1971.184257,,Fans (Pers,Misery,-1.094904381
+588,1816,"Burney, Sarah Harriet,",1772,1820,mdp.39015063759552,v.3,non_genre,1816,f,teamred | random,London;Pri,,uk,2567940,1800.161275,284012,,Tales of fancy,-1.096419758
+419,1987,"Braun, Lilian Jackson,",1913,1987,22628,,crime,1987,f,teamred | chimyst,New York J,,us,,1970.886431,,"Qwilleran,",The cat who played Brahms,-1.114542214
+455,1962,"Huxley, Aldous,",1894,1962,23507,,scifi,1962,m,chiutopia | chiscifi | teamred,New York H,,uk,,1945.841733,,Utopias;Oc,Island,-1.11748943
+108,1942,"Knight, Eric,",1897,1942,11073,,non_genre,1942,m,chirandom | teamblack,New York; ,,uk,,1925.634082,,,Sam Small flies again (Th,-1.131181405
+906,1802,"Melville, Theodore.",,1802,uiuo.ark+=13960=t2988vx2b,v.2,gothic,1802,m,teamblack | stangothic,London;Crosby and Letterman;1802.,,uk,52810973,1785.290651,8724257,,"The white knight, or, The monastery of Morne",-1.15382631
+559,1919,"Cabell, James Branch,",1879,1923,mdp.39015013429249,,gothic,1919,m,teamred | pbgothic,New York;R,,us,23922457,1902.139657,622799,,Jurgen,-1.163782461
+307,1970,"Silverberg, Robert,",1935,1970,20919,,scifi,1970,m,teamblack | chiscifi,Garden Cit,,us,,1953.10055,,Science fi,Downward to the earth,-1.166361055
+887,1894,"Theuriet, AndrÃ©,",1833,1894,uc2.ark+=13960=t9668pw05,,non_genre,1894,m,teamblack | random,New York;B,,fr,4203049,1876.898625,1801987,,The AbbÃ© Daniel,-1.179675402
+792,1913,"Abbott, Eleanor Hallowell",1872,1913,uc1.b3123600,,non_genre,1913,f,teamblack | random,New York;T,PZ3.A1324Wh,us,1019595,1895.830149,242309,,The white linen nurse,-1.184190548
+679,1859,"Hamel, Felix John.",,1859,nyp.33433074870266,,crime,1859,m,teamblack | locdetmyst,London;Sim,,uk,6263120,1841.800011,7660911,Criminals;,"Harry Roughton, or, Remin",-1.186177769
+409,1985,"Dick, Philip K,",1928,1985,22332,,non_genre,1985,m,chirandom | teamblack,Chicago; I,,us,,1967.74262,,Nineteen f,Puttering about in a smal,-1.189961982
+877,1918,"Webster, F. A. M.",1886,1918,uc2.ark+=13960=t7pn9035n,,non_genre,1918,m,teamred | random,London;McB,,uk,5954676,1900.709329,7676569,Ulster cyc,The hound of Cullan,-1.192157107
+335,1975,"Stasheff, Christopher,",1944,1975,21288,,non_genre,1975,m,chirandom | chifantasy | teamblack,New York G,,us,,1957.695114,,Gallowglas,The warlock in spite of h,-1.193094378
+188,1949,"Wentworth, Patricia,",1878,1949,11896,,non_genre,1949,f,chirandom | teamred,Philadelph,,uk,,1931.661489,,"Silver, Ma",The Catherine-wheel,-1.195311524
+269,1965,"Nabokov, Vladimir Vladimi",1899,1965,20649,,non_genre,1965,m,chirandom | teamred,New York P,,us,,1947.561478,,Russians -,The eye,-1.201905997
+402,1983,"Spellman, Cathy Cash,",1941,1983,22133,,non_genre,1983,f,chirandom | teamred,New York D,,us,,1965.479249,,Irish Amer,So many partings,-1.207327928
+365,1978,"Peters, Elizabeth,",1927,1978,21565,,crime,1978,f,teamred | chimyst,New York D,,us,,1960.439883,,"Bliss, Vic",Street of the five moons,-1.209923648
+450,1989,"Somtow, S. P,",1952,1989,23200,,gothic,1989,m,teamblack | chihorror | stew,New York T,,us,,1971.359991,,Dakota Ind,Moon dance,-1.215191487
+327,1973,"Spencer, Scott,",1945,1973,21142,,non_genre,1973,m,chirandom | teamblack,Boston Hou,,us,,1955.280635,,,Last night at the brain t,-1.220423976
+934,1809,"Frances, Sophia L.",,1809,uiuo.ark+=13960=t9f481w8n,v.1,gothic,1809,f,teamred | stangothic,London;H. Colburn;1809.,,uk,22350460,1791.220508,8718092,,"Angelo Guicciardini, or, The bandit of the Alps",-1.224388593
+709,1802,"Cullen, Margaret.",,1802,nyp.33433074954979,v. 4,non_genre,1802,f,teamred | random,London;J. Mawman;1802.,,uk,13320564,1783.953905,8690927,English fiction,Home,-1.241967693
+758,1848,"St. Clair, Henry.",,1848,nyp.33433082514187,,gothic,1848,m,teamred | locghost | stew,Philadelph,,,18453068,1829.905618,8654255,Supernatur,"Tales of terror; or, The ",-1.245151612
+844,1913,"Green, Anna Katharine,",1846,1913,uc2.ark+=13960=t3222sk2s,,crime,1913,us,det100 | teamblack,New York;A,,us,21893050,1894.775617,7660530,,"Room number 3, and other ",-1.253723498
+873,1922,"French, Joseph Lewis,",,1922,uc2.ark+=13960=t70v8bj6k,v.3,multi,1922,m,teamblack | locdetmyst | locghost,Garden Cit,PZ1.F885Ma,,39486112,1903.773809,7647543,Ghost stor,Masterpieces of mystery,-1.253842726
+428,1987,"Morrison, Toni",1931,1987,22741,,gothic,1987,f,teamblack | pbgothic,New York: ,,us,,1968.765581,,Ohio;Infan,Beloved,-1.254385239
+458,1969,"Du Maurier, Daphne,",1907,1969,23531,,non_genre,1969,f,chifantasy | teamblack,Garden Cit,,uk,,1950.659222,,Fantasy;Ti,The house on the strand,-1.261398287
+252,1962,"Clifton, Mark,",1906,1962,20485,,scifi,1962,m,teamblack | chiscifi,Garden Cit,,us,,1943.637474,,Science fi,When they come from space,-1.262832302
+759,1920,"French, Joseph Lewis,",,1920,nyp.33433082514302,,gothic,1920,m,teamred | locghost | stew,New York;B,PZ1.F885Be,,1698283,1901.542112,1441797,Ghost stor,The best psychic stories,-1.269120232
+324,1973,"Malzberg, Barry N,",1939,1973,21116,,scifi,1973,m,chirandom | teamblack | chiscifi,New York R,,us,,1954.449483,,Science fi,Herovit's world,-1.275227903
+733,1892,"Theuriet, AndrÃ©,",1833,1892,nyp.33433075843544,,non_genre,1892,m,teamred | random,Chicago;La,PZ3.T344Y,fr,37627191,1873.228334,8675986,,A young man of the period,-1.289809884
+657,1841,"Sinclair, Catherine,",1800,1841,nnc1.1002365251,v.1,non_genre,1841,f,teamblack | random,Edinburgh;,,uk,24987502,1821.787137,7922816,,Modern flirtations,-1.318901191
+829,1914,"Bell, J. J.",1871,1914,uc2.ark+=13960=t1bk18j97,,non_genre,1914,m,teamblack | random,"New York, ",,uk,1957658,1894.660973,7650861,,The misadventures of Jose,-1.327220103
+87,1948,"Smith, E. E.",1890,1948,10917,,scifi,1948,m,teamred | chiscifi,Pa. Fantas,,us,,1928.61516,,Science fi,Skylark three,-1.330240908
+827,1908,"Harding, Ellison.",1883,1908,uc2.ark+=13960=t10p0xs0f,,scifi,1908,m,teamblack | locscifi,London;T. ,,us,11601379,1888.52655,6533865,Utopias;Sc,The woman who vowed,-1.336083568
+426,1987,"Logue, John,",1933,1987,22723,,non_genre,1987,m,chirandom | teamblack,Boston Lit,,us,,1967.469911,,Autographs,Boats against the current,-1.339818217
+720,1920,"Shanks, Edward,",1892,1920,nyp.33433075746812,,scifi,1920,m,teamblack | anatscifi | stew,New York;F,,uk,5208175,1900.38758,8667895,Time trave,The people of the ruins,-1.345246922
+7,1933,"Herrick, Robert,",1868,1933,10108,,scifi,1933,m,chiutopia | teamblack,New York F,,us,,1913.23025,,Utopias;Ut,Sometime,-1.355620804
+608,1905,"Dickens, Charles,",1812,1905,mdp.39076002621501,,gothic,1905,m,teamred | locghost,London;Den,,uk,12308040,1885.146824,9929809,"Scrooge, E",A Christmas carol in pros,-1.361121677
+237,1959,"Gardner, Erle Stanley,",1889,1959,20371,,crime,1959,m,teamred | det100 | chimyst,New York M,,us,,1938.914224,,Mystery fi,The case of the deadly to,-1.37645867
+752,1875,"Optic, Oliver,",1822,1875,nyp.33433082168877,,non_genre,1875,m,teamblack | random,Boston;Lee,,us,12169066,1854.875082,8658097,American f,"Getting an indorser, and ",-1.379039641
+664,1918,"French, Joseph Lewis,",,1918,nyp.33433068179559,,gothic,1918,m,teamblack | locghost | stew,New York;D,PZ1.F885Gr,,1049048,1897.772396,8622021,Ghost stor,"Great ghost stories, sele",-1.385810482
+274,1966,"Alexander, Lloyd,",1924,1966,20671,,non_genre,1966,m,teamred | chifantasy,New York H,,us,,1945.597779,,Fantasy fi,The castle of Llyr,-1.397324214
+381,1980,"Kurland, Michael,",1938,1980,21749,,scifi,1980,m,teamred | chiscifi,New York M,,us,,1959.522973,,Science fi,The last President,-1.402256708
+459,1970,"White, Patrick,",1912,1970,23537,,non_genre,1970,m,chirandom | teamred,New York V,,au,,1949.513442,,Art;Painte,The vivisector,-1.402885201
+181,1946,"Forester, C. S.",1899,1946,11803,,non_genre,1946,m,chirandom | teamblack,Boston Lit,,uk,,1924.913893,,Great Brit,Lord Hornblower,-1.442417772
+912,1847,"Cobbold, Richard,",1797,1847,uiuo.ark+=13960=t3vt1zh5r,v.2,non_genre,1847,m,teamred | random,London;H. ,,uk,21238914,1825.903108,8405108,Fiction;Pr,Zenon,-1.443128958
+443,1989,"Goldsborough, Robert,",1937,1989,23092,,crime,1989,m,chirandom | teamblack | chimyst,New York B,,us,,1967.628586,,New York (,The last coincidence,-1.461230137
+169,1939,"Freeman, R. Austin,",1862,1939,11606,,crime,1939,m,teamred | chimyst,London Hod,,uk,,1916.813477,,"Thorndyke,",The stoneware monkey,-1.514976264
+654,1888,AnonymousGhost,,1888,nnc1.0111708131,v.1,gothic,1888,,teamblack | locghost | stew,New York;W,,,43496979,1865.540278,8394195,Ghost stor,Weird tid-bits,-1.532990217
+714,1922,"Dougherty, Harry V.",1873,1922,nyp.33433074968417,,crime,1922,m,teamred | locdetmyst,Boston;Ric,PZ3.D7452We,us,7254452,1899.359541,8664999,Detective ,Well-- who killed him?,-1.544907527
+273,1965,"Traver, Robert,",1903,1965,20665,,non_genre,1965,m,chirandom | teamblack,New York M,,us,,1942.083756,,Ojibwa Ind,Laughing whitefish,-1.563092035
+535,1913,"Knight, Arthur Lee.",,1913,inu.30000118528748,,non_genre,1913,m,teamred | random,London;G. ,,uk,5194382,1889.780568,6953506,Mahratta (,Told in the Indian twilig,-1.583083421
+411,1985,"MacLeod, Charlotte,",1922,1985,22375,,crime,1985,f,teamred | chimyst,Garden Cit,,us,,1961.309365,,Boston (Ma,The plain old man,-1.614153286
+569,1903,"Lafargue, Paul,",1842,1904,mdp.39015030365178,,non_genre,1903,m,teamblack | random,Chicago;C.,,fr,6841493,1879.00249,2139204,,The sale of an appetite,-1.634387762
+438,1988,"Hess, Joan,",1949,1988,22904,,crime,1988,f,teamblack | chimyst | stew,New York S,,us,,1963.964912,,Arkansas;H,Mischief in Maggody,-1.636865604
+344,1976,"Rice, Anne",1941,1976,21362,,gothic,1976,f,teamblack | pbgothic,New York: ,,us,,1951.869756,,Vampires;L,Interview with the vampir,-1.643139874
+658,1900,"Tarkington, Booth,",1869,1917,nnc1.cu01664417,,non_genre,1900,m,teamblack | random,New York;C,,us,15737319,1875.866601,8418429,,Monsieur Beaucaire,-1.643347956
+231,1957,"Malvern, Gladys,",1897,1957,20290,,non_genre,1957,f,chirandom | teamblack,Philadelph,,us,,1932.123066,,,My lady: my love,-1.692374635
+943,1913,"Leblanc, Maurice,",1864,1913,uva.x000429691,,crime,1913,m,teamred | det100,New York;W,,fr,7270815,1887.822762,9781843,,The confessions of ArsÃ¨ne,-1.712175864
+190,1950,"Bentley, E. C.",1875,1950,11903,,non_genre,1950,m,chifantasy | teamblack,New York A,,uk,,1923.902619,,Gangs;Amne,Elephant's work,-1.772847551
+680,1907,"Hewlett, Maurice,",1861,1907,nyp.33433074870282,,non_genre,1907,m,teamred | random,New York;D,PZ3.H498St,uk,2359966,1880.346835,449471,,The stooping lady,-1.809494443
+299,1969,"Nabokov, Vladimir Vladimi",1899,1969,20837,,non_genre,1969,m,chirandom | teamblack,New York M,,us,,1940.756807,,Teachers;E,Ada,-1.914336537
+528,1912,"Gowans, Adam L.",,1912,ien.35556027278860,,gothic,1912,m,teamblack | locghost,London;Gow,,,1238387,1883.320452,11922564,Ghost stor,Famous ghost-stories by E,-1.943108639
+653,1888,AnonymousGhost,,1888,nnc1.0040976025,v.4,gothic,1888,,teamblack | locghost,New York;W,,,43496979,1858.820738,8394195,Ghost stor,Weird tid-bits,-1.976058399
+777,1922,"Lewis, Sinclair,",1885,1922,uc1.32106002123104,,non_genre,1922,m,teamred | random,New York;H,PZ3.L5884Ba,us,1024921,1892.611045,628755,,Babbitt,-1.989884994
+785,1898,"Barr, Amelia Edith Huddle",1831,1898,uc1.b249543,,non_genre,1898,f,teamblack | random,New York;D,,uk,2949584,1868.554173,6502085,,The lost silver of Briffa,-1.993634961
+652,1888,AnonymousGhost,,1888,nnc1.0040976017,v.2,gothic,1888,,teamblack | locghost | stew,New York;W,,,43496979,1857.676402,8394195,Ghost stor,Weird tid-bits,-2.051512783
+110,1944,"Joyce, James,",1882,1944,11081,,non_genre,1944,m,chirandom | teamred,New York N,,ir,,1913.542182,,Young men ,Stephen hero,-2.06036288
+565,1800,"Hamilton, Elizabeth,",1756,1801,mdp.39015023189999,v.3,non_genre,1800,f,teamred | random,"London;Printed for G. G. and J. Robinson, by R. Noble;1801.",PZ3.H183M 2,uk,10387619,1768.842576,245494,,Memoirs of modern philosophers,-2.106492985
+889,1922,"French, Joseph Lewis,",,1922,uc2.ark+=13960=t9c53g45j,v.1,multi,1922,m,teamblack | locdetmyst | locghost,Garden Cit,PZ1.F885Ma,,39486112,1890.53341,7647543,Ghost stor,Masterpieces of mystery,-2.12687856
+258,1963,"Kerouac, Jack,",1922,1963,20544,,non_genre,1963,m,chirandom | teamblack,"New York Farrar, Straus & Co. 1963",,us,,1931.432692,363,Beat generation;Page proofs (Printing),Visions of Gerard,-2.13351967
+633,1922,"Munford, George Frederick",,1922,njp.32101067301786,,gothic,1922,m,teamblack | locghost | stew,London;Som,PR8389.S575M8 1922a,,20905368,1890.187188,8957320,England;Le,Ghosts and legends of Sou,-2.149707522
+705,1915,"Cresswell, Clarice M.",,1915,nyp.33433074949615,,non_genre,1915,m,teamred | random,New York;D,,us,16940711,1882.494721,8664711,,The making and breaking o,-2.195366876
+772,1922,"Forrest, Michael D",1883,1922,uc1.31822033251729,,non_genre,1922,m,teamred | random,Kensington,PR8208.O719F38 1922,au,37069539,1889.215309,7255477,Missions;C,Father Justin,-2.213790535
+423,1987,"Guild, Nicholas,",,1987,22685,,non_genre,1987,m,chirandom | teamblack,New York A,,us,,1953.842617,,Assyria;Mi,The Assyrian,-2.238364853
+295,1969,"Davidson, Avram,",1923,1969,20819,,scifi,1969,m,teamblack | chiscifi,Garden Cit,,us,,1935.244519,,Science fi,The phoenix and the mirro,-2.277801775
+240,1959,"Nin, Anais,",1903,1959,20390,,non_genre,1959,f,chirandom | teamred," Denver, S",,us,,1924.217639,,Arts;Balle,Children of the albatross,-2.345511504
+435,1988,"Engh, M. J,",1933,1988,22878,,scifi,1988,f,teamred | chiscifi,New York T,,us,,1953.171494,,Science fi,Wheel of the winds,-2.348554166
+88,1948,"Wilder, Thornton,",1897,1948,10922,,non_genre,1948,m,chirandom | teamred,New York: ,,us,,1912.600966,,Heads of s,The ides of March,-2.386173227
+884,1922,"French, Joseph Lewis,",,1922,uc2.ark+=13960=t93776z9n,v.4,multi,1922,m,teamblack | locdetmyst | locghost | stew,Garden Cit,PZ1.F885Ma,,39486112,1885.896041,7647543,Ghost stor,Masterpieces of mystery,-2.432654079
+460,1987,"Gregory, Philippa,",1954,1987,23601,,non_genre,1987,f,chirandom | teamred,New York S,,uk,,1949.818886,,Sussex (En,Wideacre,-2.50367869
+189,1949,"Wright, S. Fowler,",1874,1949,11900,,scifi,1949,m,teamred | chiscifi,New York W,,uk,,1910.654165,,Science fi,The Amphibians,-2.580477268
+891,1909,"Egan, Maurice Francis,",1852,1909,uc2.ark+=13960=t9s17v81t,,non_genre,1909,m,teamblack | random,New York;T,PZ3.E28W,us,2067017,1869.041761,6501599,,The wiles of Sexton Magin,-2.686794777
+650,1888,AnonymousGhost,,1888,nnc1.0022035958,v.5,gothic,1888,,teamred | locghost | stew,New York;W,,,43496979,1847.888677,8394195,Ghost stor,Weird tid-bits,-2.696888732
+461,1920,"James, Henry,",1843,1920,4449,,non_genre,1920,m,chirandom | teamblack,New York T,,us,,1878.828785,,,Master Eustace,-2.76677513
+467,1921,"Bennett, John,",1865,1921,4514,,non_genre,1921,m,teamred | chifantasy,New York C,,us,,1879.108434,,Mothers an,Madame Margot,-2.814273097
+825,1909,"Hawthorne, Julian,",1846,1909,uc2.ark+=13960=t0pr7n71q,v.9,crime,1909,m,det100 | teamblack | stew,New York;T,PZ1.H31Lo,us,296462,1865.923815,1463577,,The lock and key library:,-2.892383607
+109,1942,"Lewis, C. S.",1898,1942,11074,,non_genre,1942,m,chirandom | chifantasy | teamblack,London Collins 1942,,uk,,1897.435564,10,Christianity;Christianisme -- 20e siÃ¨cle;Christianity -- 20th century;Devil;Religious fiction,The Screwtape letters,-2.99051482
+361,1978,"Estleman, Loren D,",1952,1978,21519,,multi,1978,m,teamred | chimyst | chihorror,Garden Cit,,us,,1931.91622,,England;Dr,Sherlock Holmes vs. Dracu,-3.090696286
+550,1921,"Rhys, Ernest,",,1921,mdp.39015005108595,,gothic,1921,m,teamred | locghost,London;D. ,PZ1.R35Ha,,1154670,1874.35304,1277224,Ghost stor,The haunters & the haunte,-3.127830802
+145,1932,"Bramah, Ernest,",1869,1932,11358,,non_genre,1932,m,chifantasy | teamblack,London etc,,uk,,1877.399478,,Fantasy fi,The moon of much gladness,-3.652267046
+311,1971,"Geissler, Ludwig A,",,1971,20956,,scifi,1971,m,chiutopia | chiscifi | teamred | stew,New York A,,us,,1892.562847,,Science fi,Looking beyond,-5.223989526
