@@ -1,7 +1,7 @@
 import pandas as pd
 #load guteneberg IDs I want
-df = pd.DataFrame("meta/finalmeta.csv")
-df = df.loc[df['source']== 'gutenberg']
+df = pd.read_csv("meta/finalmeta.csv")
+df = df.loc[df['source'] == 'gutenberg']
 
 ids = list(df['gutenberg_id'])
 
