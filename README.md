@@ -35,7 +35,13 @@ Need to add in syllables per word analysis and add to output db
 # Metadata
 
 # Generating Pickle files
-csv_meta_to_pickle requires meta/finalmeta.csv
+
+### Best Order of pickle scripts
+csv_to_pickle.py ... pulls from meta/finalmeta.csv, converts full text to tsvs and slices gutenberg headers and footers
+csv_meta_to_pickle.py ...
+original genres ... only runs on underwood_genres texts, bit essential but might use this later
+lavin_to_csv_and_pickle.py
+
 csv_to_pickle needs to be edited to get gutenberg and manual files
 
 

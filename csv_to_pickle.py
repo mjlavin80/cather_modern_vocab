@@ -1,5 +1,6 @@
 import pickle
 import csv
+import re
 
 dict_of_10k = {}
 with open ("lexicon/new10k.csv", "r") as myfile:
@@ -17,13 +18,26 @@ full_feature_dicts = []
 feature_dicts = []
 excluded_ids = []
 
+found = False
 for _id in docids:
-    #process if Gutenberg_ID
-    #process if originates genres_corpus
+    #handle semicolon data
+    _id = _id.replace(";", "_")
+
+    #try as if it's in gutenberg_full_text
     try:
         full_fdict = {}
         fdict = {}
-        with open("txts/genres_corpus/%s.fic.tsv" % str(_id)) as f:
+        with open("txts/gutenberg_full_text/%s.txt" % str(_id)) as f:
+            s = f.read()
+            
+
+    #try as if it's others_full_text
+
+    #process from genrescorpus
+    try:
+        full_fdict = {}
+        fdict = {}
+        with open("txts/genrescorpus/%s.fic.tsv" % str(_id)) as f:
             s = f.read()
             s = s.replace("\n\"\t", "\n\\\"\t")
             row = s.split("\n")
@@ -42,7 +56,8 @@ for _id in docids:
         full_feature_dicts.append(full_fdict)
         feature_dicts.append(fdict)
     except:
-        print(_id)
+        pass
+    if not found:
         excluded_ids.append(_id)
 
 pickle.dump(feature_dicts, open( "pickled_data/feature_dicts_10k.p", "wb" ))
