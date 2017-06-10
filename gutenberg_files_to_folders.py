@@ -22,7 +22,7 @@ def strip_hf(gutenberg_text):
         if i == "<begin>":
             start = True
     #m_tokens_culled[:100], m_tokens_culled[-100:-1]
-    return m_tokens_culled
+    return " ".join(m_tokens_culled)
 
 #load guteneberg IDs I want
 df = pd.read_csv("meta/finalmeta.csv")
@@ -31,7 +31,7 @@ df = df.loc[df['source'] == 'gutenberg']
 ids = list(df['gutenberg_id'])
 
 for _id in ids:
-    _id = _id.replace(" ", "").split(";")
+    _id = _id.split(";")
     all_text = []
     for i in _id:
         #remember to ignore \_excerpt files;
@@ -41,13 +41,13 @@ for _id in ids:
                 #find corresponding txt folder, open file
                 with open(location) as f:
                     txt = f.read()
+                #remove headers and footers before you join
+                all_text = [strip_hf(z) for z in all_text]
                 all_text.append(txt)
                 full_text = " ".join(all_text)
                 #copy the file to repo with the same name, join multivolume
 
-                #remove headers and footers before you join
-                _id = [strip_hf(z) for z in _id]
-                joined = "_".join(" ".join([e for e in _id])
+                joined = "_".join(_id)
                 new_location = "txts/gutenberg_full_text/"+joined+".txt"
                 with open(new_location, 'a') as fn:
                     fn.write(txt)
