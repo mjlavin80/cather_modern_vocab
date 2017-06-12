@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+pickled_data
+txts/other_full_text
+
