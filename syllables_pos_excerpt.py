@@ -1,7 +1,21 @@
+import spacy
+import pickle
+from random import shuffle
+import csv
+import re
+from collections import Counter
+import pandas as pd
+import string
 import curses
+import sqlite3
+import numpy as np
 import nltk
+
 from nltk.corpus import cmudict
+print("Loading libraries")
+nlp = spacy.load('en')
 d = cmudict.dict()
+
 
 def nsyl(word):
    return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
@@ -21,15 +35,22 @@ and yellow fields. The light steel windmills tremble throughout
 their frames and tug at their moorings, as they vibrate in the wind
 that often blows from one week’s end to another across that high,
 active, resolute stretch of country."""
+
+doc = nlp(passage)
+
 tokens = passage.split(" ")
 result = []
-for i in tokens:
+
+for v,i in enumerate(doc):
+    stripped = i.text.translate(str.maketrans('','',string.punctuation))
+    stripped = i.text.translate(str.maketrans('','','1234567890'))
     try:
-        tag = "<term syllable_count=\'%s\'>%s</term>" % (nsyl(i), i)"
+        tag = "<term pos=\'%s\' syllable_count=\'%s\'>%s</term>" % (i.pos_, nsyl(stripped), i.text)
         result.append(tag)
     except:
-        tag = <"term syllable_count=\'%s\'>%s</term>" % ("", i)
+        tag = "<term pos=\'%s\' syllable_count=\'%s\'>%s</term>" % (i.pos_, "", i.text)
         result.append(tag)
 with open("tagged_excerpt.txt", "a") as out:
+    out.write(passage+"\n\n")
     for e in result:
-        out.write(result, " ")
+        out.write(e+"\n")
