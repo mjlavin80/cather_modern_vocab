@@ -58,12 +58,12 @@ for i in full_feature_dicts:
 #load metadata for db output
 metadata = pickle.load( open( "pickled_data/metadata.p", "rb" ) )
 
-#print(len(metadata), len(full_feature_dicts))
+print(len(metadata), len(full_feature_dicts))
 
 for i, _dict in enumerate(feature_dicts_no_stops):
     is_resample = 0
     _tuples = _dict.items()
-    doc_id = metadata[i][0]
+    doc_id = metadata[i][3]
     expanded = counts_to_shuffled(_tuples)
 
     if len(expanded) > 1000:
@@ -79,21 +79,4 @@ for i, _dict in enumerate(feature_dicts_no_stops):
         #store in db ... make each a row, all the same
         c.execute(insert, row)
         conn.commit()
-        expanded = numpy.asarray(expanded)
-
-        #run is_resample 5k, all calcs
-        resampled = []
-        for i in range(100):
-            a = resample(expanded, n_samples=5000)
-            resampled.append(a)
-
-        for res in resampled:
-            is_resample= 1
-            tt_ratio = float(len(set(res)))/5000
-            results = run_all_ratios(res, set(res), oed_dictionary, dictcom_dictionary, walker_dictionary)
-            #to db
-            row = [is_resample, test_train, doc_id, tt_ratio]
-            row.extend(results)
-            #store in db ... make each a row, all the same
-            c.execute(insert, row)
-            conn.commit()
+        #expanded = numpy.asarray(expanded)

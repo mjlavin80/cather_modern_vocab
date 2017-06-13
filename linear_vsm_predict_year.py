@@ -17,10 +17,11 @@ metadata = pickle.load( open( "pickled_data/metadata.p", "rb" ) )
 feature_dicts = pickle.load( open( "pickled_data/feature_dicts_10k.p", "rb" ) )
 #print(len(metadata), len(feature_dicts))
 
+
 def predict_years(metadata, feature_dicts):
 
-    all_years = [int(i[8]) for i in metadata]
-    all_ids = [i[0] for i in metadata]
+    all_years = [int(i[1]) for i in metadata]
+    all_ids = [i[4] for i in metadata]
     myrange = list(range(0, len(metadata)))
     shuffle(myrange)
 
@@ -64,7 +65,7 @@ def predict_years(metadata, feature_dicts):
         m = abs(j - test_years[i])
         margin.append(m)
         row = [test_ids[i], j, test_years[i], m]
-        rows.append(row)
+        result_rows.append(row)
 
     mean = np.mean(margin)
     main_row = [test_ids_str, train_ids_str, mean]
@@ -91,7 +92,7 @@ def store_results(main_row, result_rows):
         c.execute(insert_result, new_row)
     conn.commit()
 
-for z in range(300):
+for z in range(500):
     if z % 10 == 0:
         print(z)
     result_tuple = predict_years(metadata, feature_dicts)
